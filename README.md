@@ -1,4 +1,4 @@
-# Magela — Base Nacional de Eventos Acadêmicos em Currículos Lattes
+# Construção de uma Base Nacional Curada para Consulta, Normalização e Certificação de Eventos Científicos
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%2F%203.13-blue)
 ![Ocorrências](https://img.shields.io/badge/ocorr%C3%AAncias-81.029.436-green)
@@ -481,8 +481,7 @@ compartilhada com os CSVs está em `maisInformacoes.txt`.
 - **Ferramentas:** Python (biblioteca padrão `csv`, `zipfile`,
   `xml.etree.ElementTree`), pandas, NLTK, Matplotlib, GeoPandas, Plotly,
   OpenPyXL, WinRAR e Datawrapper.
-- **Projeto:** Projeto Magela — PIBIC Jr., construção de base nacional curada
-  para consulta, normalização e certificação de eventos acadêmicos.
+- **Projeto:** PIBIC Jr. - Construção de uma Base Nacional Curada para Consulta, Normalização e Certificação de Eventos Científicos
 
 Os dados derivados de currículos públicos devem ser utilizados em conformidade
 com as políticas de uso da Plataforma Lattes/CNPq.
