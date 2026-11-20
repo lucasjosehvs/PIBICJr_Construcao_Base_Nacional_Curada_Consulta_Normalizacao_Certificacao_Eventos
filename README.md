@@ -6,7 +6,7 @@
 ![Base](https://img.shields.io/badge/status-base%20consolidada-brightgreen)
 
 > **Resumo.** Este repositório reúne o código, os dados derivados e os produtos
-> analíticos do Projeto Magela: um pipeline de extração, limpeza, normalização,
+> analíticos do Projeto Construção de uma Base Nacional Curada para Consulta, Normalização e Certificação de Eventos Científicos: um pipeline de extração, limpeza, normalização,
 > deduplicação, quantificação e visualização de **registros de eventos
 > acadêmicos** presentes em currículos da Plataforma Lattes (CNPq). A base
 > consolidada contém **81.029.436 ocorrências**, distribuídas em quatro
