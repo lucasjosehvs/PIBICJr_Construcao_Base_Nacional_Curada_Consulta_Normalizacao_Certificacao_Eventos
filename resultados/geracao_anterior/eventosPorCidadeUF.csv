@@ -1,0 +1,215 @@
+CIDADE-DO-EVENTO;ESTADO;OCORRENCIAS;EVENTOS-DISTINTOS;AMBIGUA
+fortaleza;CE;5808;193;0
+sao paulo;SP;5744;415;0
+rio janeiro;RJ;5030;310;0
+belo horizonte;MG;3652;183;0
+recife;PE;2586;199;0
+marilia;SP;2350;79;0
+goiania;GO;2196;129;0
+araraquara;SP;1974;57;0
+curitiba;PR;1906;224;0
+lajeado;RS;1564;91;1
+lajeado;TO;1564;91;1
+aguas lindoia;SP;1398;41;0
+sao carlos;SC;1364;52;1
+sao carlos;SP;1364;52;1
+passos;MG;1330;22;0
+salvador;BA;1170;65;0
+campinas;SP;1120;54;0
+porto alegre;RS;1044;74;0
+ponta grossa;PR;984;19;0
+pelotas;RS;966;37;0
+florianopolis;SC;942;57;0
+ribeirao preto;SP;904;33;0
+brasilia;DF;838;79;0
+belem;AL;816;42;1
+belem;PA;816;42;1
+belem;PB;816;42;1
+foz iguacu;PR;752;37;0
+uberaba;MG;500;39;0
+londrina;PR;498;21;0
+joao pessoa;PB;428;27;0
+natal;RN;388;31;0
+maringa;PR;350;16;0
+bauru;SP;316;15;0
+guaruja;SP;304;6;0
+vitoria;ES;296;21;0
+ituiutaba;MG;280;3;0
+maceio;AL;278;12;0
+gramado;RS;274;19;0
+sao luis;MA;274;15;0
+teresina;PI;242;19;0
+indaiatuba;SP;240;14;0
+porto seguro;BA;234;7;0
+rio claro;RJ;230;8;1
+rio claro;SP;230;8;1
+uberlandia;MG;224;10;0
+piracicaba;SP;200;10;0
+itajai;SC;200;10;0
+aguas sao pedro;SP;198;6;0
+campos jordao;SP;194;7;0
+atibaia;SP;184;7;0
+rio grande;RS;184;9;0
+caxambu;MG;180;9;0
+ouro preto;MG;174;12;0
+vicosa;AL;170;12;1
+vicosa;MG;170;12;1
+vicosa;RN;170;12;1
+santa cruz sul;RS;164;13;0
+guarapuava;PR;164;5;0
+santos;SP;162;10;0
+buenos aires;PE;160;15;0
+bebedouro;SP;160;1;0
+niteroi;RJ;154;14;0
+pocos caldas;MG;150;3;0
+manaus;AM;148;13;0
+barcelona;RN;142;12;0
+sao jose rio preto;SP;140;7;0
+canoas;RS;138;9;0
+campina grande;PB;128;8;0
+campo grande;AL;122;9;1
+campo grande;MS;122;9;1
+sao leopoldo;RS;110;8;0
+coimbra;MG;110;10;0
+blumenau;SC;106;8;0
+botucatu;SP;100;9;0
+divinopolis;MG;100;3;0
+carangola;MG;90;4;0
+passo fundo;RS;88;5;0
+santa maria;RN;86;6;1
+santa maria;RS;86;6;1
+caruaru;PE;82;8;0
+pirenopolis;GO;82;4;0
+ijui;RS;80;3;0
+aracatuba;SP;80;5;0
+frutal;MG;80;2;0
+muzambinho;MG;80;1;0
+aracaju;SE;78;9;0
+cascavel;CE;70;5;1
+cascavel;PR;70;5;1
+novo hamburgo;RS;66;9;0
+joinville;SC;66;7;0
+sao bernardo campo;SP;64;7;0
+presidente prudente;SP;60;5;0
+jaboticabal;SP;60;5;0
+sete lagoas;MG;60;3;0
+cuiaba;MT;54;7;0
+caxias sul;RS;50;7;0
+sao joao del rei;MG;50;4;0
+pirassununga;SP;50;4;0
+bento goncalves;RS;50;2;0
+barretos;SP;50;3;0
+franca;SP;50;3;0
+olinda;PE;44;5;0
+sao luiz;RR;40;3;0
+macae;RJ;40;4;0
+caldas novas;GO;40;4;0
+jundiai;SP;40;4;0
+boa vista;PB;40;4;1
+boa vista;RR;40;4;1
+guarulhos;SP;40;3;0
+balneario camboriu;SC;40;2;0
+nova lima;MG;40;3;0
+bage;RS;36;1;0
+sao jose campos;SP;34;4;0
+sao pedro;RN;32;3;1
+sao pedro;SP;32;3;1
+monte azul paulista;SP;30;2;0
+sao lourenco;MG;30;2;0
+barbacena;MG;30;2;0
+venda nova imigrante;ES;30;3;0
+faro;PA;28;4;0
+aveiro;PA;24;2;0
+palmas;PR;24;2;1
+palmas;TO;24;2;1
+joacaba;SC;24;2;0
+chapeco;SC;24;3;0
+porto;PI;22;4;0
+ilheus;BA;20;2;0
+angra reis;RJ;20;1;0
+alfenas;MG;20;2;0
+gravata;PE;20;2;0
+rondonopolis;MT;20;1;0
+rio branco;AC;20;2;1
+rio branco;MT;20;2;1
+brusque;SC;20;1;0
+ouro preto oeste;RO;20;1;0
+ipojuca;PE;16;2;0
+santa cruz;PB;16;1;1
+santa cruz;PE;16;1;1
+santa cruz;RN;16;1;1
+rosario;MA;14;2;0
+braganca;PA;12;1;0
+osasco;SP;12;3;0
+petropolis;RJ;10;1;0
+panama;GO;10;1;0
+lages;SC;10;1;0
+linhares;ES;10;1;0
+silvania;GO;10;1;0
+aparecida goiania;GO;10;1;0
+ouro verde;SC;10;1;1
+ouro verde;SP;10;1;1
+barueri;SP;10;1;0
+crato;CE;10;1;0
+delmiro gouveia;AL;10;1;0
+cachoeira;BA;10;1;0
+rio preto;MG;10;1;0
+lins;SP;10;1;0
+iaras;SP;10;1;0
+ubatuba;SP;10;1;0
+barra bonita;SC;10;1;1
+barra bonita;SP;10;1;1
+espirito santo pinhal;SP;10;1;0
+sao joao boa vista;SP;10;1;0
+guarapari;ES;10;1;0
+jaguariuna;SP;10;1;0
+itu;SP;10;1;0
+tiete;SP;10;1;0
+itupeva;SP;10;1;0
+castanhal;PA;10;1;0
+araxa;MG;10;1;0
+anapolis;GO;10;1;0
+jaragua sul;SC;10;1;0
+sao borja;RS;10;1;0
+sao jose;SC;10;1;0
+campanha;MG;10;1;0
+portalegre;RN;10;1;0
+montes claros;MG;10;1;0
+valparaiso;SP;10;1;0
+lavras;MG;10;1;0
+araguari;MG;10;1;0
+alegre;ES;10;1;0
+mantenopolis;ES;10;1;0
+alfredo chaves;ES;10;1;0
+cachoeiro itapemirim;ES;10;1;0
+afonso claudio;ES;10;1;0
+porto velho;RO;10;1;0
+seropedica;RJ;10;1;0
+parnaiba;PI;10;1;0
+tatui;SP;8;2;0
+pitanga;PR;8;2;0
+armacao buzios;RJ;8;1;0
+sorocaba;SP;8;1;0
+camaragibe;PE;4;1;0
+ourinhos;SP;4;1;0
+sao francisco;MG;4;1;1
+sao francisco;PB;4;1;1
+sao francisco;SE;4;1;1
+sao francisco;SP;4;1;1
+goias;GO;4;1;0
+imperatriz;MA;4;1;0
+mato grosso;PB;4;1;0
+farroupilha;RS;4;1;0
+doutor ricardo;RS;4;1;0
+encantado;RS;4;1;0
+apucarana;PR;4;1;0
+primavera leste;MT;4;1;0
+cruzeiro sul;AC;4;1;1
+cruzeiro sul;PR;4;1;1
+cruzeiro sul;RS;4;1;1
+sao jose pinhais;PR;4;1;0
+mafra;SC;4;1;0
+bonito;BA;4;1;1
+bonito;MS;4;1;1
+bonito;PA;4;1;1
+bonito;PE;4;1;1

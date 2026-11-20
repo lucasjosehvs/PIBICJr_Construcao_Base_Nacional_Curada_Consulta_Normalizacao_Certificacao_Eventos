@@ -1,0 +1,402 @@
+PAIS-DO-EVENTO;ANO;OCORRENCIAS
+africa sul;2000;4
+africa sul;2005;10
+africa sul;2006;4
+africa sul;2013;40
+africa sul;2014;30
+africa sul;2015;20
+africa sul;2018;14
+africa sul;2024;20
+alemanha;1998;4
+alemanha;2000;10
+alemanha;2001;88
+alemanha;2002;4
+alemanha;2003;4
+alemanha;2010;84
+alemanha;2011;40
+alemanha;2012;4
+alemanha;2016;4
+alemanha;2017;4
+alemanha;2024;30
+angola;2021;10
+argentina;1975;10
+argentina;1990;8
+argentina;1998;40
+argentina;2000;60
+argentina;2001;30
+argentina;2003;90
+argentina;2004;44
+argentina;2005;42
+argentina;2006;110
+argentina;2007;108
+argentina;2008;40
+argentina;2009;120
+argentina;2010;124
+argentina;2011;88
+argentina;2012;50
+argentina;2013;34
+argentina;2014;110
+argentina;2015;10
+argentina;2016;10
+argentina;2017;80
+argentina;2018;50
+argentina;2019;80
+argentina;2022;20
+argentina;2023;20
+australia;2000;40
+australia;2014;10
+australia;2018;20
+austria;2003;30
+austria;2006;20
+austria;2012;4
+austria;2018;12
+belgica;1996;10
+belgica;1998;30
+belgica;2011;4
+bolivia;2008;20
+bolivia;2013;10
+bolivia;2016;10
+bolivia;2022;10
+bolivia;2024;20
+brasil;1976;30
+brasil;1977;60
+brasil;1978;40
+brasil;1979;50
+brasil;1980;20
+brasil;1981;30
+brasil;1982;60
+brasil;1983;80
+brasil;1984;110
+brasil;1985;50
+brasil;1986;170
+brasil;1987;414
+brasil;1988;276
+brasil;1989;160
+brasil;1990;306
+brasil;1991;288
+brasil;1992;368
+brasil;1993;586
+brasil;1994;448
+brasil;1995;722
+brasil;1996;1078
+brasil;1997;1224
+brasil;1998;1430
+brasil;1999;1690
+brasil;2000;2008
+brasil;2001;2058
+brasil;2002;2198
+brasil;2003;2862
+brasil;2004;4038
+brasil;2005;4720
+brasil;2006;3610
+brasil;2007;6188
+brasil;2008;5846
+brasil;2009;5656
+brasil;2010;5072
+brasil;2011;5688
+brasil;2012;4262
+brasil;2013;4766
+brasil;2014;3092
+brasil;2015;3528
+brasil;2016;3690
+brasil;2017;3472
+brasil;2018;2828
+brasil;2019;2458
+brasil;2020;1768
+brasil;2021;1502
+brasil;2022;1192
+brasil;2023;1270
+brasil;2024;676
+canada;2005;14
+canada;2006;10
+canada;2008;26
+canada;2009;36
+canada;2015;4
+canada;2019;4
+canada;2022;50
+chile;1998;10
+chile;2005;70
+chile;2009;10
+chile;2010;4
+chile;2011;10
+chile;2013;20
+chile;2015;20
+chile;2018;38
+chile;2021;10
+chile;2023;24
+china;2008;20
+china;2014;10
+china;2021;4
+colombia;1999;10
+colombia;2006;20
+colombia;2007;4
+colombia;2008;4
+colombia;2009;40
+colombia;2010;20
+colombia;2012;42
+colombia;2014;10
+colombia;2015;10
+colombia;2018;12
+colombia;2020;10
+colombia;2023;10
+colombia;2024;20
+coreia sul;2012;4
+costa rica;2005;10
+costa rica;2009;4
+costa rica;2011;30
+costa rica;2013;4
+costa rica;2018;10
+croacia;2014;4
+croacia;2016;10
+croacia;2018;10
+cuba;1998;10
+cuba;2010;8
+cuba;2011;18
+cuba;2015;90
+cuba;2017;20
+cuba;2023;8
+dinamarca;2000;4
+dinamarca;2005;4
+dinamarca;2006;4
+dinamarca;2012;8
+dinamarca;2013;32
+djibuti;2006;10
+egito;2005;60
+egito;2015;4
+emirados arabes;2011;4
+emirados arabes;2015;4
+equador;2010;10
+escocia;2015;8
+eslovenia;2008;20
+espanha;1998;24
+espanha;1999;20
+espanha;2001;10
+espanha;2004;30
+espanha;2006;34
+espanha;2007;90
+espanha;2008;64
+espanha;2010;58
+espanha;2011;42
+espanha;2012;40
+espanha;2013;100
+espanha;2014;92
+espanha;2015;110
+espanha;2016;100
+espanha;2017;46
+espanha;2018;10
+espanha;2019;40
+espanha;2020;10
+espanha;2022;50
+espanha;2023;60
+espanha;2024;40
+estados unidos;1995;10
+estados unidos;1996;40
+estados unidos;1997;50
+estados unidos;1998;38
+estados unidos;1999;114
+estados unidos;2000;44
+estados unidos;2001;46
+estados unidos;2002;72
+estados unidos;2003;24
+estados unidos;2004;28
+estados unidos;2005;16
+estados unidos;2006;92
+estados unidos;2007;60
+estados unidos;2008;70
+estados unidos;2009;52
+estados unidos;2010;74
+estados unidos;2011;150
+estados unidos;2012;60
+estados unidos;2013;132
+estados unidos;2014;98
+estados unidos;2015;94
+estados unidos;2016;40
+estados unidos;2017;28
+estados unidos;2018;4
+estados unidos;2019;36
+estados unidos;2020;18
+estados unidos;2021;10
+estados unidos;2022;10
+finlandia;2000;20
+finlandia;2007;30
+finlandia;2015;50
+franca;1998;24
+franca;2000;10
+franca;2001;30
+franca;2003;30
+franca;2004;24
+franca;2005;8
+franca;2006;30
+franca;2008;30
+franca;2009;14
+franca;2011;98
+franca;2012;10
+franca;2013;34
+franca;2016;12
+franca;2018;20
+gales;2003;60
+gana;2017;4
+gra bretanha;1999;20
+gra bretanha;2003;40
+gra bretanha;2006;20
+gra bretanha;2010;8
+gra bretanha;2012;20
+gra bretanha;2015;4
+gra bretanha;2020;10
+gra bretanha;2021;10
+grecia;2002;20
+grecia;2014;10
+holanda;2001;10
+holanda;2004;10
+holanda;2006;4
+holanda;2009;80
+holanda;2016;30
+holanda;2018;8
+hong kong;2012;4
+hungria;2016;4
+hungria;2019;10
+india;2009;8
+inglaterra;1999;20
+inglaterra;2002;20
+inglaterra;2004;20
+inglaterra;2009;4
+inglaterra;2010;50
+inglaterra;2011;10
+inglaterra;2012;4
+inglaterra;2015;8
+inglaterra;2018;60
+inglaterra;2020;10
+irlanda;2013;4
+irlanda;2018;40
+israel;1997;20
+italia;2003;30
+italia;2006;50
+italia;2009;20
+italia;2012;70
+italia;2018;4
+italia;2019;4
+italia;2020;20
+italia;2021;40
+iugoslavia;2005;40
+iugoslavia;2019;10
+japao;2003;40
+japao;2012;4
+japao;2021;10
+malasia;2012;4
+marrocos;2006;20
+mexico;1994;60
+mexico;1996;10
+mexico;2001;20
+mexico;2002;10
+mexico;2006;10
+mexico;2007;16
+mexico;2010;40
+mexico;2012;20
+mexico;2013;40
+mexico;2014;40
+mexico;2015;20
+mexico;2016;10
+mexico;2017;34
+mexico;2019;20
+mexico;2020;10
+mexico;2021;30
+mexico;2022;10
+mexico;2023;80
+mexico;2024;10
+mocambique;2005;70
+mocambique;2009;20
+mocambique;2010;4
+monaco;2016;4
+noruega;2012;40
+pacific islands;1999;4
+panama;2008;50
+panama;2009;10
+panama;2019;30
+paraguai;2010;4
+paraguai;2011;20
+paraguai;2013;30
+paraguai;2019;20
+peru;1997;20
+peru;1999;10
+peru;2001;40
+peru;2002;80
+peru;2003;40
+peru;2004;180
+peru;2005;20
+peru;2006;20
+peru;2007;110
+peru;2008;90
+peru;2009;40
+peru;2010;104
+peru;2011;74
+peru;2012;90
+peru;2013;110
+peru;2014;58
+peru;2015;20
+peru;2016;60
+peru;2017;40
+peru;2018;10
+peru;2019;100
+peru;2020;40
+peru;2021;4
+peru;2022;14
+peru;2023;36
+polonia;1999;10
+polonia;2014;4
+polonia;2015;10
+porto rico;1998;10
+portugal;2003;30
+portugal;2005;10
+portugal;2007;8
+portugal;2008;30
+portugal;2009;106
+portugal;2010;190
+portugal;2011;178
+portugal;2012;20
+portugal;2013;110
+portugal;2014;162
+portugal;2015;10
+portugal;2016;114
+portugal;2017;24
+portugal;2019;4
+portugal;2020;24
+portugal;2021;10
+portugal;2022;16
+portugal;2023;4
+portugal;2024;4
+russia;2018;4
+russia;2019;4
+samoa americana;2006;10
+servia;2013;20
+suecia;2003;20
+suecia;2013;12
+suecia;2015;12
+suica;2002;10
+suica;2010;4
+suica;2015;8
+suica;2016;14
+suica;2017;4
+suica;2018;38
+suica;2020;30
+suica;2022;4
+trinidad tobago;2004;10
+tunisia;2021;10
+turquia;2007;10
+turquia;2010;70
+turquia;2011;10
+turquia;2012;70
+turquia;2014;4
+uruguai;1988;10
+uruguai;1998;10
+uruguai;2006;4
+uruguai;2007;10
+uruguai;2010;30
+uruguai;2011;10
+uruguai;2012;20
+uruguai;2013;20
+uruguai;2019;40
+uruguai;2022;10
+venezuela;2006;20
+venezuela;2007;10
+venezuela;2008;16
+venezuela;2019;20

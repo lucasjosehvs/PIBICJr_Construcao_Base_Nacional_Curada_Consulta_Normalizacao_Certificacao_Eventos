@@ -1,0 +1,29 @@
+Revisando o que já temos documentado do Projeto Magela: o schema de saída do extratorEventosFinal.py (e por consequência de todo o pipeline até o Conjunto4) só carrega CIDADE-DO-EVENTO e PAIS-DO-EVENTO — não existe UF em nenhum lugar da árvore XML do Lattes para esses registros de evento. Então a UF não pode vir de graça do XML: ela precisa ser derivada a partir do nome da cidade, cruzando com uma tabela de referência de municípios brasileiros.
+
+Antes de escrever o código, verifiquei o tamanho real do problema em vez de assumir. Usei a base de municípios do IBGE (via repositório kelvins/municipios-brasileiros no GitHub, que tem municipios.csv com nome+código da UF e estados.csv com a sigla da UF):
+
+5.571 municípios, 5.291 nomes distintos depois de normalizar (maiúsculas, sem acento).
+241 nomes de cidade existem em mais de uma UF (ex.: Água Boa → MG e MT; Alvorada → RS e TO; Aparecida → PB e SP). Isso é ~4,5% dos nomes distintos — pequeno, mas real, e não posso simplesmente "chutar" a UF para esses casos sem violar o princípio que vocês já seguem no projeto (nunca perder ou corromper dado silenciosamente).
+
+Isso também esbarra num bug que já está documentado na memória do projeto: normalizacaoGeral.py remove stopwords de CIDADE-DO-EVENTO sem proteção adequada (só existe .discard('sao')), então "São José dos Campos" pode virar algo sem o "dos". Isso quebra o casamento exato com a tabela do IBGE. Preciso tratar isso no script de mapeamento, não ignorar.
+
+Minha proposta de solução, em 3 scripts, seguindo as convenções de vocês (streaming, csv.reader/writer posicional, ; como delimitador, ##f, constantes de intervalo):
+
+mapaCidadeUF.py — baixa/lê municipios.csv + estados.csv e gera um dicionário CIDADE_NORMALIZADA -> UF (ou AMBIGUO:UF1|UF2 quando o nome existe em mais de um estado), salvo em JSON.
+geradorNomeEstado.py (fase 1) — lê o dataset principal (Conjunto4 ou equivalente), aplica o mapa e gera o arquivo só com NOME-DO-EVENTO;ESTADO, mas com uma coluna extra de status (OK, OK-HEURISTICO, AMBIGUO, NAO-ENCONTRADO, EXTERIOR) para auditoria — nada é descartado silenciosamente.
+contadorOcorrencias.py (fase 2) — conta ocorrências por NOME, por NOME+CIDADE (usando o dataset principal) e por NOME+UF (usando a saída da fase 1), gerando 3 CSVs ordenados decrescente.
+Criou 3 arquivos, leu um arquivo
+
+Ordem de execução recomendada:
+
+Baixem municipios.csv e estados.csv do repositório kelvins/municipios-brasileiros (URLs comentadas no topo do script) e ajustem os caminhos.
+Rodem mapaCidadeUF.py — gera o mapaCidadeUF.json (dicionário CIDADE→UF).
+Rodem geradorNomeEstado.py sobre o dataset principal (ajustem arquivoEntrada para o Conjunto4 ou o que estiverem usando) — gera o nomeEstado.csv da fase 1.
+Rodem contadorOcorrencias.py — gera os 3 CSVs pedidos: contagemPorNome.csv, contagemPorNomeCidade.csv, contagemPorNomeUF.csv, todos ordenados por ocorrência decrescente.
+
+Pontos que exigem atenção de vocês antes de rodar em produção:
+
+Dependência do bug de stopword: se geradorNomeEstado.py rodar sobre um CSV que já passou pelo normalizacaoGeral.py sem correção, algumas cidades vão perder conectores ("dos", "de"). Coloquei uma segunda tentativa de casamento (OK-HEURISTICO) que remove conectores dos dois lados antes de comparar, mas o ideal continua sendo aplicar a correção de stopwords em CIDADE-DO-EVENTO antes desta etapa — ou rodar geradorNomeEstado.py numa versão intermediária do dado que ainda não passou pela remoção de stopwords.
+Ambiguidade real, não hipotética: 241 nomes de município (~4,5% dos nomes distintos) existem em mais de uma UF. Esses casos ficam marcados como AMBIGUO no STATUS-MAPEAMENTO e caem no balde UF-DESCONHECIDA na contagem por UF, em vez de receber uma UF arbitrária — mantendo o princípio de nunca perder/corromper dado silenciosamente que vocês já seguem no projeto.
+Filtragem por país: só tento casar UF quando PAIS-DO-EVENTO indica Brasil (vazio, "Brasil" ou "Brazil"); eventos no exterior ficam com status EXTERIOR, evitando falsos positivos (ex.: "Toledo" existe como cidade espanhola e brasileira).
+Escala: a contagem usa dicionários em memória, o que deve ser tranquilo para o número de eventos distintos (bem menor que as ~80M linhas brutas), mas deixei uma nota no rodapé do contadorOcorrencias.py sugerindo sqlite3 (stdlib, sem libs externas) como plano B caso o número de chaves distintas não caiba na RAM disponível.

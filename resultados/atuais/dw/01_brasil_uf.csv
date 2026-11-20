@@ -1,0 +1,28 @@
+UF,NOME_UF,CODIGO_IBGE,REGIAO,OCORRENCIAS_CERTAS,OCORRENCIAS_AMBIGUAS,OCORRENCIAS_BRUTAS,PCT_AMBIGUAS,QUALIDADE_MAPEAMENTO,EVENTOS_DISTINTOS
+SP,São Paulo,35,Sudeste,14141610,854117,14995727,5.7,Boa (até 20% ambíguas),5230555
+MG,Minas Gerais,31,Sudeste,6656929,595469,7252398,8.2,Boa (até 20% ambíguas),2385489
+RS,Rio Grande do Sul,43,Sul,5856089,1028392,6884481,14.9,Boa (até 20% ambíguas),2099559
+PR,Paraná,41,Sul,5203515,759505,5963020,12.7,Boa (até 20% ambíguas),1812358
+RJ,Rio de Janeiro,33,Sudeste,5582153,223890,5806043,3.9,Boa (até 20% ambíguas),2038848
+BA,Bahia,29,Nordeste,3866279,151252,4017531,3.8,Boa (até 20% ambíguas),1362773
+PB,Paraíba,25,Nordeste,1700230,1864730,3564960,52.3,Média (20–60%),1051729
+SC,Santa Catarina,42,Sul,2755562,571903,3327465,17.2,Boa (até 20% ambíguas),1011244
+AL,Alagoas,27,Nordeste,919620,2387329,3306949,72.2,Baixa (acima de 60%),1007930
+CE,Ceará,23,Nordeste,2655001,372151,3027152,12.3,Boa (até 20% ambíguas),816212
+PA,Pará,15,Norte,520528,2504758,3025286,82.8,Baixa (acima de 60%),957510
+RN,Rio Grande do Norte,24,Nordeste,1559697,1423886,2983583,47.7,Média (20–60%),790398
+PE,Pernambuco,26,Nordeste,2780639,109192,2889831,3.8,Boa (até 20% ambíguas),901999
+GO,Goiás,52,Centro-Oeste,2190225,72124,2262349,3.2,Boa (até 20% ambíguas),770764
+DF,Distrito Federal,53,Centro-Oeste,1652962,0,1652962,0.0,Boa (até 20% ambíguas),599281
+MA,Maranhão,21,Nordeste,988955,29884,1018839,2.9,Boa (até 20% ambíguas),342910
+MT,Mato Grosso,51,Centro-Oeste,826471,147467,973938,15.1,Boa (até 20% ambíguas),351770
+MS,Mato Grosso do Sul,50,Centro-Oeste,420198,536978,957176,56.1,Média (20–60%),339006
+PI,Piauí,22,Nordeste,898851,46340,945191,4.9,Boa (até 20% ambíguas),309863
+ES,Espírito Santo,32,Sudeste,916742,4163,920905,0.5,Boa (até 20% ambíguas),311113
+SE,Sergipe,28,Nordeste,863977,49180,913157,5.4,Boa (até 20% ambíguas),289659
+AM,Amazonas,13,Norte,703341,25702,729043,3.5,Boa (até 20% ambíguas),277439
+TO,Tocantins,17,Norte,166609,319822,486431,65.7,Baixa (acima de 60%),195871
+RO,Rondônia,11,Norte,272678,2518,275196,0.9,Boa (até 20% ambíguas),128876
+AP,Amapá,16,Norte,142920,4405,147325,3.0,Boa (até 20% ambíguas),72452
+RR,Roraima,14,Norte,28602,109565,138167,79.3,Baixa (acima de 60%),59905
+AC,Acre,12,Norte,3291,134018,137309,97.6,Baixa (acima de 60%),56755

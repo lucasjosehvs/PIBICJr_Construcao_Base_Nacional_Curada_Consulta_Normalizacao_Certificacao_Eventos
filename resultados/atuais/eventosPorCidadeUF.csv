@@ -1,0 +1,5563 @@
+CIDADE-DO-EVENTO;ESTADO;OCORRENCIAS;EVENTOS-DISTINTOS;AMBIGUA
+sao paulo;SP;6420092;2378947;0
+rio janeiro;RJ;4005834;1364810;0
+porto alegre;RS;2222191;703244;0
+belo horizonte;MG;2168585;718451;0
+salvador;BA;2028139;609933;0
+fortaleza;CE;1974383;458193;0
+curitiba;PR;1929683;595815;0
+recife;PE;1763838;492691;0
+brasilia;DF;1652962;599281;0
+belem;AL;1512161;464396;1
+belem;PA;1512161;464396;1
+belem;PB;1512161;464396;1
+florianopolis;SC;1449533;361930;0
+goiania;GO;1414541;436054;0
+campinas;SP;1233456;373937;0
+natal;RN;1116022;258203;0
+joao pessoa;PB;920773;211128;0
+santa maria;PA;847581;204371;1
+santa maria;RN;847581;204371;1
+santa maria;RS;847581;204371;1
+ribeirao preto;SP;814752;249564;0
+maceio;AL;772911;213642;0
+londrina;PR;706899;186039;0
+sao luis;MA;701337;207445;0
+uberlandia;MG;670095;190805;0
+manaus;AM;642440;234229;0
+maringa;PR;631926;167987;0
+vitoria;ES;612890;183304;0
+aracaju;SE;600606;186140;0
+pelotas;RS;588208;157226;0
+foz iguacu;PR;575910;108997;0
+teresina;PI;574934;171653;0
+niteroi;RJ;497060;168089;0
+bauru;SP;478626;146500;0
+campo grande;AL;472230;162766;1
+campo grande;MS;472230;162766;1
+cuiaba;MT;453560;138468;0
+juiz;MG;453066;147664;0
+campina grande;PB;451618;103223;0
+sao carlos;SC;443319;119574;1
+sao carlos;SP;443319;119574;1
+aguas lindoia;SP;428920;39973;0
+gramado;RS;383829;50387;0
+vicosa;AL;379715;95796;1
+vicosa;MG;379715;95796;1
+vicosa;RN;379715;95796;1
+feira santana;BA;356329;125968;0
+sao jose rio preto;SP;336011;109075;0
+marilia;SP;317758;100844;0
+montes claros;MG;316685;91281;0
+ponta grossa;PR;306479;81584;0
+santos;SP;304041;95543;0
+botucatu;SP;303124;94049;0
+passo fundo;RS;300649;87557;0
+lavras;MG;297677;73920;0
+cascavel;CE;287263;92704;1
+cascavel;PR;287263;92704;1
+presidente prudente;SP;281772;85269;0
+uberaba;MG;279307;89616;0
+caxambu;MG;249819;32382;0
+ouro preto;MG;249498;51774;0
+araraquara;SP;243261;79374;0
+rio grande;RS;242479;59512;0
+piracicaba;SP;233524;80155;0
+dourados;MS;229943;76187;0
+vitoria conquista;BA;225396;75808;0
+sobral;CE;223269;63314;0
+buenos aires;PE;218132;86348;0
+ilheus;BA;206596;59236;0
+mossoro;RN;205589;62164;0
+caxias sul;RS;204142;72570;0
+sao cristovao;SE;191545;49482;0
+palmas;PR;184605;70199;1
+palmas;TO;184605;70199;1
+porto velho;RO;180165;81568;0
+franca;SP;178312;66418;0
+sao jose campos;SP;173559;58556;0
+alfenas;MG;165282;46442;0
+anapolis;GO;163771;60504;0
+sao leopoldo;RS;162518;50087;0
+campos goytacazes;RJ;162388;57044;0
+guarapuava;PR;161169;42455;0
+joinville;SC;158721;50579;0
+chapeco;SC;155940;51981;0
+itajai;SC;151596;43568;0
+campos jordao;SP;145570;22196;0
+bento goncalves;RS;144775;29968;0
+canoas;RS;144752;51397;0
+blumenau;SC;144735;49724;0
+caruaru;PE;144095;49917;0
+pocos caldas;MG;143915;35027;0
+santarem;PA;141235;53637;0
+juazeiro norte;CE;139923;43624;0
+sorocaba;SP;138185;60932;0
+petrolina;PE;135886;48230;0
+rio claro;RJ;133827;37811;1
+rio claro;SP;133827;37811;1
+macapa;AP;132961;63328;0
+santa cruz sul;RS;130860;39424;0
+seropedica;RJ;129503;42101;0
+aracatuba;SP;127194;43939;0
+rio branco;AC;121197;48693;1
+rio branco;MT;121197;48693;1
+ijui;RS;119608;31285;0
+umuarama;PR;118814;35252;0
+assis;SP;117158;34721;0
+crato;CE;115330;29589;0
+diamantina;MG;113016;27995;0
+criciuma;SC;112146;36095;0
+jequie;BA;109649;37513;0
+boa vista;PB;108696;47492;1
+boa vista;RR;108696;47492;1
+jaboticabal;SP;107139;32568;0
+lages;SC;106919;35892;0
+sao joao del rei;MG;106773;38618;0
+toledo;MG;102335;35089;1
+toledo;PR;102335;35089;1
+olinda;PE;101664;26427;0
+novo hamburgo;RS;100558;33417;0
+santo andre;PB;99060;47972;1
+santo andre;SP;99060;47972;1
+santiago;RS;97904;40464;0
+sao bernardo campo;SP;97691;45382;0
+ipojuca;PE;95810;14264;0
+porto;PI;94799;36815;0
+lajeado;RS;94326;24219;1
+lajeado;TO;94326;24219;1
+imperatriz;MA;92105;32016;0
+parnaiba;PI;91570;24136;0
+cruz almas;BA;90996;23580;0
+armacao buzios;RJ;89400;13819;0
+erechim;RS;88062;30733;0
+caceres;MT;87701;29378;0
+sao pedro;RN;83330;12927;1
+sao pedro;SP;83330;12927;1
+garanhuns;PE;80752;25875;0
+taubate;SP;79897;30606;0
+patos minas;MG;77792;26991;0
+porto seguro;BA;77500;15177;0
+araras;SP;77011;30818;0
+jatai;GO;76015;24581;0
+rio verde;GO;75366;27035;0
+juazeiro;BA;75034;21488;0
+barcelona;RN;73893;32328;0
+cajazeiras;PB;73516;19030;0
+guarulhos;SP;73145;36589;0
+pouso alegre;MG;72655;29645;0
+catalao;GO;72443;22126;0
+petropolis;RJ;72238;30061;0
+bage;RS;72217;24461;0
+coimbra;MG;71709;28258;0
+francisco beltrao;PR;71487;24507;0
+volta redonda;RJ;70910;31723;0
+divinopolis;MG;70554;31337;0
+patos;PB;70510;21290;0
+campo mourao;PR;69652;20369;0
+vila velha;ES;68701;29604;0
+cruz alta;RS;66051;20330;0
+arapiraca;AL;64172;23129;0
+frederico westphalen;RS;62579;21419;0
+itajuba;MG;60831;22925;0
+mogi cruzes;SP;59316;26728;0
+vassouras;RJ;59239;20459;0
+balneario camboriu;SC;58683;17808;0
+guaruja;SP;58211;12967;0
+sinop;MT;57530;20161;0
+santo antonio jesus;BA;57498;23839;0
+teresopolis;RJ;57394;21494;0
+santo angelo;RS;56139;20398;0
+atibaia;SP;55235;11065;0
+ituiutaba;MG;54771;20389;0
+caxias;MA;54316;18555;0
+araguaina;TO;54289;21197;0
+nova iguacu;RJ;53980;27689;0
+marechal candido rondon;PR;53804;15037;0
+maraba;PA;53243;22138;0
+sao goncalo;MG;52855;23115;1
+sao goncalo;RJ;52855;23115;1
+governador valadares;MG;52656;22638;0
+uruguaiana;RS;52475;16764;0
+ilha solteira;SP;50918;13591;0
+jacarezinho;PR;49457;12537;0
+pau ferros;RN;48934;13917;0
+itabuna;BA;47819;25206;0
+duque caxias;RJ;47352;26386;0
+jundiai;SP;45989;23531;0
+passos;MG;45345;19848;0
+vitoria santo antao;PE;45342;15111;0
+rondonopolis;MT;45246;17798;0
+sao lourenco;MG;45083;6100;0
+pato branco;PR;45038;19480;0
+tubarao;SC;44996;18109;0
+guanambi;BA;44699;17348;0
+registro;SP;44529;15907;0
+castanhal;PA;44523;17270;0
+macae;RJ;43606;17235;0
+varginha;MG;43055;18169;0
+quixada;CE;42644;13852;0
+irati;PR;42604;11475;1
+irati;SC;42604;11475;1
+paranavai;PR;41995;17509;0
+pirassununga;SP;41639;15356;0
+barreiras;BA;41615;17656;0
+fernandopolis;SP;41604;17339;0
+guarapari;ES;41408;7431;0
+tres lagoas;MS;41160;15986;0
+serra talhada;PE;41106;13697;0
+barretos;SP;40946;18728;0
+picos;PI;40326;15104;0
+braganca paulista;SP;39262;18537;0
+cachoeira;BA;38872;14075;0
+catanduva;SP;38605;14905;0
+caico;RN;38335;13350;0
+braga;RS;38273;13511;0
+joacaba;SC;37967;12968;0
+mariana;MG;37549;13043;0
+goias;GO;37231;18826;0
+bonito;BA;36545;4907;1
+bonito;MS;36545;4907;1
+bonito;PA;36545;4907;1
+bonito;PE;36545;4907;1
+betim;MG;36424;20417;0
+barbacena;MG;35451;16807;0
+uniao vitoria;PR;35347;11210;0
+lagarto;SE;35077;12684;0
+nova friburgo;RJ;33927;12814;0
+braganca;PA;33409;13493;0
+cacoal;RO;33016;14722;0
+barra garcas;MT;32893;13595;0
+angra reis;RJ;32690;11327;0
+pirenopolis;GO;32109;6093;0
+corumba;MS;32104;13111;0
+itabaiana;PB;31894;10260;1
+itabaiana;SE;31894;10260;1
+cornelio procopio;PR;31784;11075;0
+cachoeiro itapemirim;ES;30950;14599;0
+canela;RS;30873;8457;0
+araguari;MG;30868;9909;0
+redencao;CE;30601;12099;1
+redencao;PA;30601;12099;1
+itaperuna;RJ;30532;13810;0
+valenca;BA;30491;15331;1
+valenca;RJ;30491;15331;1
+alegre;ES;29839;10097;0
+lorena;SP;29756;11945;0
+paulo afonso;BA;29491;11656;0
+concordia;PA;29486;11644;1
+concordia;SC;29486;11644;1
+tangara serra;MT;29298;11057;0
+alegrete;RS;29250;11320;0
+santa rosa;RS;29229;11951;0
+teixeira freitas;BA;28955;11558;0
+gurupi;TO;28879;11488;0
+cameta;PA;27670;11683;0
+lauro freitas;BA;27580;13154;0
+areia;PB;27362;6797;0
+arapongas;PR;27285;8615;0
+mineiros;GO;27221;10988;0
+aguas sao pedro;SP;27137;6985;0
+araxa;MG;26590;8165;0
+colatina;ES;26587;10620;0
+adamantina;SP;26505;8443;0
+sao caetano sul;SP;26434;14001;0
+ourinhos;SP;26283;11539;0
+sant ana livramento;RS;26081;6645;0
+palhoca;SC;26023;10661;0
+alagoinhas;BA;25949;12004;0
+itapetinga;BA;25836;9236;0
+limeira;SP;25811;14443;0
+porto nacional;TO;25774;10344;0
+apucarana;PR;25750;11357;0
+cachoeira sul;RS;25692;10411;0
+dois vizinhos;PR;25391;8802;0
+ipatinga;MG;25366;13180;0
+peruibe;SP;25105;10155;0
+aparecida goiania;GO;25084;12807;0
+iguatu;CE;24736;8546;1
+iguatu;PR;24736;8546;1
+sao luiz;RR;24631;9137;0
+caldas novas;GO;24140;7236;0
+caetite;BA;23878;9066;0
+varzea grande;MT;23695;10893;1
+varzea grande;PI;23695;10893;1
+teofilo otoni;MG;23553;12289;0
+parana;RN;23553;14818;1
+parana;TO;23553;14818;1
+rio sul;SC;23522;8987;0
+muriae;MG;23454;9938;0
+sao luis montes belos;GO;23381;10544;0
+votuporanga;SP;23370;10401;0
+nazare mata;PE;23304;8929;0
+aquidauana;MS;23279;8711;0
+cabo frio;RJ;22927;10607;0
+sao miguel oeste;SC;22799;10014;0
+amargosa;BA;22648;8165;0
+lins;SP;22583;11075;0
+limoeiro norte;CE;22463;8922;0
+ceres;GO;22292;7629;0
+floriano;PI;21930;8800;0
+altamira;PA;21809;11225;0
+sao borja;RS;21631;8951;0
+santa cruz;PB;21569;8032;1
+santa cruz;PE;21569;8032;1
+santa cruz;RN;21569;8032;1
+sousa;PB;21527;6863;0
+palotina;PR;21526;8565;0
+tupa;SP;21498;7883;0
+itauna;MG;21416;9738;0
+aveiro;PA;21252;7888;0
+palmeira indios;AL;21184;8388;0
+sao jose;SC;20922;12940;0
+abaetetuba;PA;20782;9631;0
+resende;RJ;20763;6736;0
+alta floresta;MT;20381;7216;0
+ananindeua;PA;20380;12004;0
+itumbiara;GO;20365;8751;0
+bananeiras;PB;20244;4703;0
+mata sao joao;BA;20189;3932;0
+sao joao boa vista;SP;20065;10233;0
+sete lagoas;MG;20064;10783;0
+paranagua;PR;20044;8951;0
+ipora;GO;19932;7621;1
+ipora;PR;19932;7621;1
+rosario;MA;19641;8340;0
+paranaiba;MS;19304;7405;0
+guaratingueta;SP;19245;7363;0
+bandeirantes;MS;19208;5466;1
+bandeirantes;PR;19208;5466;1
+osasco;SP;18866;12184;0
+bebedouro;SP;18658;9022;0
+dracena;SP;18331;6028;0
+sao mateus;ES;18072;7022;0
+caratinga;MG;18039;8556;0
+muzambinho;MG;18029;6904;0
+avare;SP;17588;7865;0
+diadema;SP;17560;7178;0
+inhumas;GO;17543;7258;0
+senhor bonfim;BA;17478;7792;0
+medianeira;PR;17421;7581;0
+parintins;AM;17416;8642;0
+contagem;MG;17097;11405;0
+guarabira;PB;17057;5568;0
+xanxere;SC;16987;6094;0
+morrinhos;CE;16986;6078;1
+morrinhos;GO;16986;6078;1
+tucurui;PA;16914;7655;0
+batatais;SP;16900;7001;0
+jau;SP;16881;9204;0
+serrinha;BA;16828;7234;1
+serrinha;RN;16828;7234;1
+brusque;SC;16728;8061;0
+uba;MG;16643;8539;0
+americana;SP;16367;9886;0
+quirinopolis;GO;16331;6080;0
+paracatu;MG;16037;6769;0
+indaiatuba;SP;15963;8749;0
+taguatinga;TO;15809;9331;0
+irece;BA;15715;7951;0
+luis correia;PI;15612;1595;0
+garca;SP;15566;6170;0
+paripiranga;BA;15521;5491;0
+rolim moura;RO;15521;6534;0
+urutai;GO;15417;4396;0
+patrocinio;MG;15254;7048;0
+palmeira missoes;RS;15123;6081;0
+rio pomba;MG;14994;5025;0
+jacobina;BA;14988;7703;0
+torres;RS;14914;6200;0
+bacabal;MA;14703;5222;0
+monte carmelo;MG;14492;5991;0
+osorio;RS;14472;6070;0
+ico;CE;14308;4442;0
+vilhena;RO;14151;6388;0
+jaboatao guararapes;PE;14091;8612;0
+bom jesus;PB;14012;5185;1
+bom jesus;PI;14012;5185;1
+bom jesus;RN;14012;5185;1
+bom jesus;RS;14012;5185;1
+bom jesus;SC;14012;5185;1
+tres coracoes;MG;13942;6382;0
+santa fe sul;SP;13688;5616;0
+serra negra;SP;13649;3673;0
+arcoverde;PE;13564;5954;0
+aracruz;ES;13314;4386;0
+jaragua sul;SC;13312;7396;0
+gravatai;RS;13286;7833;0
+jaguarao;RS;13108;5305;0
+cacador;SC;12938;5881;0
+rio ostras;RJ;12856;6563;0
+cruzeiro sul;AC;12821;5573;1
+cruzeiro sul;PR;12821;5573;1
+cruzeiro sul;RS;12821;5573;1
+tres maio;RS;12717;4164;0
+ariquemes;RO;12657;6847;0
+serra;ES;12551;7491;0
+cerro largo;RS;12473;3903;0
+piripiri;PI;12400;4898;0
+manhuacu;MG;12334;5728;0
+navirai;MS;12256;4580;0
+guimaraes;MA;12218;3782;0
+realeza;PR;12217;4291;0
+cuite;PB;12176;3134;0
+cianorte;PR;12156;5969;0
+matinhos;PR;12076;4522;0
+santa fe;PR;12041;5097;0
+sao vicente;RN;11974;5307;1
+sao vicente;SP;11974;5307;1
+santa teresa;ES;11957;3940;0
+itapuranga;GO;11839;5126;0
+camboriu;SC;11775;4195;0
+ararangua;SC;11763;5047;0
+eunapolis;BA;11733;5973;0
+formiga;MG;11663;5613;0
+taquara;RS;11626;4626;0
+rio paranaiba;MG;11485;3779;0
+janauba;MG;11455;4520;0
+crateus;CE;11349;5039;0
+sao francisco;MG;11346;6537;1
+sao francisco;PA;11346;6537;1
+sao francisco;PB;11346;6537;1
+sao francisco;SE;11346;6537;1
+sao francisco;SP;11346;6537;1
+coronel fabriciano;MG;11263;5612;0
+jaguariuna;SP;11259;6391;0
+engenheiro coelho;SP;11204;4606;0
+videira;SC;11149;5600;0
+barra mansa;RJ;10869;5989;0
+trindade;GO;10714;5696;1
+trindade;PE;10714;5696;1
+tiradentes;MG;10668;2750;0
+unai;MG;10647;5340;0
+pires rio;GO;10566;4566;0
+sao gabriel;BA;10472;4288;1
+sao gabriel;RS;10472;4288;1
+tres rios;RJ;10471;4862;0
+frutal;MG;10450;4877;0
+conceicao araguaia;PA;10390;4950;0
+brumado;BA;10331;4399;0
+ponta pora;MS;10309;5544;0
+pinhais;PR;10234;4184;0
+itatiba;SP;10225;5093;0
+currais novos;RN;10219;4130;0
+governador mangabeira;BA;10142;3638;0
+carazinho;RS;10090;5289;0
+orleans;SC;9955;3676;0
+itapeva;MG;9926;4258;1
+itapeva;SP;9926;4258;1
+camacari;BA;9879;6288;0
+sao jose pinhais;PR;9872;5935;0
+nova lima;MG;9799;6100;0
+ubatuba;SP;9770;3637;0
+januaria;MG;9728;4674;0
+penedo;AL;9712;4093;0
+santa ines;BA;9693;4487;1
+santa ines;MA;9693;4487;1
+santa ines;PB;9693;4487;1
+santa ines;PR;9693;4487;1
+sao luiz gonzaga;RS;9647;3785;0
+dom pedrito;RS;9611;4161;0
+assuncao;PB;9610;5608;0
+belo jardim;PE;9576;4958;0
+tefe;AM;9550;3840;0
+cabo santo agostinho;PE;9513;4430;0
+itu;SP;9468;5942;0
+espirito santo;RN;9464;5299;0
+nilopolis;RJ;9437;4489;0
+barra bugres;MT;9432;3431;0
+itapiranga;AM;9311;3868;1
+itapiranga;SC;9311;3868;1
+arraial cabo;RJ;9299;2290;0
+formosa;GO;9276;4645;0
+goianesia;GO;9241;4062;1
+goianesia;PA;9241;4062;1
+valparaiso;SP;9232;4302;0
+breves;PA;9192;4860;0
+canoinhas;SC;9175;4698;0
+mamanguape;PB;9171;3223;0
+delmiro gouveia;AL;9148;3235;0
+conceicao coite;BA;9105;4774;0
+gravata;PE;9048;3601;0
+humaita;AM;8996;3757;1
+humaita;RS;8996;3757;1
+conselheiro lafaiete;MG;8989;4724;0
+carangola;MG;8948;3525;0
+parauapebas;PA;8927;4143;0
+curitibanos;SC;8920;3651;0
+jandaia sul;PR;8895;2802;0
+sao sebastiao;AL;8886;3423;1
+sao sebastiao;SP;8886;3423;1
+nova andradina;MS;8749;4176;0
+uruacu;GO;8730;4283;0
+laranjeiras sul;PR;8686;4066;0
+paragominas;PA;8665;4314;0
+sao raimundo nonato;PI;8647;3488;0
+arraias;TO;8598;4097;0
+sao vicente sul;RS;8593;3294;0
+mafra;SC;8586;4287;0
+machado;MG;8547;3971;0
+montenegro;RS;8500;3414;0
+vacaria;RS;8469;4371;0
+porangatu;GO;8388;4153;0
+linhares;ES;8360;4572;0
+paraty;RJ;8343;3109;0
+bambui;MG;8343;3451;0
+santana ipanema;AL;8339;2937;0
+descalvado;SP;8331;3743;0
+barbalha;CE;8316;3223;0
+matipo;MG;8187;2641;0
+pontes lacerda;MT;8169;3505;0
+poa;SP;8152;6837;0
+itapetininga;SP;8148;3796;0
+aracati;CE;8128;3518;0
+ituverava;SP;8073;4328;0
+itaqui;RS;8069;3799;0
+cacapava sul;RS;8013;3122;0
+chapadinha;MA;7993;2636;0
+capanema;PA;7872;3673;1
+capanema;PR;7872;3673;1
+faro;PA;7745;2716;0
+bom jesus lapa;BA;7740;4086;0
+sao francisco conde;BA;7634;4299;0
+fraiburgo;SC;7605;1924;0
+sertaozinho;PB;7437;4394;1
+sertaozinho;SP;7437;4394;1
+bom jesus itabapoana;RJ;7413;3116;0
+ivaipora;PR;7409;3537;0
+ibirite;MG;7352;3821;0
+sao lourenco sul;RS;7347;2860;0
+itapema;SC;7295;2335;0
+pirapora;MG;7258;3002;0
+jales;SP;7249;4360;0
+timon;MA;7227;3467;0
+caraguatatuba;SP;7176;4290;0
+salinas;MG;7165;3057;0
+pesqueira;PE;7140;3410;0
+getulio vargas;RS;7136;3087;0
+pedreiras;MA;7109;3584;0
+luziania;GO;7056;3661;0
+cariacica;ES;7015;3945;0
+itacoatiara;AM;7007;3164;0
+cubatao;SP;6998;3603;0
+ponte nova;MG;6986;4124;0
+juara;MT;6934;2697;0
+codo;MA;6913;3156;0
+santa barbara;BA;6860;4832;1
+santa barbara;MG;6860;4832;1
+santa barbara;PA;6860;4832;1
+tabatinga;AM;6798;3222;1
+tabatinga;SP;6798;3222;1
+itabira;MG;6797;4035;0
+cassilandia;MS;6738;2662;0
+seabra;BA;6732;3107;0
+belford roxo;RJ;6700;4153;0
+espirito santo pinhal;SP;6672;3561;0
+parnamirim;PE;6657;3771;1
+parnamirim;RN;6657;3771;1
+mandaguari;PR;6632;2531;0
+pindamonhangaba;SP;6606;3967;0
+esteio;RS;6485;4084;0
+indaial;SC;6479;3535;0
+pinheiro;MA;6428;2762;0
+itaituba;PA;6424;4353;0
+telemaco borba;PR;6403;3563;0
+tiangua;CE;6403;3257;0
+sao bernardo;MA;6367;3333;0
+catole rocha;PB;6327;2048;0
+santo antonio padua;RJ;6290;3303;0
+santa rita sapucai;MG;6287;2975;0
+cachoeirinha;PE;6255;3818;1
+cachoeirinha;RS;6255;3818;1
+cachoeirinha;TO;6255;3818;1
+nova xavantina;MT;6254;2209;0
+suzano;SP;6213;3767;0
+bom despacho;MG;6197;3974;0
+florida;PR;6168;4575;0
+florestal;MG;6158;2472;0
+guaiba;RS;6152;3590;0
+inconfidentes;MG;6131;2612;0
+santo amaro;BA;6125;3469;0
+pombal;PB;6076;2090;0
+coari;AM;6076;2577;0
+caucaia;CE;5994;3310;0
+campo largo;PR;5984;2891;0
+estancia;SE;5977;3266;0
+sume;PB;5960;2308;0
+cabedelo;PB;5951;2705;0
+guaxupe;MG;5945;3625;0
+ipameri;GO;5944;2196;0
+igarape;MG;5887;3394;0
+moju;PA;5878;2456;0
+rio quente;GO;5823;1465;0
+barueri;SP;5817;4339;0
+itapipoca;CE;5803;2871;0
+arcos;MG;5780;3439;0
+planaltina;GO;5767;3193;0
+hortolandia;SP;5752;3523;0
+leopoldina;MG;5733;3291;0
+araquari;SC;5732;2185;0
+goiana;MG;5698;3793;1
+goiana;PE;5698;3793;1
+sorriso;MT;5697;3003;0
+panambi;RS;5696;3039;0
+tramandai;RS;5685;2560;0
+sapucaia sul;RS;5675;2811;0
+sao manuel;SP;5672;2495;0
+mato grosso;PB;5639;3081;0
+joao monlevade;MG;5628;3281;0
+laguna;SC;5589;2669;0
+corrente;PI;5587;2526;0
+monteiro;PB;5578;2116;0
+coxim;MS;5571;2777;0
+maracanau;CE;5560;3160;0
+mangaratiba;RJ;5546;1801;0
+amparo;PB;5542;3546;1
+amparo;SP;5542;3546;1
+euclides cunha;BA;5540;2624;0
+maua;SP;5528;3741;0
+acarape;CE;5512;2174;0
+capao canoa;RS;5507;2472;0
+balsas;MA;5462;2839;0
+valinhos;SP;5461;3478;0
+guaira;PR;5435;3105;1
+guaira;SP;5435;3105;1
+viamao;RS;5414;3617;0
+patu;RN;5387;2250;0
+pitanga;PR;5372;2666;0
+juina;MT;5350;2844;0
+uniao palmares;AL;5347;2402;0
+minas;MG;5327;3480;0
+paulista;PB;5308;3620;1
+paulista;PE;5308;3620;1
+penapolis;SP;5296;2850;0
+nova iorque;MA;5284;4159;0
+itaberaba;BA;5267;3273;0
+andradina;SP;5246;3025;0
+santa helena;MA;5204;2218;1
+santa helena;PB;5204;2218;1
+santa helena;PR;5204;2218;1
+santa helena;SC;5204;2218;1
+diamantino;MT;5197;2577;0
+marica;RJ;5173;3481;0
+sertao;RS;5171;1983;0
+ouro branco;AL;5149;2558;1
+ouro branco;MG;5149;2558;1
+ouro branco;RN;5149;2558;1
+araguatins;TO;5122;2263;0
+campo alegre lourdes;BA;5110;467;0
+vespasiano;MG;5107;2198;0
+salgueiro;PE;5096;3219;0
+laranjeiras;SE;5087;2390;0
+assis chateaubriand;PR;5086;2736;0
+tatui;SP;5080;3185;0
+restinga seca;RS;5071;2526;0
+sao roque;SP;5038;3204;0
+sao joao evangelista;MG;4996;2278;0
+birigui;SP;4939;3085;0
+paulinia;SP;4937;2892;0
+acailandia;MA;4934;2443;0
+colombo;PR;4933;2687;0
+nova odessa;SP;4904;2031;0
+paracambi;RJ;4895;2808;0
+sao miguel guama;PA;4888;2422;0
+palmares;PE;4868;2833;0
+julio castilhos;RS;4852;2324;0
+tocantinopolis;TO;4850;2465;0
+alto araguaia;MT;4834;2221;0
+oeiras;PA;4825;2613;1
+oeiras;PI;4825;2613;1
+capao leao;RS;4821;2325;0
+salto;SP;4793;2649;0
+panama;GO;4739;3057;0
+ipiau;BA;4714;2690;0
+macau;RN;4692;2233;0
+angicos;RN;4689;1962;0
+cataguases;MG;4671;3008;0
+ipanguacu;RN;4635;1375;0
+praia grande;SC;4632;3160;1
+praia grande;SP;4632;3160;1
+augustinopolis;TO;4593;2094;0
+senhora gloria;SE;4587;2240;0
+guajara;AM;4546;2299;0
+jussara;BA;4542;2039;1
+jussara;GO;4542;2039;1
+jussara;PR;4542;2039;1
+macaiba;RN;4472;1884;0
+sao bento sul;SC;4424;2660;0
+santana;AP;4405;3018;1
+santana;BA;4405;3018;1
+domingos martins;ES;4403;1903;0
+rio largo;AL;4352;1564;0
+colorado oeste;RO;4336;1690;0
+santa vitoria palmar;RS;4329;2224;0
+triunfo;PB;4325;1580;1
+triunfo;PE;4325;1580;1
+triunfo;RS;4325;1580;1
+sarandi;PR;4315;2690;1
+sarandi;RS;4315;2690;1
+farroupilha;RS;4307;2747;0
+camaragibe;PE;4294;2097;0
+biguacu;SC;4294;2433;0
+araucaria;PR;4264;3092;0
+barra bonita;SC;4260;1543;1
+barra bonita;SP;4260;1543;1
+rio tinto;PB;4251;1506;0
+goiatuba;GO;4249;2636;0
+leme;SP;4195;2789;0
+luis eduardo magalhaes;BA;4186;2206;0
+sao jose rio pardo;SP;4178;2406;0
+confresa;MT;4174;1972;0
+sumare;SP;4158;2896;0
+aracuai;MG;4136;1775;0
+mogi guacu;SP;4134;2941;0
+nova prata;RS;4085;1416;0
+miracema tocantins;TO;4072;2251;0
+iturama;MG;4040;2058;0
+tres passos;RS;3992;2416;0
+taquaritinga;SP;3973;2577;0
+itatiaia;RJ;3961;1536;0
+jacarei;SP;3954;2986;0
+marau;BA;3939;2592;1
+marau;RS;3939;2592;1
+barra coqueiros;SE;3930;660;0
+campo maior;PI;3930;1783;0
+caraubas;PB;3885;1911;1
+caraubas;RN;3885;1911;1
+jardim;CE;3865;2050;1
+jardim;MS;3865;2050;1
+nova venecia;ES;3853;2204;0
+california;PR;3830;3150;0
+itanhaem;SP;3812;2211;0
+marechal deodoro;AL;3801;1663;0
+primavera leste;MT;3797;2243;0
+cambe;PR;3790;2466;0
+itapira;SP;3782;2418;0
+presidente epitacio;SP;3769;1790;0
+venda nova imigrante;ES;3768;1989;0
+passa quatro;MG;3758;463;0
+caninde;CE;3700;1870;0
+oiapoque;AP;3689;1849;0
+grajau;MA;3681;1555;0
+pinhalzinho;SC;3657;1722;1
+pinhalzinho;SP;3657;1722;1
+rolandia;PR;3653;1748;0
+itaborai;RJ;3651;2496;0
+brumadinho;MG;3650;2295;0
+amambai;MS;3648;1962;0
+santo augusto;RS;3630;1633;0
+santo antonio patrulha;RS;3625;1794;0
+matao;SP;3612;2146;0
+picui;PB;3607;1187;0
+pedro leopoldo;MG;3603;2194;0
+nantes;SP;3536;1717;0
+costa rica;MS;3534;2262;0
+sao sebastiao paraiso;MG;3531;2278;0
+ibiruba;RS;3503;1529;0
+capitao poco;PA;3447;1417;0
+cachoeira paulista;SP;3446;1758;0
+castro;PR;3445;2077;0
+tocantins;MG;3442;2123;0
+pontal parana;PR;3429;1505;0
+almenara;MG;3427;1608;0
+lucas rio verde;MT;3421;2020;0
+cangucu;RS;3365;1969;0
+cotia;SP;3344;2447;0
+barra pirai;RJ;3336;2311;0
+gaspar;SC;3313;1528;0
+benjamin constant;AM;3313;1975;0
+guarai;TO;3310;1840;0
+ivoti;RS;3287;1607;0
+sao miguel iguacu;PR;3287;1893;0
+bertioga;SP;3251;1322;0
+santa luzia;BA;3231;2412;1
+santa luzia;MA;3231;2412;1
+santa luzia;MG;3231;2412;1
+santa luzia;PA;3231;2412;1
+santa luzia;PB;3231;2412;1
+chapadao sul;MS;3223;1296;0
+floresta;PE;3221;1893;1
+floresta;PR;3221;1893;1
+sao joaquim;SC;3213;932;0
+mesquita;MG;3209;1896;1
+mesquita;RJ;3209;1896;1
+filadelfia;BA;3203;1959;1
+filadelfia;TO;3203;1959;1
+sao joao meriti;RJ;3171;2420;0
+sao francisco paula;MG;3164;1532;1
+sao francisco paula;RS;3164;1532;1
+palmeiras goias;GO;3157;1387;0
+venancio aires;RS;3141;1718;0
+oriximina;PA;3140;1689;0
+camaqua;RS;3138;2104;0
+soure;PA;3133;1597;0
+agudos;SP;3124;1649;0
+salvaterra;PA;3115;1518;0
+taua;CE;3094;1696;0
+campo belo;MG;3087;1917;0
+sao miguel campos;AL;3081;1522;0
+curvelo;MG;3072;2051;0
+santa helena goias;GO;3069;1294;0
+pinhao;PR;3060;1653;1
+pinhao;SE;3060;1653;1
+pinheiral;RJ;3055;1470;0
+itaguai;RJ;3053;2170;0
+jaru;RO;3047;1856;0
+guararema;SP;3025;1775;0
+timoteo;MG;3021;2100;0
+alvorada;RS;3021;2046;1
+alvorada;TO;3021;2046;1
+barra corda;MA;3014;1606;0
+campanha;MG;3012;1595;0
+apodi;RN;2986;1556;0
+propria;SE;2971;1804;0
+caete;MG;2911;1422;0
+carapicuiba;SP;2908;2007;0
+veranopolis;RS;2897;1433;0
+brejo santo;CE;2892;1543;0
+garibaldi;RS;2886;1608;0
+guaramiranga;CE;2877;921;0
+barcarena;PA;2871;1863;0
+salinopolis;PA;2867;1091;0
+horizontina;RS;2821;1519;0
+cruzeiro;SP;2784;2000;0
+catu;BA;2782;1355;0
+bombinhas;SC;2780;587;0
+carpina;PE;2776;1826;0
+limoeiro;PE;2762;1914;0
+maragogi;AL;2758;919;0
+jeronimo monteiro;ES;2732;791;0
+santo antonio platina;PR;2730;1829;0
+mococa;SP;2712;1681;0
+cordeiropolis;SP;2702;1265;0
+santo antonio goias;GO;2685;945;0
+baturite;CE;2674;1548;0
+urucuca;BA;2669;1313;0
+santos dumont;MG;2662;1501;0
+paraiso tocantins;TO;2660;1627;0
+campos belos;GO;2652;1230;0
+colider;MT;2647;1522;0
+sombrio;SC;2642;997;0
+acarau;CE;2637;1370;0
+ze doca;MA;2599;1157;0
+rosana;SP;2587;1081;0
+piranhas;AL;2542;1134;1
+piranhas;GO;2542;1134;1
+buriticupu;MA;2538;1162;0
+goioere;PR;2537;1366;0
+araripina;PE;2515;1712;0
+ribeirao neves;MG;2508;1591;0
+araruama;RJ;2495;1794;0
+lencois paulista;SP;2491;1738;0
+viseu;PA;2482;1108;0
+fatima sul;MS;2462;1303;0
+beberibe;CE;2448;1009;0
+acu;RN;2444;1267;0
+miracema;RJ;2426;1610;0
+ouricuri;PE;2416;1405;0
+soledade;PB;2405;1636;1
+soledade;RS;2405;1636;1
+campo limpo paulista;SP;2387;1508;0
+araruna;PB;2377;756;1
+araruna;PR;2377;756;1
+ivatuba;PR;2374;1269;0
+mogi mirim;SP;2348;1835;0
+campo bom;RS;2346;1564;0
+afogados ingazeira;PE;2342;1476;0
+jaciara;MT;2338;1259;0
+nazare paulista;SP;2328;916;0
+sao joao barra;RJ;2319;1088;0
+castelo;ES;2307;1526;0
+araputanga;MT;2307;1419;0
+capao bonito;SP;2304;1029;0
+russas;CE;2299;1400;0
+sobradinho;BA;2292;1821;1
+sobradinho;RS;2292;1821;1
+sao sepe;RS;2280;1151;0
+amapa;AP;2280;1579;0
+embu artes;SP;2268;1367;0
+cedro;CE;2267;1116;1
+cedro;PE;2267;1116;1
+charqueadas;RS;2264;1289;0
+congonhas;MG;2261;1399;0
+chapada guimaraes;MT;2256;990;0
+itaquaquecetuba;SP;2246;1729;0
+nova petropolis;RS;2245;1353;0
+xinguara;PA;2244;1228;0
+imbe;RS;2232;925;0
+serro;MG;2229;1243;0
+mundo novo;BA;2226;1281;1
+mundo novo;GO;2226;1281;1
+mundo novo;MS;2226;1281;1
+quixeramobim;CE;2214;1429;0
+vinhedo;SP;2207;1649;0
+taboao serra;SP;2198;1820;0
+xaxim;SC;2196;1254;0
+boituva;SP;2171;943;0
+barreiros;PE;2167;1053;0
+jose freitas;PI;2162;430;0
+colombia;SP;2155;1735;0
+colinas;MA;2147;969;1
+colinas;RS;2147;969;1
+pontal araguaia;MT;2147;1028;0
+campos novos;SC;2146;1224;0
+estrela;RS;2143;1462;0
+laranjal jari;AP;2140;1263;0
+lindoia;SP;2120;1095;0
+santa maria vitoria;BA;2112;1364;0
+igarassu;PE;2110;1438;0
+porto uniao;SC;2102;1357;0
+vigia;PA;2082;1158;0
+colinas tocantins;TO;2068;1364;0
+sabara;MG;2051;1403;0
+pimenta bueno;RO;2045;1409;0
+mirassol;SP;2041;1514;0
+holambra;SP;2034;1061;0
+camocim;CE;2034;1010;0
+maravilha;AL;2029;1384;1
+maravilha;SC;2029;1384;1
+missao velha;CE;2004;1191;0
+piuma;ES;2000;878;0
+sapiranga;RS;1999;1297;0
+benevides;PA;1991;1338;0
+valparaiso goias;GO;1973;1323;0
+jaboticatubas;MG;1971;826;0
+minacu;GO;1968;992;0
+sao jose quatro marcos;MT;1967;1151;0
+satuba;AL;1947;660;0
+ampere;PR;1946;1185;0
+garopaba;SC;1944;535;0
+mage;RJ;1942;1486;0
+urucui;PI;1940;858;0
+prudentopolis;PR;1938;1134;0
+itamaraju;BA;1934;1231;0
+buri;SP;1933;782;0
+sao pedro aldeia;RJ;1931;1195;0
+maracaju;MS;1929;1242;0
+dianopolis;TO;1926;1179;0
+sao gabriel cachoeira;AM;1926;1360;0
+lencois;BA;1918;758;0
+tijucas;SC;1903;1246;0
+santa rosa sul;SC;1893;705;0
+lagoa seca;PB;1886;849;0
+paraguacu paulista;SP;1879;1347;0
+aparecida;PB;1869;1214;1
+aparecida;SP;1869;1214;1
+simao dias;SE;1864;1183;0
+sao jeronimo;RS;1857;1252;0
+jaragua;GO;1855;1241;0
+nova porteirinha;MG;1849;990;0
+jaguaribe;CE;1838;1017;0
+palmitos;SC;1833;957;0
+jaguari;RS;1822;1065;0
+coronel pacheco;MG;1817;1091;0
+lapa;PR;1816;1292;0
+piraquara;PR;1815;1367;0
+sao joao piaui;PI;1807;1015;0
+itaberai;GO;1803;939;0
+feliz;RS;1789;685;0
+vera cruz;BA;1787;1343;1
+vera cruz;RN;1787;1343;1
+vera cruz;RS;1787;1343;1
+vera cruz;SP;1787;1343;1
+sacramento;MG;1776;1001;0
+joao camara;RN;1766;937;0
+sao goncalo amarante;CE;1755;1044;1
+sao goncalo amarante;RN;1755;1044;1
+pocone;MT;1749;1040;0
+capivari;SP;1740;949;0
+santa cruz capibaribe;PE;1729;1203;0
+belem sao francisco;PE;1728;1096;0
+itapecerica serra;SP;1726;1296;0
+obidos;PA;1722;955;0
+girua;RS;1720;872;0
+itirapina;SP;1717;613;0
+olimpia;SP;1712;1222;0
+ipero;SP;1706;991;0
+queimados;RJ;1697;1301;0
+luz;MG;1696;1037;0
+sao francisco sul;SC;1691;1043;0
+guaratuba;PR;1690;959;0
+pedro;PI;1690;936;0
+coelho neto;MA;1687;892;0
+cananeia;SP;1685;998;0
+marituba;PA;1678;1319;0
+santa cruz rio pardo;SP;1675;1072;0
+paco lumiar;MA;1674;1089;0
+santana parnaiba;SP;1668;1265;0
+nova mutum;MT;1665;1238;0
+tres pontas;MG;1658;941;0
+presidente venceslau;SP;1654;1179;0
+barreirinhas;MA;1651;682;0
+tapes;RS;1638;704;0
+campo novo parecis;MT;1635;935;0
+cocal;PI;1623;540;0
+arinos;MG;1612;762;0
+encantado;RS;1611;932;0
+sao gotardo;MG;1610;1124;0
+miguel pereira;RJ;1605;1053;0
+tapejara;PR;1600;1144;1
+tapejara;RS;1600;1144;1
+santa rita;MA;1600;1161;1
+santa rita;PB;1600;1161;1
+campos sales;CE;1598;841;0
+sao bento;MA;1597;930;1
+sao bento;PB;1597;930;1
+arroio grande;RS;1597;1005;0
+gloria dourados;MS;1586;731;0
+ilha grande;PI;1568;460;0
+alexandria;RN;1555;1047;0
+ivinhema;MS;1555;958;0
+igrejinha;RS;1553;1046;0
+pomerode;SC;1551;781;0
+sao joao polesine;RS;1550;709;0
+rio bonito;RJ;1538;1069;0
+itabirito;MG;1525;1187;0
+rondon;PA;1518;997;1
+rondon;PR;1518;997;1
+barra choca;BA;1508;686;0
+cachoeiras macacu;RJ;1499;833;0
+antonina;PR;1490;766;0
+mendes;RJ;1485;857;0
+viana;ES;1482;1185;1
+viana;MA;1482;1185;1
+loanda;PR;1481;923;0
+manacapuru;AM;1481;1058;0
+simoes filho;BA;1477;995;0
+alcantara;MA;1473;627;0
+pirai;RJ;1473;981;0
+pereira barreto;SP;1472;952;0
+campo verde;MT;1470;952;0
+colorado;PR;1466;1114;1
+colorado;RS;1466;1114;1
+sao joao patos;MA;1464;857;0
+ribeirao pires;SP;1459;1059;0
+senador canedo;GO;1458;1047;0
+riachao jacuipe;BA;1458;1003;0
+princesa isabel;PB;1450;752;0
+sao jose ribamar;MA;1447;829;0
+coronel vivida;PR;1447;816;0
+anicuns;GO;1444;802;0
+horizonte;CE;1444;928;0
+ibipora;PR;1441;1016;0
+jaguaquara;BA;1436;1035;0
+sao gabriel oeste;MS;1433;965;0
+fazenda rio grande;PR;1428;1144;0
+nanuque;MG;1426;923;0
+ji parana;RO;1419;1110;0
+porteirinha;MG;1417;808;0
+sao felix xingu;PA;1411;879;0
+sao raimundo mangabeiras;MA;1405;616;0
+nova cruz;RN;1395;699;0
+timbo;SC;1390;985;0
+ouro preto oeste;RO;1389;1024;0
+rosario sul;RS;1383;969;0
+ouro fino;MG;1382;984;0
+lajes;RN;1370;780;0
+barra;BA;1362;750;0
+engenheiro paulo frontin;RJ;1352;597;0
+cantagalo;MG;1352;921;1
+cantagalo;PR;1352;921;1
+cantagalo;RJ;1352;921;1
+sao lourenco mata;PE;1352;937;0
+coromandel;MG;1346;945;0
+lagoa santa;GO;1345;1052;1
+lagoa santa;MG;1345;1052;1
+posse;GO;1335;825;0
+votorantim;SP;1331;1019;0
+japaratinga;AL;1327;420;0
+sao paulo potengi;RN;1324;816;0
+santo estevao;BA;1321;901;0
+eldorado;MS;1314;642;1
+eldorado;SP;1314;642;1
+rio negro;MS;1312;889;1
+rio negro;PR;1312;889;1
+presidente figueiredo;AM;1310;906;0
+senhora socorro;SE;1309;972;0
+nepomuceno;MG;1305;788;0
+timbauba;PE;1295;871;0
+rio pardo;RS;1294;881;0
+ribeira pombal;BA;1283;954;0
+rubiataba;GO;1282;810;0
+santo antonio leverger;MT;1280;576;0
+piratini;RS;1278;856;0
+santa tereza;RS;1269;581;0
+itarare;SP;1265;886;0
+quissama;RJ;1262;835;0
+tenente portela;RS;1257;732;0
+presidente medici;MA;1256;775;1
+presidente medici;RO;1256;775;1
+brotas;SP;1251;550;0
+silvania;GO;1247;830;0
+ibaiti;PR;1241;906;0
+santa maria jetiba;ES;1239;888;0
+itupeva;SP;1237;607;0
+pompeia;SP;1234;887;0
+monte alto;SP;1228;963;0
+luzerna;SC;1223;504;0
+ibitinga;SP;1217;902;0
+tamandare;PE;1215;484;0
+piumhi;MG;1206;849;0
+anchieta;ES;1200;849;1
+anchieta;SC;1200;849;1
+surubim;PE;1200;891;0
+valente;BA;1200;900;0
+guacui;ES;1198;864;0
+porto ferreira;SP;1189;929;0
+palmeira;PR;1189;925;1
+palmeira;SC;1189;925;1
+ibirama;SC;1182;788;0
+caninde sao francisco;SE;1181;784;0
+lagoa vermelha;RS;1179;927;0
+chopinzinho;PR;1177;735;0
+mocajuba;PA;1175;640;0
+arraial;PI;1169;326;0
+paulistana;PI;1162;788;0
+piracuruca;PI;1161;711;0
+maripa;PR;1158;412;0
+sao miguel;RN;1156;904;0
+teutonia;RS;1155;781;0
+aimores;MG;1155;735;0
+pao acucar;AL;1148;603;0
+morada nova;CE;1146;647;0
+flores cunha;RS;1146;903;0
+guapore;RS;1141;849;0
+aquiraz;CE;1140;658;0
+joao pinheiro;MG;1139;903;0
+eldorado sul;RS;1138;789;0
+guaranta norte;MT;1134;768;0
+sao jose norte;RS;1132;735;0
+ilhabela;SP;1129;618;0
+oliveira;MG;1123;870;0
+brasilia minas;MG;1120;703;0
+rios;BA;1117;793;1
+rios;SC;1117;793;1
+escada;PE;1109;797;0
+rio preto;MG;1107;863;0
+ibatiba;ES;1092;462;0
+sao miguel missoes;RS;1090;564;0
+paty alferes;RJ;1086;487;0
+rorainopolis;RR;1084;687;0
+porto feliz;SP;1079;520;0
+canguaretama;RN;1074;567;0
+saquarema;RJ;1070;843;0
+agudo;RS;1069;717;0
+sananduva;RS;1067;794;0
+iguape;SP;1066;750;0
+nova serrana;MG;1063;904;0
+ita;SC;1059;550;0
+batalha;AL;1057;563;1
+batalha;PI;1057;563;1
+candeias;BA;1054;852;1
+candeias;MG;1054;852;1
+monte alegre;PA;1054;795;1
+monte alegre;RN;1054;795;1
+campina grande sul;PR;1052;800;0
+americo brasiliense;SP;1047;707;0
+cidade gaucha;PR;1045;483;0
+faxinal soturno;RS;1045;566;0
+pedra azul;MG;1040;535;0
+anhembi;SP;1037;515;0
+mairipora;SP;1028;661;0
+ibiuna;SP;1024;690;0
+nova esperanca;PR;1023;752;0
+luciara;MT;1022;517;0
+guaramirim;SC;1021;672;0
+presidente dutra;BA;1015;708;1
+presidente dutra;MA;1015;708;1
+conde;BA;1012;479;1
+conde;PB;1012;479;1
+osvaldo cruz;SP;1012;757;0
+jaguariaiva;PR;1010;620;0
+vila rica;MT;1010;599;0
+gravatal;SC;1005;389;0
+nova olinda;CE;1002;550;1
+nova olinda;PB;1002;550;1
+nova olinda;TO;1002;550;1
+campos gerais;MG;1002;640;0
+carambei;PR;998;696;0
+visconde rio branco;MG;992;711;0
+vicosa ceara;CE;986;422;0
+santa maria boa vista;PE;985;568;0
+sao lourenco oeste;SC;984;763;0
+riacho santana;BA;983;695;1
+riacho santana;RN;983;695;1
+tupancireta;RS;981;721;0
+vargem grande paulista;SP;980;578;0
+barras;PI;980;686;0
+navegantes;SC;979;844;0
+pederneiras;SP;978;731;0
+tobias barreto;SE;976;713;0
+montanha;ES;971;521;0
+monte aprazivel;SP;960;615;0
+cacapava;SP;959;749;0
+cajamar;SP;956;744;0
+boa esperanca;ES;954;804;1
+boa esperanca;MG;954;804;1
+boa esperanca;PR;954;804;1
+portalegre;RN;950;469;0
+juruti;PA;949;581;0
+clevelandia;PR;949;700;0
+itaporanga;PB;945;690;1
+itaporanga;SP;945;690;1
+barcelos;AM;943;489;0
+santana araguaia;PA;940;452;0
+sao pedro sul;RS;940;669;0
+mato verde;MG;935;543;0
+bayeux;PB;934;675;0
+silveira martins;RS;928;469;0
+rancharia;SP;924;709;0
+santa rita passa quatro;SP;922;671;0
+cristalina;GO;917;696;0
+dois irmaos;RS;912;708;0
+sao felix;BA;910;575;0
+bocaiuva;MG;907;597;0
+campo formoso;BA;907;681;0
+aguas lindas goias;GO;907;646;0
+novo horizonte;BA;903;726;1
+novo horizonte;SC;903;726;1
+novo horizonte;SP;903;726;1
+itaparica;BA;901;525;0
+franco rocha;SP;900;774;0
+casca;RS;898;627;0
+sao joaquim barra;SP;894;705;0
+baiao;PA;891;547;0
+canaa carajas;PA;887;740;0
+coroata;MA;877;542;0
+capim grosso;BA;874;648;0
+carlos barbosa;RS;870;658;0
+estancia velha;RS;870;661;0
+treze tilias;SC;858;573;0
+claudio;MG;855;668;0
+candelaria;RS;854;491;0
+alto caparao;MG;849;220;0
+umarizal;RN;849;501;0
+silva jardim;RJ;847;610;0
+ribeirao;PE;846;725;0
+piraju;SP;844;652;0
+louveira;SP;841;528;0
+ubajara;CE;838;536;0
+bom jardim;MA;838;621;1
+bom jardim;PE;838;621;1
+bom jardim;RJ;838;621;1
+rio pedras;SP;835;376;0
+agua branca;AL;832;613;1
+agua branca;PB;832;613;1
+agua branca;PI;832;613;1
+augusto correa;PA;829;521;0
+natividade;RJ;826;570;1
+natividade;TO;826;570;1
+itapolis;SP;822;550;0
+alem paraiba;MG;820;592;0
+aruja;SP;820;685;0
+itapecuru mirim;MA;818;481;0
+icara;SC;816;648;0
+hidrolandia;CE;813;537;1
+hidrolandia;GO;813;537;1
+porto grande;AP;813;525;0
+maues;AM;813;599;0
+imbituba;SC;809;597;0
+labrea;AM;809;560;0
+meruoca;CE;798;385;0
+gloria goita;PE;797;528;0
+capivari baixo;SC;797;579;0
+boa viagem;CE;794;541;0
+sena madureira;AC;794;483;0
+wenceslau braz;MG;794;573;1
+wenceslau braz;PR;794;573;1
+sanclerlandia;GO;793;522;0
+rio negrinho;SC;790;618;0
+sao domingos;BA;790;615;1
+sao domingos;GO;790;615;1
+sao domingos;PB;790;615;1
+sao domingos;SC;790;615;1
+sao domingos;SE;790;615;1
+dourado;SP;788;410;0
+ipu;CE;787;416;0
+caracarai;RR;785;460;0
+itambe;BA;784;624;1
+itambe;PE;784;624;1
+itambe;PR;784;624;1
+maranguape;CE;784;636;0
+quedas iguacu;PR;782;562;0
+paraiba sul;RJ;782;582;0
+mutuipe;BA;779;531;0
+pindorama;SP;778;431;0
+sao joao;PE;778;644;1
+sao joao;PR;778;644;1
+maracana;PA;776;625;0
+teodoro sampaio;BA;774;598;1
+teodoro sampaio;SP;774;598;1
+rio brilhante;MS;772;550;0
+una;BA;770;600;0
+maracas;BA;768;523;0
+moreno;PE;767;489;0
+primavera;PA;767;566;1
+primavera;PE;767;566;1
+pocoes;BA;765;617;0
+acopiara;CE;763;485;0
+eusebio;CE;763;518;0
+colina;SP;760;494;0
+espumoso;RS;759;487;0
+porto rico;PR;756;545;0
+umirim;CE;755;323;0
+queimadas;BA;755;501;1
+queimadas;PB;755;501;1
+ferraz vasconcelos;SP;754;615;0
+pe serra;BA;747;434;0
+tucano;BA;745;610;0
+iuna;ES;742;514;0
+marialva;PR;741;563;0
+palma;MG;738;409;0
+pacoti;CE;734;315;0
+xapuri;AC;734;515;0
+itapevi;SP;734;640;0
+sao sebastiao cai;RS;732;503;0
+iguatama;MG;731;401;0
+marcelino vieira;RN;731;417;0
+almirante tamandare;PR;731;638;0
+itacare;BA;729;431;0
+ipira;BA;729;563;1
+ipira;SC;729;563;1
+ibicarai;BA;729;559;0
+ituporanga;SC;726;513;0
+guajara mirim;RO;725;552;0
+seberi;RS;725;527;0
+areia branca;RN;724;526;1
+areia branca;SE;724;526;1
+candido mota;SP;724;537;0
+bezerros;PE;721;576;0
+fatima;BA;717;509;1
+fatima;TO;717;509;1
+penha;SC;715;432;0
+caarapo;MS;715;560;0
+socorro;SP;713;551;0
+herval;RS;712;508;0
+agua boa;MG;712;533;1
+agua boa;MT;712;533;1
+valenca piaui;PI;708;559;0
+astorga;PR;707;548;0
+santa cruz cabralia;BA;704;377;0
+conquista;MG;703;322;0
+monte negro;RO;703;534;0
+sao gabriel palha;ES;700;423;0
+amajari;RR;700;391;0
+pinheiros;ES;699;567;0
+santa izabel;PA;697;553;0
+arataca;BA;694;435;0
+livramento;PB;694;406;0
+teotonio vilela;AL;693;525;0
+sao fidelis;RJ;693;516;0
+guara;SP;692;550;0
+icapui;CE;688;438;0
+nova veneza;GO;685;294;1
+nova veneza;SC;685;294;1
+alto paraiso;PR;685;435;1
+alto paraiso;RO;685;435;1
+afranio;PE;683;525;0
+muritiba;BA;682;477;0
+parelhas;RN;677;469;0
+lagoa prata;MG;674;504;0
+abelardo luz;SC;670;393;0
+juti;MS;670;331;0
+tiete;SP;670;567;0
+piratuba;SC;669;380;0
+tome acu;PA;668;386;0
+sao miguel araguaia;GO;666;530;0
+promissao;SP;661;546;0
+murici;AL;660;378;0
+arapoti;PR;659;530;0
+emas;PB;657;89;0
+bastos;SP;655;378;0
+cocal sul;SC;654;423;0
+bela vista;MS;654;533;0
+sao jose egito;PE;653;491;0
+capinzal;SC;653;469;0
+rolante;RS;652;415;0
+espinosa;MG;652;459;0
+campo alegre;AL;650;496;1
+campo alegre;SC;650;496;1
+braco norte;SC;650;510;0
+coruripe;AL;647;516;0
+toque;RS;645;364;0
+portel;PA;644;506;0
+cambuquira;MG;643;379;0
+planalto;BA;643;483;1
+planalto;PR;643;483;1
+planalto;RS;643;483;1
+planalto;SP;643;483;1
+cabo verde;MG;641;417;0
+esperanca;PB;638;436;0
+cunha;SP;636;287;0
+sao marcos;RS;633;467;0
+esperantina;PI;629;344;1
+esperantina;TO;629;344;1
+casa branca;SP;629;513;0
+ceu azul;PR;629;531;0
+sao felix araguaia;MT;628;412;0
+martins;RN;627;433;0
+irara;BA;626;483;0
+paraiso;SC;625;483;1
+paraiso;SP;625;483;1
+paracuru;CE;624;368;0
+cacequi;RS;621;311;0
+tapera;RS;621;462;0
+porto franco;MA;620;432;0
+exu;PE;619;444;0
+abreu lima;PE;616;511;0
+anastacio;MS;613;454;0
+barracao;PR;610;422;1
+barracao;RS;610;422;1
+monte carlo;SC;605;362;0
+itapemirim;ES;601;343;0
+orlandia;SP;600;530;0
+gandu;BA;598;485;0
+jandira;SP;597;470;0
+manhumirim;MG;595;438;0
+cafelandia;PR;593;524;1
+cafelandia;SP;593;524;1
+extrema;MG;592;479;0
+equador;RN;591;447;0
+itapora;MS;590;456;0
+sapeacu;BA;589;384;0
+fernando noronha;PE;588;406;0
+sao mateus sul;PR;588;458;0
+prado;BA;587;385;0
+serrolandia;BA;587;429;0
+lavras mangabeira;CE;586;356;0
+tabuleiro norte;CE;586;424;0
+casimiro abreu;RJ;583;444;0
+guarani missoes;RS;583;417;0
+uirauna;PB;580;350;0
+ladario;MS;580;444;0
+nazare;BA;577;472;1
+nazare;TO;577;472;1
+itaja;GO;577;383;1
+itaja;RN;577;383;1
+passira;PE;577;348;0
+paudalho;PE;577;436;0
+ubaitaba;BA;576;435;0
+palmital;PR;574;463;1
+palmital;SP;574;463;1
+iranduba;AM;573;474;0
+quarai;RS;570;417;0
+japeri;RJ;569;421;0
+abaete;MG;569;454;0
+retirolandia;BA;568;375;0
+manoel viana;RS;568;356;0
+paicandu;PR;566;476;0
+itajuipe;BA;565;441;0
+palmas monte alto;BA;565;401;0
+santa isabel;GO;565;523;1
+santa isabel;SP;565;523;1
+ubirata;PR;565;495;0
+mucuge;BA;563;304;0
+turvo;PR;562;495;1
+turvo;SC;562;495;1
+tracuateua;PA;561;379;0
+acara;PA;561;400;0
+canudos;BA;560;399;0
+aurora;CE;560;430;1
+aurora;PA;560;430;1
+aurora;SC;560;430;1
+mangueirinha;PR;560;436;0
+terra roxa;PR;559;417;1
+terra roxa;SP;559;417;1
+monte santo;BA;559;468;0
+boca acre;AM;556;305;0
+sao jose cordeiros;PB;555;209;0
+lajedo;PE;555;429;0
+umbauba;SE;554;405;0
+mairinque;SP;550;473;0
+amelia rodrigues;BA;550;438;0
+chaves;PA;549;185;0
+itaocara;RJ;549;423;0
+cerquilho;SP;549;441;0
+milagres;BA;549;430;1
+milagres;CE;549;430;1
+mateus leme;MG;548;256;0
+alto paraiso goias;GO;548;341;0
+malta;PB;546;380;0
+miranda;MS;546;432;0
+auriflama;SP;545;354;0
+maria fe;MG;543;344;0
+sao francisco itabapoana;RJ;543;409;0
+parobe;RS;543;449;0
+jardinopolis;SC;542;317;1
+jardinopolis;SP;542;317;1
+ilha comprida;SP;539;321;0
+uniao;PI;538;398;0
+alenquer;PA;538;394;0
+taruma;SP;534;434;0
+caieiras;SP;534;449;0
+santo antonio;RN;533;447;0
+sao jose mipibu;RN;532;404;0
+luis gomes;RN;530;382;0
+pacaraima;RR;529;359;0
+lago pedra;MA;528;331;0
+niquelandia;GO;527;418;0
+presidente kennedy;ES;527;340;1
+presidente kennedy;TO;527;340;1
+morretes;PR;526;320;0
+prata;MG;525;327;1
+prata;PB;525;327;1
+paraiso norte;PR;524;370;0
+tres barras;SC;523;290;0
+jarinu;SP;523;268;0
+comodoro;MT;522;402;0
+santa gertrudes;SP;521;312;0
+corbelia;PR;521;441;0
+virginia;MG;521;436;0
+canavieiras;BA;520;405;0
+boquim;SE;520;403;0
+antonio prado;RS;518;358;0
+reduto;MG;518;356;0
+tijucas sul;PR;517;294;0
+santa terezinha itaipu;PR;517;424;0
+arroio meio;RS;516;387;0
+urussanga;SC;516;385;0
+sao francisco assis;RS;514;411;0
+matelandia;PR;513;443;0
+carolina;MA;511;297;0
+carmo paranaiba;MG;511;366;0
+piedade;SP;511;433;0
+candiota;RS;510;392;0
+mongagua;SP;510;350;0
+brejo madre deus;PE;509;354;0
+lavras sul;RS;508;231;0
+barra sao francisco;ES;506;381;0
+marataizes;ES;501;403;0
+matupa;MT;500;390;0
+itaara;RS;500;334;0
+casa nova;BA;499;408;0
+cicero dantas;BA;498;382;0
+coaraci;BA;498;421;0
+igarape acu;PA;497;376;0
+guapimirim;RJ;497;404;0
+alagoa grande;PB;496;405;0
+mauriti;CE;496;361;0
+tailandia;PA;495;389;0
+lambari;MG;495;395;0
+esplanada;BA;493;241;0
+caiaponia;GO;493;363;0
+pinheiro machado;RS;492;317;0
+cambara;PR;492;376;0
+sapucaia;PA;492;424;1
+sapucaia;RJ;492;424;1
+mandaguacu;PR;490;375;0
+miracatu;SP;489;428;0
+tupi paulista;SP;488;346;0
+santo antonio missoes;RS;488;333;0
+sape;PB;485;399;0
+santo amaro imperatriz;SC;484;351;0
+cidreira;RS;484;320;0
+turmalina;MG;481;289;1
+turmalina;SP;481;289;1
+portao;RS;481;395;0
+pedras fogo;PB;480;296;0
+aguas belas;PE;480;329;0
+quatro barras;PR;479;409;0
+canarana;BA;478;403;1
+canarana;MT;478;403;1
+bariri;SP;478;387;0
+japaratuba;SE;478;350;0
+perdoes;MG;478;399;0
+buritis;MG;477;389;1
+buritis;RO;477;389;1
+indianopolis;MG;475;346;1
+indianopolis;PR;475;346;1
+taperoa;BA;475;356;1
+taperoa;PB;475;356;1
+sao felipe;BA;475;362;0
+brodowski;SP;475;357;0
+otacilio costa;SC;474;321;0
+poco verde;SE;474;341;0
+estrela alagoas;AL;473;299;0
+luzilandia;PI;473;342;0
+pitangui;MG;473;368;0
+aquidaba;SE;472;308;0
+altos;PI;472;355;0
+tabira;PE;471;379;0
+varzea paulista;SP;471;366;0
+sao jose cedro;SC;470;315;0
+porto belo;SC;469;349;0
+junqueiropolis;SP;468;338;0
+sao joao nepomuceno;MG;467;381;0
+araponga;MG;467;377;0
+sertania;PE;466;337;0
+morro chapeu;BA;466;371;0
+guanhaes;MG;463;413;0
+taiobeiras;MG;462;303;0
+pilar;AL;461;378;1
+pilar;PB;461;378;1
+mercedes;PR;460;246;0
+araci;BA;459;376;0
+tangua;RJ;456;360;0
+mostardas;RS;455;231;0
+cabreuva;SP;455;314;0
+adustina;BA;455;292;0
+sao tome;PR;455;382;1
+sao tome;RN;455;382;1
+nova santa rita;PI;454;363;1
+nova santa rita;RS;454;363;1
+nova palma;RS;453;336;0
+nova olimpia;MT;453;365;1
+nova olimpia;PR;453;365;1
+tibagi;PR;451;293;0
+buique;PE;451;339;0
+sapezal;MT;451;355;0
+cacule;BA;450;314;0
+guaraniacu;PR;448;374;0
+itamarandiba;MG;447;371;0
+gloria;BA;443;372;0
+santa barbara oeste;SP;443;376;0
+juquia;SP;442;337;0
+guaraquecaba;PR;441;291;0
+santana boa vista;RS;441;271;0
+boca mata;AL;441;358;0
+piracanjuba;GO;441;375;0
+marmeleiro;PR;439;327;0
+itororo;BA;439;353;0
+pedro afonso;TO;438;348;0
+livramento senhora;BA;437;347;0
+dionisio cerqueira;SC;435;318;0
+ribeiropolis;SE;435;283;0
+alto alegre;RR;435;331;1
+alto alegre;RS;435;331;1
+alto alegre;SP;435;331;1
+sao goncalo campos;BA;435;329;0
+aragarcas;GO;435;357;0
+sao roque minas;MG;433;285;0
+palmitinho;RS;430;304;0
+andradas;MG;428;297;0
+sao bento una;PE;428;343;0
+picada cafe;RS;427;257;0
+barra sao miguel;AL;427;321;1
+barra sao miguel;PB;427;321;1
+varzea alegre;CE;427;372;0
+regente feijo;SP;426;315;0
+tupaciguara;MG;426;336;0
+pindai;BA;425;299;0
+jaguare;ES;425;348;0
+pojuca;BA;424;356;0
+jacupiranga;SP;424;360;0
+mirandopolis;SP;424;352;0
+sao jorge;RS;423;321;0
+itabaianinha;SE;422;310;0
+ubaira;BA;422;318;0
+massaranduba;PB;421;320;1
+massaranduba;SC;421;320;1
+ilha itamaraca;PE;421;268;0
+jose bonifacio;SP;420;291;0
+castro alves;BA;420;344;0
+limoeiro ajuru;PA;419;278;0
+tibau sul;RN;418;230;0
+solanea;PB;418;304;0
+porto real;RJ;418;350;0
+ibotirama;BA;418;361;0
+petrolandia;PE;417;346;1
+petrolandia;SC;417;346;1
+melgaco;PA;417;331;0
+ipiranga;PR;417;362;0
+sidrolandia;MS;416;329;0
+orizona;GO;416;349;0
+cruzeiro oeste;PR;416;341;0
+brasileia;AC;412;308;0
+ichu;BA;412;285;0
+boqueirao;PB;411;291;0
+anapu;PA;410;239;0
+eloi mendes;MG;410;331;0
+conceicao barra;ES;410;324;0
+pedra branca;CE;409;302;1
+pedra branca;PB;409;302;1
+ibarama;RS;405;207;0
+jaiba;MG;405;296;0
+jitauna;BA;405;326;0
+guaraciaba norte;CE;404;283;0
+caldas;MG;404;313;0
+ouro;SC;403;282;0
+jacunda;PA;402;322;0
+mucuri;BA;402;349;0
+angical;BA;400;286;0
+rialma;GO;399;235;0
+sao desiderio;BA;397;281;0
+governador celso ramos;SC;397;302;0
+rio real;BA;396;316;0
+santa terezinha;MT;396;323;1
+santa terezinha;PE;396;323;1
+santa terezinha;SC;396;323;1
+atalaia;AL;395;316;1
+atalaia;PR;395;316;1
+aracoiaba serra;SP;395;301;0
+taquaritinga norte;PE;394;241;0
+remanso;BA;394;343;0
+inhuma;PI;392;292;0
+pirapozinho;SP;392;299;0
+tres marias;MG;392;310;0
+querencia;MT;392;342;0
+cavalcante;GO;391;223;0
+afonso claudio;ES;390;312;0
+capela;AL;390;311;1
+capela;SE;390;311;1
+taquari;RS;389;330;0
+porto murtinho;MS;388;280;0
+constantina;RS;387;276;0
+amarante;PI;387;303;0
+jaguarari;BA;387;318;0
+esmeraldas;MG;386;311;0
+alvares machado;SP;386;299;0
+cambui;MG;386;303;0
+jequitinhonha;MG;385;271;0
+alexania;GO;384;281;0
+cajati;SP;383;333;0
+candoi;PR;382;249;0
+cambara sul;RS;382;234;0
+mae rio;PA;382;278;0
+ipixuna;AM;381;211;1
+ipixuna;PA;381;211;1
+conceicao jacuipe;BA;380;317;0
+coronel joao sa;BA;379;240;0
+serrana;SP;379;312;0
+maquine;RS;378;217;0
+serafina correa;RS;378;325;0
+varzea;PB;378;334;1
+varzea;RN;378;334;1
+itaipulandia;PR;377;299;0
+sarzedo;MG;376;210;0
+coreau;CE;375;268;0
+indiana;SP;375;327;0
+aripuana;MT;374;275;0
+bom principio;RS;374;264;0
+tres coroas;RS;374;311;0
+irai;RS;373;260;0
+itiuba;BA;373;303;0
+acari;RN;372;229;0
+fronteiras;PI;372;270;0
+candido sales;BA;371;280;0
+brasil novo;PA;371;282;0
+cabaceiras;PB;370;220;0
+vargem alta;ES;370;289;0
+camargo;RS;369;218;0
+rodeio;SC;369;290;0
+missal;PR;368;303;0
+sao sebastiao passe;BA;367;320;0
+mariluz;PR;366;167;0
+francisco morato;SP;366;315;0
+diamante norte;PR;365;256;0
+tremembe;SP;365;311;0
+edeia;GO;365;282;0
+redencao gurgueia;PI;363;193;0
+paulo frontin;PR;363;266;0
+agrestina;PE;362;225;0
+nova hartz;RS;362;257;0
+sao joao soter;MA;362;230;0
+pedreira;SP;362;324;0
+vera cruz oeste;PR;361;320;0
+corupa;SC;360;161;0
+bom sucesso;MG;360;299;1
+bom sucesso;PB;360;299;1
+bom sucesso;PR;360;299;1
+madre deus;BA;359;293;0
+marechal floriano;ES;358;236;0
+urandi;BA;358;281;0
+bom conselho;PE;358;303;0
+sao bento sapucai;SP;357;228;0
+itatinga;SP;356;227;0
+santo antonio monte;MG;356;261;0
+reboucas;PR;356;293;0
+santa quiteria;CE;356;318;0
+juatuba;MG;356;302;0
+barra funda;RS;355;247;0
+jeremoabo;BA;355;279;0
+igapora;BA;355;273;0
+cabrobo;PE;355;287;0
+espera feliz;MG;354;258;0
+seara;SC;354;301;0
+encruzilhada sul;RS;353;282;0
+miguel calmon;BA;353;304;0
+itau minas;MG;352;257;0
+barra estiva;BA;350;233;0
+santo anastacio;SP;350;277;0
+andira;PR;350;262;0
+guariba;SP;350;301;0
+jauru;MT;349;287;0
+mirante paranapanema;SP;349;293;0
+caetes;PE;348;248;0
+teofilandia;BA;348;251;0
+urupema;SC;347;233;0
+aldeias altas;MA;347;241;0
+dois corregos;SP;347;272;0
+buriti lopes;PI;346;233;0
+breu branco;PA;346;275;0
+forquilhinha;SC;346;264;0
+pentecoste;CE;346;253;0
+uruara;PA;346;274;0
+saude;BA;345;227;0
+sao jose laje;AL;344;260;0
+morro reuter;RS;343;240;0
+aparecida taboado;MS;343;287;0
+iguaba grande;RJ;343;277;0
+sao benedito;CE;343;296;0
+caravelas;BA;342;277;0
+igarapava;SP;342;295;0
+balneario pinhal;RS;341;240;0
+mazagao;AP;341;256;0
+crixas;GO;340;259;0
+cabaceiras paraguacu;BA;339;244;0
+nova aurora;GO;338;272;1
+nova aurora;PR;338;272;1
+paranapanema;SP;337;221;0
+toritama;PE;337;248;0
+guaranesia;MG;336;257;0
+senhora dores;SE;335;264;0
+vicencia;PE;335;253;0
+ulianopolis;PA;334;242;0
+fundao;ES;334;250;0
+alagoinha;PB;334;268;1
+alagoinha;PE;334;268;1
+junqueiro;AL;334;271;0
+santo cristo;RS;334;294;0
+farias brito;CE;334;280;0
+roseira;SP;333;212;0
+camacan;BA;333;265;0
+balneario picarras;SC;332;277;0
+angical piaui;PI;331;165;0
+jose penha;RN;331;210;0
+arroio ratos;RS;331;272;0
+lima duarte;MG;330;267;0
+vitorino;PR;329;211;0
+vargem grande;MA;327;257;0
+conceicao almeida;BA;327;243;0
+brejo cruz;PB;327;266;0
+irituia;PA;326;250;0
+iporanga;SP;326;249;0
+guaraciaba;MG;326;276;1
+guaraciaba;SC;326;276;1
+cordisburgo;MG;325;209;0
+ibimirim;PE;324;242;0
+jucurutu;RN;324;248;0
+martinopolis;SP;323;261;0
+eirunepe;AM;323;261;0
+paraguacu;MG;323;253;0
+anguera;BA;323;252;0
+igaci;AL;322;231;0
+matina;BA;322;229;0
+monte siao;MG;321;235;0
+quatis;RJ;321;252;0
+jaicos;PI;321;239;0
+taio;SC;321;270;0
+varzea palma;MG;321;254;0
+itaobim;MG;320;240;0
+lapao;BA;320;268;0
+ibiracu;ES;319;235;0
+sao simao;GO;319;275;1
+sao simao;SP;319;275;1
+pacatuba;CE;319;276;1
+pacatuba;SE;319;276;1
+sao joao rio peixe;PB;318;227;0
+grossos;RN;318;238;0
+salgado;SE;317;237;0
+pirajui;SP;317;276;0
+campos julio;MT;317;263;0
+aracoiaba;CE;317;288;1
+aracoiaba;PE;317;288;1
+belo campo;BA;316;228;0
+arroio sal;RS;316;236;0
+patrocinio paulista;SP;315;258;0
+lagoa grande;MG;315;262;1
+lagoa grande;PE;315;262;1
+mairi;BA;315;245;0
+candiba;BA;314;245;0
+curuca;PA;314;254;0
+mantena;MG;313;260;0
+espigao oeste;RO;312;254;0
+anage;BA;312;226;0
+pantano grande;RS;311;241;0
+estacao;RS;310;241;0
+cravinhos;SP;310;265;0
+belterra;PA;309;247;0
+oros;CE;309;237;0
+areias;SP;308;182;0
+jaguaruana;CE;308;252;0
+guamare;RN;308;246;0
+taquarana;AL;307;244;0
+pradopolis;SP;306;211;0
+extremoz;RN;306;244;0
+monte azul paulista;SP;305;227;0
+tomazina;PR;303;204;0
+igarape miri;PA;303;227;0
+artur nogueira;SP;303;272;0
+senador pompeu;CE;303;229;0
+nova fatima;BA;303;233;1
+nova fatima;PR;303;233;1
+massape;CE;303;233;0
+guaiuba;CE;302;204;0
+ajuricaba;RS;302;211;0
+santa barbara sul;RS;302;233;0
+porto folha;SE;302;255;0
+divinolandia;SP;300;204;0
+cruz;CE;299;259;0
+rio bonito iguacu;PR;298;239;0
+iguai;BA;298;215;0
+bela vista goias;GO;297;237;0
+assai;PR;297;254;0
+salto jacui;RS;297;229;0
+girau ponciano;AL;297;228;0
+caririacu;CE;296;227;0
+lucrecia;RN;296;242;0
+tangara;RN;296;248;1
+tangara;SC;296;248;1
+antonio cardoso;BA;295;217;0
+araripe;CE;295;237;0
+ibicoara;BA;295;232;0
+itau;RN;295;202;0
+sao jose vale rio preto;RJ;294;180;0
+santa luz;PI;294;243;0
+formoso araguaia;TO;294;233;0
+arroio tigre;RS;294;240;0
+bom jesus penha;MG;293;129;0
+bujaru;PA;293;214;0
+maragogipe;BA;293;225;0
+alianca;PE;293;245;0
+lucelia;SP;293;246;0
+guararapes;SP;293;245;0
+paraibuna;SP;292;216;0
+tavares;PB;291;195;1
+tavares;RS;291;195;1
+baixo guandu;ES;291;248;0
+capitolio;MG;290;211;0
+barrocas;BA;289;211;0
+barauna;PB;289;237;1
+barauna;RN;289;237;1
+palmeiras;BA;289;250;0
+remigio;PB;288;243;0
+jacutinga;MG;287;230;1
+jacutinga;RS;287;230;1
+sao joao batista;MA;287;232;1
+sao joao batista;SC;287;232;1
+conceicao mato dentro;MG;287;226;0
+caconde;SP;287;234;0
+sao jose belmonte;PE;286;211;0
+itupiranga;PA;286;215;0
+ponta pedras;PA;285;188;0
+pompeu;MG;285;227;0
+monte mor;SP;285;253;0
+nova santa rosa;PR;284;202;0
+chapada;RS;284;220;0
+mata;RS;284;208;0
+bonfim;MG;284;228;1
+bonfim;RR;284;228;1
+quata;SP;284;265;0
+curvelandia;MT;283;222;0
+bela vista paraiso;PR;282;192;0
+delfim moreira;MG;282;207;0
+itubera;BA;282;246;0
+mambore;PR;282;253;0
+ibiapina;CE;281;180;0
+quixere;CE;281;240;0
+piratininga;SP;281;231;0
+ceara mirim;RN;280;227;0
+novo gama;GO;280;199;0
+mallet;PR;280;218;0
+medicilandia;PA;280;232;0
+carmo rio claro;MG;279;231;0
+acegua;RS;279;223;0
+pacajus;CE;278;234;0
+santana acarau;CE;278;215;0
+jardim serido;RN;278;218;0
+tutoia;MA;277;175;0
+itapoa;SC;277;221;0
+rio flores;RJ;277;218;0
+alto parana;PR;277;249;0
+araua;SE;276;182;0
+augusto pestana;RS;276;208;0
+arvorezinha;RS;276;204;0
+sao paulo missoes;RS;276;182;0
+orobo;PE;276;223;0
+macaubas;BA;276;242;0
+correntina;BA;276;248;0
+aguas prata;SP;275;181;0
+matozinhos;MG;275;231;0
+prudente morais;MG;275;193;0
+formigueiro;RS;275;202;0
+lagoa gatos;PE;275;239;0
+nova bassano;RS;274;190;0
+altinopolis;SP;274;199;0
+barroso;MG;274;235;0
+itapaje;CE;274;215;0
+aguai;SP;274;244;0
+limoeiro anadia;AL;273;187;0
+bituruna;PR;273;226;0
+santaluz;BA;273;241;0
+morro redondo;RS;272;199;0
+buerarema;BA;272;208;0
+conceicao feira;BA;272;211;0
+laje;BA;272;212;0
+carire;CE;271;195;0
+catas altas;MG;271;164;0
+santo antonio descoberto;GO;271;240;0
+porto alegre norte;MT;271;200;0
+tambau;SP;271;235;0
+terra nova norte;MT;270;206;0
+xique xique;BA;270;205;0
+matias barbosa;MG;270;224;0
+mondai;SC;270;241;0
+nova russas;CE;269;164;0
+quatro pontes;PR;269;173;0
+lagoa canoa;AL;269;199;0
+paranatinga;MT;269;226;0
+conceicao alagoas;MG;269;224;0
+ubata;BA;268;198;0
+camapua;MS;268;198;0
+carinhanha;BA;268;222;0
+carmo cajuru;MG;268;217;0
+bossoroca;RS;268;207;0
+simplicio mendes;PI;268;203;0
+cosmopolis;SP;268;243;0
+pato bragado;PR;267;203;0
+cerqueira cesar;SP;267;240;0
+andarai;BA;267;233;0
+presidente bernardes;MG;267;241;1
+presidente bernardes;SP;267;241;1
+ribeirao cascalheira;MT;266;204;0
+ibiassuce;BA;266;218;0
+angatuba;SP;265;165;0
+forquilha;CE;265;220;0
+ilopolis;RS;264;180;0
+bom jesus norte;ES;264;204;0
+nova;MG;264;249;0
+juazeirinho;PB;263;171;0
+santa mariana;PR;263;158;0
+pio;MA;263;220;1
+pio;PI;263;220;1
+porteiras;CE;263;207;0
+perdizes;MG;263;245;0
+rio preto eva;AM;262;212;0
+coracao maria;BA;262;216;0
+curaca;BA;262;232;0
+capelinha;MG;261;205;0
+canto buriti;PI;261;217;0
+confins;MG;261;216;0
+condado;PB;261;223;1
+condado;PE;261;223;1
+luiziania;SP;260;174;0
+machadinho;RS;260;219;0
+pinhal;RS;260;215;0
+serra branca;PB;260;208;0
+belo oriente;MG;259;221;0
+pedra preta;MT;259;230;1
+pedra preta;RN;259;230;1
+guape;MG;258;81;0
+estreito;MA;258;201;0
+apiaca;ES;258;168;0
+apiai;SP;258;228;0
+agua fria;BA;257;206;0
+simoes;PI;257;209;0
+maracai;SP;256;214;0
+ronda alta;RS;256;203;0
+nova mamore;RO;256;197;0
+independencia;CE;255;228;1
+independencia;RS;255;228;1
+sao miguel arcanjo;SP;255;191;0
+quilombo;SC;255;222;0
+marco;CE;255;213;0
+monte santo minas;MG;254;161;0
+iraucuba;CE;254;210;0
+cacimbinhas;AL;253;180;0
+pedro osorio;RS;253;199;0
+ruy barbosa;BA;253;208;1
+ruy barbosa;RN;253;208;1
+terra boa;PR;253;218;0
+igaracu tiete;SP;252;172;0
+altinho;PE;252;216;0
+barreirinha;AM;252;208;0
+sao joao pirabas;PA;251;205;0
+ipanema;MG;251;216;0
+santa rosa lima;SC;250;153;1
+santa rosa lima;SE;250;153;1
+reriutaba;CE;250;193;0
+tapurah;MT;250;180;0
+pontal;SP;250;211;0
+barra turvo;SP;250;210;0
+poco redondo;SE;250;208;0
+itagiba;BA;250;218;0
+cerejeiras;RO;250;226;0
+novo oriente;CE;249;170;0
+parauna;GO;248;207;0
+ibirataia;BA;248;221;0
+presidente tancredo neves;BA;247;190;0
+planaltino;BA;247;177;0
+vila maria;RS;246;188;0
+candeias jamari;RO;246;191;0
+sao jose tapera;AL;246;183;0
+barra santa rosa;PB;246;180;0
+iretama;PR;246;190;0
+bataypora;MS;246;203;0
+bananal;SP;245;158;0
+santana cariri;CE;245;192;0
+conchal;SP;245;204;0
+baixa grande;BA;244;194;0
+vazante;MG;244;212;0
+italva;RJ;243;215;0
+feira nova;PE;243;194;1
+feira nova;SE;243;194;1
+cidade ocidental;GO;243;214;0
+forquetinha;RS;242;51;0
+itamonte;MG;242;171;0
+araioses;MA;242;165;0
+aratiba;RS;242;188;0
+carandai;MG;242;189;0
+iguatemi;MS;242;206;0
+rodeio bonito;RS;242;159;0
+almeirim;PA;242;195;0
+crissiumal;RS;242;199;0
+erval seco;RS;242;207;0
+marilandia;ES;241;198;0
+barra velha;SC;240;184;0
+neropolis;GO;240;185;0
+capinopolis;MG;240;196;0
+goianira;GO;240;219;0
+general carneiro;MT;239;177;1
+general carneiro;PR;239;177;1
+panelas;PE;239;194;0
+cruzeta;RN;238;168;0
+rio contas;BA;238;186;0
+itapissuma;PE;238;195;0
+manoel vitorino;BA;238;191;0
+quixabeira;BA;238;200;0
+cumaru;PE;238;182;0
+craibas;AL;238;164;0
+barreira;CE;238;222;0
+itarema;CE;237;165;0
+faxinal guedes;SC;237;171;0
+vargem grande sul;SP;237;199;0
+castilho;SP;237;208;0
+conceicao castelo;ES;237;214;0
+balneario arroio silva;SC;236;140;0
+pardinho;SP;236;150;0
+carlos chagas;MG;236;179;0
+peixoto azevedo;MT;236;186;0
+nova alvorada sul;MS;236;193;0
+sao goncalo sapucai;MG;236;208;0
+itirucu;BA;235;181;0
+itagi;BA;235;175;0
+ibate;SP;235;194;0
+alcobaca;BA;234;181;0
+ijaci;MG;234;174;0
+regeneracao;PI;234;205;0
+bocaiuva sul;PR;233;117;0
+cristino castro;PI;233;161;0
+sao joao ponta;PA;232;113;0
+marcelino ramos;RS;232;160;0
+cunha pora;SC;232;190;0
+nova esperanca sul;RS;232;176;0
+croata;CE;232;171;0
+piranguinho;MG;231;154;0
+inhapim;MG;231;165;0
+upanema;RN;231;166;0
+miguelopolis;SP;231;186;0
+neopolis;SE;231;185;0
+hulha negra;RS;231;187;0
+grao mogol;MG;230;187;0
+porto esperidiao;MT;230;182;0
+capitao leonidas marques;PR;230;205;0
+anadia;AL;229;142;0
+carmopolis;SE;229;170;0
+pains;MG;229;183;0
+mandirituba;PR;229;185;0
+sao miguel guapore;RO;229;177;0
+macatuba;SP;228;196;0
+serranopolis;GO;228;178;0
+santa vitoria;MG;228;186;0
+morro agudo;SP;228;184;0
+tucuma;PA;228;201;0
+alagoa nova;PB;228;174;0
+paraiso sul;RS;228;185;0
+pirai sul;PR;227;176;0
+lagoa nova;RN;227;200;0
+francisco sa;MG;226;191;0
+sao vicente ferrer;MA;226;199;1
+sao vicente ferrer;PE;226;199;1
+utinga;BA;225;128;0
+morro fumaca;SC;225;160;0
+cristal;RS;225;162;0
+antonio carlos;MG;225;187;1
+antonio carlos;SC;225;187;1
+encruzilhada;BA;225;183;0
+nioaque;MS;225;185;0
+granja;CE;224;175;0
+cambuci;RJ;224;167;0
+vitoria xingu;PA;224;203;0
+bela cruz;CE;224;183;0
+elesbao veloso;PI;224;188;0
+manicore;AM;224;194;0
+uruana;GO;223;193;0
+fonte boa;AM;223;160;0
+serra preta;BA;223;172;0
+sao martinho;RS;222;123;1
+sao martinho;SC;222;123;1
+ervalia;MG;222;167;0
+salvador sul;RS;221;167;0
+salto grande;SP;221;186;0
+aluminio;SP;221;189;0
+dona francisca;RS;220;162;0
+marapanim;PA;220;183;0
+indiaroba;SE;220;165;0
+rodolfo fernandes;RN;220;145;0
+itanhandu;MG;220;179;0
+juscimeira;MT;220;173;0
+jupi;PE;220;178;0
+urai;PR;219;171;0
+sao jose ouro;RS;219;162;0
+porecatu;PR;219;186;0
+trizidela vale;MA;219;167;0
+andorinha;BA;219;167;0
+mimoso sul;ES;219;199;0
+santa cruz palmeiras;SP;219;205;0
+tapiramuta;BA;219;181;0
+dormentes;PE;218;179;0
+raposa;MA;218;176;0
+cacu;GO;218;172;0
+carlinda;MT;218;186;0
+tarauaca;AC;218;194;0
+caibate;RS;217;148;0
+heliopolis;BA;217;155;0
+itapecerica;MG;217;198;0
+guadalupe;PI;217;189;0
+vila bela santissima trindade;MT;216;170;0
+ibicui;BA;216;173;0
+piripa;BA;216;165;0
+japura;AM;216;187;1
+japura;PR;216;187;1
+rio casca;MG;216;183;0
+nova londrina;PR;216;200;0
+muniz freire;ES;215;166;0
+derrubadas;RS;215;166;0
+paraipaba;CE;214;165;0
+teixeiras;MG;214;175;0
+catende;PE;214;175;0
+serra ramalho;BA;214;176;0
+siqueira campos;PR;214;194;0
+cruz machado;PR;214;189;0
+baia traicao;PB;213;145;0
+caicara;PB;213;171;1
+caicara;RS;213;171;1
+rios oeste;PR;213;158;0
+jaguaretama;CE;213;197;0
+rio grande serra;SP;212;129;0
+correia pinto;SC;212;157;0
+sao jose piranhas;PB;212;160;0
+pianco;PB;212;170;0
+ruropolis;PA;212;182;0
+flores;PE;212;184;0
+santa tereza oeste;PR;211;168;0
+nonoai;RS;211;176;0
+tuparetama;PE;211;171;0
+gurupa;PA;211;190;0
+cordeiro;RJ;211;189;0
+severiano melo;RN;211;153;0
+presidente getulio;SC;211;196;0
+miradouro;MG;210;105;0
+pinhal grande;RS;210;168;0
+rosario catete;SE;210;173;0
+parai;RS;210;167;0
+iraquara;BA;210;161;0
+boa vista burica;RS;210;177;0
+malhada;BA;210;156;0
+varzedo;BA;210;174;0
+nova boa vista;RS;209;153;0
+santana matos;RN;209;172;0
+engenheiro beltrao;PR;209;181;0
+ocara;CE;209;187;0
+santo antonio amparo;MG;209;169;0
+atalaia norte;AM;209;173;0
+santa maria madalena;RJ;208;134;0
+ribas rio pardo;MS;208;167;0
+rondinha;RS;208;176;0
+cururupu;MA;207;170;0
+bacabeira;MA;207;170;0
+biritinga;BA;207;161;0
+brasileira;PI;207;189;0
+aracariguama;SP;206;165;0
+barro alto;BA;206;166;1
+barro alto;GO;206;166;1
+monte alegre sul;SP;206;149;0
+inhambupe;BA;206;172;0
+serrinha pintos;RN;206;158;0
+gouveia;MG;206;173;0
+taquarituba;SP;206;185;0
+ibirapitanga;BA;206;191;0
+lindolfo collor;RS;205;149;0
+camocim sao felix;PE;205;154;0
+pindobacu;BA;205;165;0
+barro;CE;205;168;0
+ipora oeste;SC;205;172;0
+brasilandia;MS;205;180;0
+iacu;BA;204;152;0
+bicas;MG;204;175;0
+miranorte;TO;204;150;0
+itanhem;BA;204;172;0
+coremas;PB;204;165;0
+taquarucu sul;RS;204;171;0
+salto pirapora;SP;204;178;0
+elisio medrado;BA;203;164;0
+riachao dantas;SE;203;159;0
+paraopeba;MG;203;159;0
+cairu;BA;203;168;0
+goianinha;RN;203;172;0
+joao dourado;BA;203;158;0
+assare;CE;203;181;0
+taguai;SP;202;158;0
+dom macedo costa;BA;202;149;0
+jaboticaba;RS;202;177;0
+pontao;RS;202;166;0
+palmares sul;RS;202;167;0
+nova vicosa;BA;202;161;0
+canta;RR;202;170;0
+frei paulo;SE;201;164;0
+pintadas;BA;201;182;0
+selbach;RS;200;158;0
+sonora;MS;200;176;0
+matriz camaragibe;AL;199;159;0
+lagoa real;BA;199;135;0
+tombos;MG;199;120;0
+novo repartimento;PA;199;159;0
+perola;PR;199;148;0
+altaneira;CE;199;167;0
+chapada gaucha;MG;198;146;0
+carbonita;MG;198;125;0
+ipiranga sul;RS;198;140;0
+uruoca;CE;198;152;0
+cupira;PE;198;161;0
+butia;RS;198;169;0
+coxilha;RS;198;158;0
+raul soares;MG;198;177;0
+sao ludgero;SC;197;150;0
+moita bonita;SE;197;109;0
+inhangapi;PA;197;165;0
+nisia floresta;RN;197;165;0
+piracaia;SP;197;174;0
+virginopolis;MG;197;166;0
+sao caetano odivelas;PA;197;171;0
+fortaleza valos;RS;197;174;0
+borba;AM;196;128;0
+urubici;SC;196;158;0
+firminopolis;GO;196;165;0
+claudia;MT;196;166;0
+pilar sul;SP;196;162;0
+douradina;MS;196;178;1
+douradina;PR;196;178;1
+imbituva;PR;196;176;0
+divino;MG;195;142;0
+monte alegre sergipe;SE;195;145;0
+nova ponte;MG;195;149;0
+pedro canario;ES;195;173;0
+ipaussu;SP;195;166;0
+floresta azul;BA;194;155;0
+fontoura xavier;RS;194;159;0
+igrapiuna;BA;194;160;0
+itaiopolis;SC;194;168;0
+alto santo;CE;194;158;0
+faxinal;PR;194;183;0
+bataguassu;MS;194;171;0
+peabiru;PR;194;174;0
+alpestre;RS;193;109;0
+aguas santa barbara;SP;193;118;0
+brejoes;BA;193;159;0
+francisco dantas;RN;193;150;0
+camamu;BA;193;174;0
+balsa nova;PR;193;176;0
+nova soure;BA;192;144;0
+correntes;PE;192;140;0
+campo brito;SE;192;139;0
+castelo piaui;PI;192;164;0
+belem brejo cruz;PB;192;147;0
+macarani;BA;192;158;0
+maracaja;SC;191;144;0
+prados;MG;191;149;0
+curiuva;PR;191;153;0
+serranopolis iguacu;PR;190;152;0
+jatoba;MA;190;151;1
+jatoba;PE;190;151;1
+baependi;MG;190;161;0
+ipaumirim;CE;190;151;0
+capela alto alegre;BA;190;141;0
+ametista sul;RS;190;144;0
+casinhas;PE;190;146;0
+sao jose vitoria;BA;190;148;0
+santa cecilia;PB;190;174;1
+santa cecilia;SC;190;174;1
+rio azul;PR;189;157;0
+renascenca;PR;189;159;0
+conchas;SP;189;159;0
+novo progresso;PA;189;164;0
+laranjal paulista;SP;189;166;0
+pereiro;CE;189;156;0
+santo antonio ica;AM;188;140;0
+campo magro;PR;188;157;0
+macaparana;PE;188;157;0
+iepe;SP;187;141;0
+cassia;MG;187;160;0
+ipeuna;SP;187;155;0
+poco fundo;MG;187;164;0
+lagoa carro;PE;187;161;0
+boa nova;BA;187;168;0
+sao goncalo rio abaixo;MG;187;174;0
+nova prata iguacu;PR;187;173;0
+indiara;GO;186;151;0
+ourem;PA;186;154;0
+rio verde mato grosso;MS;186;158;0
+caem;BA;186;155;0
+uaua;BA;186;163;0
+roque gonzales;RS;186;152;0
+descanso;SC;185;154;0
+macambara;RS;185;123;0
+gilbues;PI;185;131;0
+janduis;RN;185;149;0
+serra negra norte;RN;185;148;0
+sideropolis;SC;185;164;0
+treviso;SC;185;169;0
+terra areia;RS;184;141;0
+piritiba;BA;184;146;0
+carnauba dantas;RN;184;157;0
+campinas sul;RS;183;146;0
+passa vinte;MG;183;90;0
+areal;RJ;183;150;0
+sinimbu;RS;183;151;0
+coracao jesus;MG;183;142;0
+esperantinopolis;MA;183;142;0
+piloes;PB;183;138;1
+piloes;RN;183;138;1
+novo airao;AM;182;139;0
+caapora;PB;182;147;0
+arari;MA;182;141;0
+alegrete piaui;PI;182;153;0
+sete barras;SP;182;159;0
+conceicao;MG;182;154;1
+conceicao;PB;182;154;1
+santo antonio sudoeste;PR;182;165;0
+curralinho;PA;182;162;0
+sao joao oeste;SC;181;140;0
+pontalina;GO;181;150;0
+mancio lima;AC;181;145;0
+paranhos;MS;181;143;0
+lupercio;SP;181;136;0
+vere;PR;181;153;0
+buritizeiro;MG;181;159;0
+dores campos;MG;181;170;0
+eldorado carajas;PA;180;129;0
+dom feliciano;RS;180;136;0
+sao jose calcado;ES;180;149;0
+aroeiras;PB;180;149;0
+arapora;MG;180;157;0
+sao joao ponte;MG;179;143;0
+serra mel;RN;179;131;0
+frutuoso gomes;RN;179;141;0
+campina verde;MG;179;145;0
+serrita;PE;179;162;0
+campestre;AL;179;164;1
+campestre;MG;179;164;1
+sao domingos capim;PA;179;156;0
+acreuna;GO;179;165;0
+groairas;CE;178;133;0
+alfredo chaves;ES;178;149;0
+mari;PB;178;146;0
+ipe;RS;178;141;0
+centralina;MG;177;91;0
+lagoa itaenga;PE;177;150;0
+ribeirao grande;SP;176;115;0
+muana;PA;176;123;0
+bodoco;PE;176;142;0
+borborema;PB;176;142;1
+borborema;SP;176;142;1
+uibai;BA;176;140;0
+riacho almas;PE;176;142;0
+pariquera acu;SP;176;130;0
+cansancao;BA;176;145;0
+santo antonio pinhal;SP;175;118;0
+dona ines;PB;175;121;0
+pinheirinho vale;RS;175;139;0
+santa monica;PR;175;137;0
+muqui;ES;175;153;0
+dom eliseu;PA;175;163;0
+silves;AM;174;101;0
+itambacuri;MG;174;157;0
+sao jose inhacora;RS;173;125;0
+paranatama;PE;173;149;0
+sao joao baliza;RR;172;110;0
+minas novas;MG;172;142;0
+selviria;MS;172;112;0
+jacarau;PB;171;112;0
+santo antonio posse;SP;171;137;0
+brasnorte;MT;171;128;0
+pau brasil;BA;171;142;0
+lafaiete coutinho;BA;171;145;0
+ipecaeta;BA;171;145;0
+fartura;SP;171;157;0
+nortelandia;MT;171;151;0
+itariri;SP;171;162;0
+baixio;CE;170;74;0
+mato leitao;RS;170;112;0
+aruana;GO;170;123;0
+fagundes;PB;170;134;0
+tuparendi;RS;170;131;0
+porto calvo;AL;170;152;0
+barao cocais;MG;170;150;0
+itabela;BA;170;146;0
+mucajai;RR;170;137;0
+sao jose uba;RJ;170;156;0
+lagoa formosa;MG;169;143;0
+paraisopolis;MG;169;152;0
+jacinto machado;SC;168;135;0
+capivari sul;RS;168;132;0
+antonio martins;RN;168;121;0
+vila pavao;ES;168;144;0
+ananas;TO;168;135;0
+guatapara;SP;168;138;0
+jaguaruna;SC;168;148;0
+guabiruba;SC;167;141;0
+oratorios;MG;167;125;0
+trairi;CE;167;150;0
+agua nova;RN;167;134;0
+nova olinda norte;AM;167;145;0
+brejo;MA;167;143;0
+santa leopoldina;ES;166;101;0
+abadia goias;GO;166;113;0
+paranaita;MT;166;130;0
+sao roque canaa;ES;166;128;0
+rafael jambeiro;BA;166;128;0
+senador jose porfirio;PA;166;140;0
+agronomica;SC;166;144;0
+cerro azul;PR;165;113;0
+lagoa dourada;MG;165;121;0
+coronel sapucaia;MS;165;134;0
+luminarias;MG;165;131;0
+capao cipo;RS;165;136;0
+major sales;RN;165;137;0
+iracemapolis;SP;165;158;0
+david canabarro;RS;164;116;0
+agua clara;MS;164;123;0
+itaguara;MG;164;145;0
+paula candido;MG;164;132;0
+riachuelo;RN;164;150;1
+riachuelo;SE;164;150;1
+amontada;CE;164;140;0
+santo antonio taua;PA;164;149;0
+pirambu;SE;163;113;0
+lagoa confusao;TO;163;122;0
+sao nicolau;RS;163;102;0
+joao alfredo;PE;163;125;0
+toropi;RS;163;117;0
+pitangueiras;PR;163;140;1
+pitangueiras;SP;163;140;1
+peixe;MG;162;143;1
+peixe;TO;162;143;1
+jiquirica;BA;162;125;0
+tanabi;SP;162;145;0
+alto rodrigues;RN;162;143;0
+carauari;AM;162;146;0
+salinas margarida;BA;161;98;0
+urbano santos;MA;161;105;0
+itaquirai;MS;161;134;0
+cabralia paulista;SP;161;130;0
+campina monte alegre;SP;161;124;0
+ortigueira;PR;161;131;0
+umbuzeiro;PB;161;135;0
+touros;RN;161;138;0
+joao lisboa;MA;161;133;0
+campinapolis;MT;160;131;0
+colares;PA;160;122;0
+iconha;ES;160;138;0
+abre campo;MG;160;127;0
+cristinapolis;SE;160;125;0
+lauro muller;SC;160;124;0
+salto lontra;PR;160;144;0
+ferreira gomes;AP;160;153;0
+capitao eneas;MG;159;118;0
+chui;RS;159;122;0
+morros;MA;159;133;0
+bodoquena;MS;159;142;0
+jijoca jericoacoara;CE;159;132;0
+itaguacu;ES;159;136;0
+quijingue;BA;159;126;0
+timbiras;MA;159;143;0
+santana paraiso;MG;159;141;0
+alvorada oeste;RO;159;138;0
+cruzilia;MG;158;117;0
+cachoeira indios;PB;158;121;0
+tres cachoeiras;RS;158;126;0
+areado;MG;158;129;0
+sao joaquim bicas;MG;158;131;0
+varzea poco;BA;158;126;0
+arara;PB;158;133;0
+jari;RS;158;136;0
+canhotinho;PE;158;133;0
+alpinopolis;MG;158;136;0
+sao paulo olivenca;AM;158;136;0
+varjota;CE;157;127;0
+tanque novo;BA;157;124;0
+quinze novembro;RS;157;134;0
+condor;RS;157;137;0
+iaras;SP;156;126;0
+roca sales;RS;156;120;0
+nova brasilandia;MT;156;117;0
+cha grande;PE;156;121;0
+simonesia;MG;156;105;0
+cruzeiro iguacu;PR;156;122;0
+jucas;CE;156;120;0
+tanquinho;BA;156;121;0
+barro preto;BA;156;133;0
+martinho campos;MG;156;142;0
+ipueiras;CE;156;136;1
+ipueiras;TO;156;136;1
+paramirim;BA;155;132;0
+juquitiba;SP;155;137;0
+catanduvas;PR;155;141;1
+catanduvas;SC;155;141;1
+barra mendes;BA;155;115;0
+agua doce;SC;155;137;0
+ribeirao claro;PR;155;136;0
+tracunhaem;PE;154;115;0
+altonia;PR;154;138;0
+barra ribeiro;RS;154;124;0
+pocinhos;PB;154;131;0
+florestopolis;PR;154;129;0
+sao miguel matas;BA;154;138;0
+santana riacho;MG;153;106;0
+vila nova piaui;PI;153;101;0
+itapiuna;CE;153;130;0
+deodapolis;MS;153;137;0
+alterosa;MG;153;123;0
+sao pedro iguacu;PR;153;127;0
+brejinho;PE;153;127;1
+brejinho;RN;153;127;1
+nova laranjeiras;PR;153;137;0
+jardim alegre;PR;153;140;0
+sao francisco gloria;MG;152;109;0
+jussari;BA;152;120;0
+borda mata;MG;152;132;0
+cipo;BA;152;133;0
+cachoeira arari;PA;152;132;0
+reserva iguacu;PR;152;128;0
+delfinopolis;MG;151;84;0
+pastos bons;MA;151;97;0
+pouso alto;MG;151;104;0
+canabrava norte;MT;151;114;0
+cerrito;RS;151;118;0
+teixeira;PB;150;107;0
+matinhas;PB;150;108;0
+sabaudia;PR;150;93;0
+dois irmaos buriti;MS;150;106;0
+sentinela sul;RS;150;105;0
+pejucara;RS;150;114;0
+feira grande;AL;150;108;0
+sao jose jacuipe;BA;150;102;0
+oroco;PE;150;125;0
+afonso bezerra;RN;150;128;0
+monte belo;MG;150;132;0
+iracema;CE;150;127;1
+iracema;RR;150;127;1
+guarani;MG;150;131;0
+campina lagoa;PR;150;143;0
+moema;MG;149;121;0
+sapucai mirim;MG;149;114;0
+carrancas;MG;149;122;0
+sooretama;ES;149;128;0
+agua preta;PE;149;128;0
+sao tiago;MG;149;141;0
+porangaba;SP;148;89;0
+ecoporanga;ES;148;111;0
+campo florido;MG;148;113;0
+salto veloso;SC;148;120;0
+mulungu;CE;148;124;1
+mulungu;PB;148;124;1
+anita garibaldi;SC;148;128;0
+carmo;RJ;148;120;0
+aracatu;BA;148;121;0
+monte alegre minas;MG;148;129;0
+dores indaia;MG;148;134;0
+rio branco sul;PR;148;132;0
+araguaiana;MT;147;122;0
+penalva;MA;147;128;0
+carira;SE;147;119;0
+cesario lange;SP;147;120;0
+salgadinho;PB;147;115;1
+salgadinho;PE;147;115;1
+terra nova;BA;147;125;1
+terra nova;PE;147;125;1
+messias;AL;147;119;0
+dilermando aguiar;RS;147;120;0
+ponto volantes;MG;147;108;0
+tamarana;PR;147;127;0
+leopolis;PR;147;133;0
+custodia;PE;147;136;0
+pendencias;RN;146;113;0
+quipapa;PE;146;120;0
+nova trento;SC;146;116;0
+arroio padre;RS;146;111;0
+barao cotegipe;RS;146;122;0
+saire;PE;146;124;0
+boa vista ramos;AM;146;123;0
+itabera;SP;146;134;0
+tanhacu;BA;146;133;0
+sao geraldo araguaia;PA;146;139;0
+varzea roca;BA;146;128;0
+gaurama;RS;145;108;0
+agua santa;RS;145;105;0
+fernandes pinheiro;PR;145;105;0
+rio pardo minas;MG;145;114;0
+joaquim nabuco;PE;145;117;0
+sao jose barra;MG;145;115;0
+sanharo;PE;145;119;0
+aracagi;PB;144;106;0
+nazareno;MG;144;102;0
+ituacu;BA;144;111;0
+paripueira;AL;144;102;0
+sertanopolis;PR;144;114;0
+terenos;MS;144;117;0
+marlieria;MG;144;119;0
+maetinga;BA;144;117;0
+afua;PA;144;130;0
+viradouro;SP;144;117;0
+itapicuru;BA;144;122;0
+banzae;BA;144;124;0
+cedro sao joao;SE;143;93;0
+sao sebastiao boa vista;PA;143;116;0
+presidente olegario;MG;143;115;0
+urupa;RO;143;117;0
+santa maria herval;RS;143;113;0
+sao joao batista gloria;MG;143;118;0
+divisa nova;MG;143;112;0
+itapagipe;MG;143;130;0
+aiquara;BA;143;113;0
+ribeirao pinhal;PR;143;130;0
+sao miguel milagres;AL;142;60;0
+boa vista aparecida;PR;142;78;0
+passo sobrado;RS;142;98;0
+mirabela;MG;142;113;0
+joanopolis;SP;142;120;0
+terezinha;PE;142;124;0
+jandaia;GO;142;115;0
+cristalandia;TO;142;130;0
+salitre;CE;142;110;0
+porto gauchos;MT;142;119;0
+pacaja;PA;142;122;0
+nobres;MT;141;99;0
+madalena;CE;141;109;0
+belmonte;BA;141;124;1
+belmonte;SC;141;124;1
+alto alegre pindare;MA;141;126;0
+tocantinia;TO;141;120;0
+joia;RS;141;123;0
+normandia;RR;141;111;0
+medeiros neto;BA;141;123;0
+monteiro lobato;SP;140;103;0
+caetanopolis;MG;140;114;0
+jardim piranhas;RN;140;115;0
+mirangaba;BA;140;125;0
+autazes;AM;140;127;0
+cedral;MA;139;104;1
+cedral;SP;139;104;1
+liberato salzano;RS;139;106;0
+lucena;PB;139;99;0
+porto moz;PA;139;120;0
+sitio novo;MA;139;115;1
+sitio novo;RN;139;115;1
+ouroeste;SP;139;117;0
+vale sol;RS;139;124;0
+tamboril;CE;139;114;0
+monte alegre goias;GO;139;122;0
+manoel ribas;PR;139;129;0
+sao joao cariri;PB;138;115;0
+ibiraiaras;RS;138;114;0
+jatei;MS;138;123;0
+sao joao ivai;PR;138;119;0
+monte azul;MG;138;120;0
+ivora;RS;138;125;0
+cajuru;SP;138;133;0
+parnarama;MA;138;123;0
+queluz;SP;137;99;0
+pedro toledo;SP;137;115;0
+novo barreiro;RS;137;123;0
+central;BA;137;116;0
+sabinopolis;MG;137;106;0
+pedregulho;SP;137;120;0
+ibiraci;MG;137;111;0
+itaitinga;CE;137;121;0
+porciuncula;RJ;137;126;0
+resplendor;MG;137;123;0
+catuipe;RS;137;130;0
+itaperucu;PR;136;92;0
+guapiacu;SP;136;107;0
+arenapolis;MT;136;105;0
+jaguaribara;CE;136;119;0
+peritoro;MA;136;118;0
+campo ere;SC;136;117;0
+heitorai;GO;136;104;0
+rio maria;PA;136;122;0
+mirante serra;RO;136;111;0
+corinto;MG;136;121;0
+caparao;MG;135;75;0
+vargem;SC;135;80;1
+vargem;SP;135;80;1
+guatambu;SC;135;100;0
+condeuba;BA;135;111;0
+porto xavier;RS;135;113;0
+cristalandia piaui;PI;135;99;0
+paranacity;PR;135;117;0
+dom basilio;BA;135;108;0
+passa fica;RN;135;105;0
+ibia;MG;135;121;0
+maribondo;AL;135;118;0
+cristais paulista;SP;135;125;0
+sao joao sabugi;RN;135;122;0
+erval grande;RS;135;129;0
+jequia praia;AL;134;76;0
+padre bernardo;GO;134;92;0
+canapolis;BA;134;108;1
+canapolis;MG;134;108;1
+sandovalina;SP;134;104;0
+lagoa;PB;134;106;0
+puxinana;PB;134;104;0
+tacaratu;PE;134;121;0
+pedra branca amapari;AP;134;118;0
+reserva;PR;134;124;0
+santa rosa viterbo;SP;134;128;0
+ipueira;RN;134;122;0
+mirai;MG;134;121;0
+tunapolis;SC;133;115;0
+olindina;BA;133;119;0
+brazopolis;MG;133;120;0
+sertaneja;PR;133;110;0
+ourilandia norte;PA;133;117;0
+santa izabel oeste;PR;133;126;0
+juru;PB;132;86;0
+iguaracu;PR;132;104;0
+santa cruz baixa verde;PE;132;111;0
+santa brigida;BA;132;104;0
+rio novo;MG;132;108;0
+estrela sul;MG;132;106;0
+irani;SC;132;108;0
+maruim;SE;132;108;0
+tucunduva;RS;132;116;0
+ipuacu;SC;132;114;0
+ivai;PR;132;117;0
+lagoa dentro;PB;131;89;0
+mombaca;CE;131;98;0
+maria helena;PR;131;109;0
+ibipitanga;BA;131;94;0
+malhada pedras;BA;131;98;0
+guaraita;GO;131;107;0
+palestina;AL;131;108;1
+palestina;PA;131;108;1
+palestina;SP;131;108;1
+papanduva;SC;131;123;0
+barrinha;SP;131;121;0
+braganey;PR;131;123;0
+palmelo;GO;130;83;0
+itaquara;BA;130;108;0
+ouro verde;SC;130;121;1
+ouro verde;SP;130;121;1
+monsenhor paulo;MG;130;112;0
+candido abreu;PR;130;116;0
+sao joao paraiso;MA;130;116;1
+sao joao paraiso;MG;130;116;1
+novo aripuana;AM;129;69;0
+riachao;MA;129;96;1
+riachao;PB;129;96;1
+ibitita;BA;129;117;0
+juripiranga;PB;129;90;0
+quebrangulo;AL;129;108;0
+caxambu sul;SC;129;110;0
+novo horizonte norte;MT;129;112;0
+joao neiva;ES;129;118;0
+panorama;SP;128;85;0
+rosario limeira;MG;128;85;0
+pedras altas;RS;128;89;0
+chapadao ceu;GO;128;113;0
+ilhota;SC;128;109;0
+granito;PE;128;112;0
+itati;RS;128;105;0
+saubara;BA;128;113;0
+candido godoi;RS;127;105;0
+conceicao macabu;RJ;127;109;0
+cardoso moreira;RJ;127;107;0
+carmo minas;MG;127;119;0
+balneario gaivota;SC;127;108;0
+tenente ananias;RN;127;108;0
+camanducaia;MG;126;101;0
+divinesia;MG;126;104;0
+botupora;BA;126;107;0
+coite noia;AL;126;106;0
+calcado;PE;126;102;0
+ribeirao bonito;SP;126;106;0
+gongogi;BA;126;107;0
+bueno brandao;MG;126;111;0
+tremedal;BA;126;102;0
+sao jose rio claro;MT;126;115;0
+ourolandia;BA;126;114;0
+bom progresso;RS;125;92;0
+viadutos;RS;125;97;0
+sento;BA;125;118;0
+itaete;BA;125;105;0
+jacuizinho;RS;125;113;0
+itapitanga;BA;125;111;0
+aperibe;RJ;125;114;0
+sao jose serido;RN;125;107;0
+anisio abreu;PI;124;90;0
+anta gorda;RS;124;80;0
+capoeiras;PE;124;100;0
+candeal;BA;124;104;0
+francisco santos;PI;124;102;0
+cerro grande sul;RS;124;96;0
+poco trincheiras;AL;124;101;0
+sao joao jaguaribe;CE;124;107;0
+vista alegre;RS;124;107;0
+capistrano;CE;124;113;0
+paqueta;PI;123;91;0
+quixelo;CE;123;87;0
+sao martinho serra;RS;123;95;0
+sao pedro ivai;PR;123;111;0
+bom retiro sul;RS;123;112;0
+tapiratiba;SP;122;95;0
+igreja nova;AL;122;110;0
+inga;PB;122;113;0
+joaquim tavora;PR;122;110;0
+campo novo;RS;122;107;0
+guaracai;SP;121;72;0
+capitao;RS;121;100;0
+florania;RN;121;101;0
+curimata;PI;121;91;0
+vitorino freire;MA;121;103;0
+gararu;SE;121;101;0
+morungaba;SP;121;103;0
+vila nova sul;RS;121;101;0
+carnaubal;CE;121;106;0
+restinga;SP;121;102;0
+diamante;PB;121;110;0
+pedralva;MG;120;88;0
+cordeiros;BA;120;78;0
+apuarema;BA;120;99;0
+cantanhede;MA;120;108;0
+marcelandia;MT;120;111;0
+sao vicente serido;PB;120;107;0
+abadiania;GO;120;112;0
+rio cedros;SC;119;66;0
+pirpirituba;PB;119;74;0
+iuiu;BA;119;100;0
+combinado;TO;119;98;0
+itarana;ES;119;97;0
+parambu;CE;119;92;0
+itatim;BA;119;94;0
+piranga;MG;119;101;0
+carmopolis minas;MG;119;104;0
+inacio martins;PR;119;109;0
+querencia norte;PR;119;107;0
+glorinha;RS;119;108;0
+sao vendelino;RS;118;62;0
+senhora livramento;MT;118;91;0
+epitaciolandia;AC;118;100;0
+taquarussu;MS;118;101;0
+botelhos;MG;118;95;0
+nova granada;SP;118;99;0
+silvianopolis;MG;118;99;0
+encanto;RN;118;95;0
+campos borges;RS;118;108;0
+mariopolis;PR;118;111;0
+tupassi;PR;118;108;0
+ernestina;RS;117;98;0
+perobal;PR;117;112;0
+nova erechim;SC;117;107;0
+pirauba;MG;117;100;0
+graca;CE;117;102;0
+ponto novo;BA;117;96;0
+sao jose cerrito;SC;117;104;0
+nova esperanca piria;PA;117;107;0
+placido castro;AC;117;101;0
+fazenda nova;GO;117;110;0
+axixa;MA;117;111;0
+sirinhaem;PE;116;79;0
+biritiba mirim;SP;116;95;0
+nazarezinho;PB;116;86;0
+dom pedro;MA;116;101;0
+itai;SP;116;100;0
+almadina;BA;116;94;0
+cachoeira dourada;GO;116;103;1
+cachoeira dourada;MG;116;103;1
+irineopolis;SC;116;104;0
+monsenhor hipolito;PI;116;97;0
+caldeirao grande;BA;116;98;0
+fervedouro;MG;116;99;0
+serra azul;SP;115;85;0
+ibiaca;RS;115;102;0
+novo cabrais;RS;115;93;0
+sao luis paraitinga;SP;115;92;0
+cacique doble;RS;115;97;0
+sao domingos araguaia;PA;115;96;0
+itaicaba;CE;115;105;0
+barao grajau;MA;115;94;0
+brejetuba;ES;115;95;0
+schroeder;SC;115;101;0
+arealva;SP;115;106;0
+roncador;PR;115;106;0
+moreira sales;PR;115;101;0
+nova canaa;BA;115;100;0
+itapaci;GO;115;108;0
+jataizinho;PR;114;92;0
+atalanta;SC;114;91;0
+lagoa ouro;PE;114;94;0
+loreto;MA;114;85;0
+aurelino leal;BA;114;91;0
+sao domingos sul;RS;114;100;0
+itatira;CE;114;98;0
+sao francisco guapore;RO;114;103;0
+piacabucu;AL;114;99;0
+rodelas;BA;114;98;0
+carapebus;RJ;113;86;0
+tio hugo;RS;113;92;0
+vianopolis;GO;113;94;0
+turucu;RS;113;93;0
+ouro verde oeste;PR;113;89;0
+boraceia;SP;113;94;0
+paula freitas;PR;113;106;0
+presidente castelo branco;PR;113;101;0
+pombos;PE;112;100;0
+terra alta;PA;112;82;0
+doutor camargo;PR;112;97;0
+ipumirim;SC;112;96;0
+caxingo;PI;112;96;0
+jaguapita;PR;112;104;0
+prainha;PA;111;86;0
+xexeu;PE;111;90;0
+guairaca;PR;111;66;0
+matureia;PB;111;77;0
+ilicinea;MG;111;99;0
+ibirajuba;PE;111;88;0
+manga;MG;111;94;0
+sao miguel anta;MG;111;94;0
+antonio goncalves;BA;111;97;0
+sao bentinho;PB;111;85;0
+redentora;RS;111;97;0
+alto alegre parecis;RO;111;98;0
+abare;BA;111;106;0
+itamari;BA;110;75;0
+acajutiba;BA;110;79;0
+umburanas;BA;110;95;0
+itatiaiucu;MG;110;99;0
+jesuitas;PR;110;100;0
+ipiranga piaui;PI;110;99;0
+delta;MG;110;96;0
+vera;MT;110;102;0
+terra rica;PR;110;104;0
+itapororoca;PB;109;81;0
+sao miguel gostoso;RN;109;89;0
+sao miguel aleixo;SE;109;76;0
+traipu;AL;109;90;0
+mar espanha;MG;109;94;0
+ibira;SP;109;85;0
+barra quarai;RS;109;79;0
+gurinhem;PB;109;85;0
+itainopolis;PI;109;88;0
+bocaina;PI;109;97;1
+bocaina;SP;109;97;1
+sao mamede;PB;109;87;0
+vicentina;MS;109;97;0
+atilio vivacqua;ES;109;98;0
+santa lucia;PR;109;101;1
+santa lucia;SP;109;101;1
+cambira;PR;109;100;0
+aral moreira;MS;109;89;0
+pacuja;CE;109;96;0
+novo cruzeiro;MG;109;102;0
+tapira;MG;109;104;1
+tapira;PR;109;104;1
+santa carmem;MT;108;75;0
+santa cruz vitoria;BA;108;76;0
+japonvar;MG;108;59;0
+palma sola;SC;108;76;0
+aramari;BA;108;84;0
+mendonca;SP;108;86;0
+gentil;RS;108;92;0
+aratuba;CE;108;94;0
+sao rafael;RN;108;93;0
+doutor severiano;RN;108;88;0
+couto magalhaes minas;MG;108;81;0
+sao jose divino;MG;108;97;1
+sao jose divino;PI;108;97;1
+garuva;SC;108;103;0
+buritama;SP;107;86;0
+santo antonio aventureiro;MG;107;63;0
+boa vista tupim;BA;107;95;0
+poco jose moura;PB;107;85;0
+sao carlos ivai;PR;107;96;0
+santa margarida;MG;107;89;0
+barbosa ferraz;PR;107;93;0
+cajuri;MG;107;96;0
+itiquira;MT;107;102;0
+uiramuta;RR;107;95;0
+jacareacanga;PA;107;104;0
+sao sebastiao amoreira;PR;107;103;0
+taciba;SP;106;79;0
+bequimao;MA;106;86;0
+mario campos;MG;106;86;0
+sao joaquim monte;PE;106;78;0
+sao felix coribe;BA;106;89;0
+passos maia;SC;106;89;0
+saloa;PE;106;87;0
+poxoreu;MT;106;101;0
+lebon regis;SC;106;98;0
+rio antonio;BA;105;81;0
+rio acima;MG;105;81;0
+tomar geru;SE;105;79;0
+alvorada sul;PR;105;92;0
+icatu;MA;105;84;0
+pien;PR;105;95;0
+quevedos;RS;105;94;0
+joaima;MG;104;70;0
+maua serra;PR;104;86;0
+rosario oeste;MT;104;98;0
+ponte alta;SC;104;81;0
+salesopolis;SP;104;95;0
+jacui;MG;104;87;0
+novo horizonte oeste;RO;104;99;0
+carnaubais;RN;103;77;0
+brejinho nazare;TO;103;83;0
+costa marques;RO;103;93;0
+marizopolis;PB;103;79;0
+monsenhor tabosa;CE;103;92;0
+sao thome letras;MG;103;89;0
+pocao;PE;103;95;0
+piquet carneiro;CE;103;87;0
+coronel freitas;SC;103;96;0
+pureza;RN;103;97;0
+montividiu;GO;103;97;0
+aguas formosas;MG;102;74;0
+saudades;SC;102;87;0
+laguna carapa;MS;102;72;0
+messias targino;RN;102;83;0
+contenda;PR;102;98;0
+comendador levy gasparian;RJ;102;77;0
+fagundes varela;RS;102;88;0
+aguas mornas;SC;102;78;0
+eugenopolis;MG;102;79;0
+bandeirante;SC;102;91;0
+sao sebastiao grama;SP;102;94;0
+sao francisco oeste;RN;102;87;0
+sao joao sul;SC;102;89;0
+bom jesus tocantins;PA;102;91;1
+bom jesus tocantins;TO;102;91;1
+mampituba;RS;101;47;0
+jatauba;PE;101;77;0
+santa clara sul;RS;101;79;0
+segredo;RS;101;74;0
+boqueirao leao;RS;101;76;0
+duartina;SP;101;88;0
+tibau;RN;101;77;0
+aracas;BA;101;92;0
+senador guiomard;AC;101;90;0
+igarape grande;MA;101;92;0
+presidente janio quadros;BA;101;91;0
+boa ventura sao roque;PR;101;87;0
+barra rocha;BA;101;89;0
+pedra;PE;101;88;0
+nilo pecanha;BA;101;93;0
+anapurus;MA;100;56;0
+porto pedras;AL;100;67;0
+apui;AM;100;78;0
+bernardino batista;PB;100;82;0
+nova timboteua;PA;100;82;0
+tabapua;SP;100;73;0
+nova uniao;MG;100;77;1
+nova uniao;RO;100;77;1
+cerro grande;RS;100;83;0
+cotegipe;BA;100;82;0
+progresso;RS;100;93;0
+venturosa;PE;100;90;0
+gurjao;PB;100;87;0
+salgado filho;PR;100;88;0
+tabapora;MT;100;91;0
+barra guabiraba;PE;100;89;0
+resende costa;MG;99;78;0
+mormaco;RS;99;73;0
+iacanga;SP;99;84;0
+carnaiba;PE;99;84;0
+corumba goias;GO;99;84;0
+nova floresta;PB;99;85;0
+governador nunes freire;MA;99;85;0
+formosa oeste;PR;99;91;0
+congo;PB;99;93;0
+santa rita cassia;BA;99;89;0
+caibi;SC;99;93;0
+general salgado;SP;99;94;0
+fama;MG;98;45;0
+catingueira;PB;98;61;0
+feijo;AC;98;81;0
+malhador;SE;98;68;0
+benedito novo;SC;98;79;0
+olivenca;AL;98;81;0
+esmeralda;RS;98;89;0
+itaguacu bahia;BA;98;75;0
+laje muriae;RJ;98;86;0
+icaraima;PR;98;88;0
+duas estradas;PB;98;81;0
+caraa;RS;98;87;0
+wenceslau guimaraes;BA;98;87;0
+cajueiro;AL;98;86;0
+davinopolis;GO;98;92;1
+davinopolis;MA;98;92;1
+mozarlandia;GO;98;90;0
+alegria;RS;97;62;0
+pacaembu;SP;97;85;0
+porto real colegio;AL;97;82;0
+jurema;PE;97;82;1
+jurema;PI;97;82;1
+acaua;PI;97;82;0
+santa branca;SP;97;90;0
+sao sebastiao oeste;MG;97;79;0
+tuiuti;SP;97;84;0
+ascurra;SC;97;91;0
+carnaubeira penha;PE;97;85;0
+santa maria oeste;PR;97;88;0
+jaraguari;MS;96;75;0
+monsenhor gil;PI;96;72;0
+presidente juscelino;MA;96;71;1
+presidente juscelino;MG;96;71;1
+pratapolis;MG;96;75;0
+sao sebastiao lagoa roca;PB;96;72;0
+sao geraldo;MG;96;75;0
+vargem bonita;MG;96;85;1
+vargem bonita;SC;96;85;1
+parapua;SP;96;88;0
+amarante maranhao;MA;96;80;0
+cristopolis;BA;96;85;0
+igarape meio;MA;96;87;0
+irai minas;MG;96;86;0
+joaquim gomes;AL;96;87;0
+liberdade;MG;96;92;0
+banabuiu;CE;96;93;0
+embu guacu;SP;95;75;0
+jaquirana;RS;95;74;0
+senhora aparecida;SE;95;69;0
+dom expedito lopes;PI;95;74;0
+fenix;PR;95;82;0
+palhano;CE;95;77;0
+frecheirinha;CE;95;73;0
+nova ipixuna;PA;95;83;0
+sitio quinto;BA;95;82;0
+cha alegria;PE;95;85;0
+padre paraiso;MG;95;88;0
+janiopolis;PR;95;91;0
+jundia;AL;95;90;1
+jundia;RN;95;90;1
+piata;BA;95;90;0
+mata grande;AL;94;77;0
+rio formoso;PE;94;78;0
+garrafao norte;PA;94;82;0
+sao joao mata;MG;94;74;0
+pote;MG;94;79;0
+cruz espirito santo;PB;94;70;0
+vale paraiso;RO;94;84;0
+carrapateira;PB;94;75;0
+milha;CE;94;76;0
+itaquitinga;PE;94;87;0
+elias fausto;SP;94;76;0
+itacuruba;PE;94;81;0
+aguia branca;ES;94;82;0
+guapo;GO;94;83;0
+rio novo sul;ES;94;79;0
+itinga;MG;94;86;0
+mirandiba;PE;94;78;0
+chavantes;SP;94;90;0
+cerro cora;RN;94;90;0
+piquete;SP;94;87;0
+tres palmeiras;RS;93;74;0
+mogeiro;PB;93;64;0
+taboleiro grande;RN;93;69;0
+guaicara;SP;93;80;0
+pancas;ES;93;77;0
+japoata;SE;93;81;0
+rios minas;MG;93;81;0
+paim filho;RS;93;82;0
+cachoeira minas;MG;93;76;0
+agua azul norte;PA;93;76;0
+charrua;RS;93;77;0
+merces;MG;93;79;0
+inhauma;MG;93;79;0
+lunardelli;PR;93;80;0
+barra santana;PB;93;85;0
+itajobi;SP;93;88;0
+quiterianopolis;CE;93;90;0
+major isidoro;AL;93;88;0
+tres barras parana;PR;93;90;0
+maximiliano almeida;RS;92;66;0
+rafael godeiro;RN;92;69;0
+alhandra;PB;92;76;0
+guamiranga;PR;92;82;0
+lontras;SC;92;77;0
+formosa rio preto;BA;92;80;0
+unistalda;RS;92;77;0
+chorozinho;CE;92;84;0
+nova palmeira;PB;91;66;0
+santa cruz piaui;PI;91;76;0
+bofete;SP;91;75;0
+torrinha;SP;91;66;0
+jangada;MT;91;75;0
+datas;MG;91;69;0
+juruena;MT;91;77;0
+baia formosa;RN;91;77;0
+riacho cruz;RN;91;72;0
+rincao;SP;91;72;0
+feliz natal;MT;91;82;0
+bonito santa fe;PB;91;75;0
+manfrinopolis;PR;91;76;0
+israelandia;GO;91;80;0
+tacaimbo;PE;91;82;0
+sao miguel tapuio;PI;91;80;0
+cristina;MG;91;82;0
+mambai;GO;90;37;0
+ribeirao vermelho;MG;90;53;0
+sao domingos prata;MG;90;60;0
+sao jose xingu;MT;90;58;0
+santa barbara leste;MG;90;63;0
+barra guarita;RS;90;67;0
+cujubim;RO;90;75;0
+cardoso;SP;90;73;0
+dores rio preto;ES;90;69;0
+potiretama;CE;90;69;0
+honorio serpa;PR;90;70;0
+divina pastora;SE;90;75;0
+santa adelia;SP;90;69;0
+itaiba;PE;90;76;0
+urucara;AM;90;77;0
+vargem alegre;MG;90;78;0
+mutum;MG;90;82;0
+angelica;MS;90;82;0
+boa vista missoes;RS;90;79;0
+conceicao aparecida;MG;90;81;0
+itaju colonia;BA;89;65;0
+cacimba dentro;PB;89;58;0
+serra grande;PB;89;74;0
+carutapera;MA;89;78;0
+agrolandia;SC;89;70;0
+estiva;MG;89;73;0
+ipubi;PE;89;75;0
+campo redondo;RN;89;74;0
+goianapolis;GO;89;75;0
+riachao neves;BA;89;81;0
+branquinha;AL;89;78;0
+limeira oeste;MG;89;70;0
+apiuna;SC;89;79;0
+ouvidor;GO;89;79;0
+vanini;RS;89;80;0
+brejao;PE;89;79;0
+ouricangas;BA;89;81;0
+guaratinga;BA;89;79;0
+miraguai;RS;89;81;0
+matoes;MA;89;82;0
+quitandinha;PR;89;88;0
+itaucu;GO;89;80;0
+caseara;TO;88;69;0
+irupi;ES;88;60;0
+ibateguara;AL;88;77;0
+brejo grande araguaia;PA;88;70;0
+serrania;MG;88;74;0
+sao caitano;PE;88;75;0
+carmo cachoeira;MG;88;75;0
+acaiaca;MG;88;72;0
+sao jorge oeste;PR;88;76;0
+carneirinho;MG;88;72;0
+chuvisca;RS;88;75;0
+rio bananal;ES;88;76;0
+britania;GO;88;73;0
+chiapetta;RS;88;83;0
+bernardino campos;SP;88;85;0
+miguel alves;PI;87;51;0
+santa luzia parua;MA;87;66;0
+sebastiao laranjeiras;BA;87;67;0
+denise;MT;87;64;0
+rolador;RS;87;60;0
+lontra;MG;87;74;0
+coronel barros;RS;87;73;0
+malacacheta;MG;87;79;0
+lima campos;MA;87;74;0
+ibema;PR;87;73;0
+brejo santos;PB;87;73;0
+lagoinha;SP;87;78;0
+solonopole;CE;87;79;0
+alto garcas;MT;87;78;0
+jacana;RN;87;75;0
+ciriaco;RS;87;79;0
+pindare mirim;MA;87;85;0
+sagres;SP;86;35;0
+pareci novo;RS;86;58;0
+dumont;SP;86;49;0
+narandiba;SP;86;70;0
+torixoreu;MT;86;70;0
+dezesseis novembro;RS;86;68;0
+itutinga;MG;86;69;0
+santarem novo;PA;86;76;0
+campina missoes;RS;86;79;0
+lamarao;BA;86;75;0
+paratinga;BA;86;80;0
+mucambo;CE;86;77;0
+pratania;SP;86;77;0
+imarui;SC;86;82;0
+humberto campos;MA;86;74;0
+campo tenente;PR;86;81;0
+ponte serrada;SC;86;81;0
+nova resende;MG;86;79;0
+florai;PR;86;78;0
+goncalves;MG;85;45;0
+bela vista toldo;SC;85;58;0
+jucati;PE;85;72;0
+ibicuitinga;CE;85;66;0
+pouso redondo;SC;85;64;0
+caseiros;RS;85;79;0
+uniao minas;MG;85;71;0
+itarantim;BA;85;72;0
+aguas chapeco;SC;85;78;0
+caturite;PB;85;69;0
+inhapi;AL;85;71;0
+barra santo antonio;AL;85;80;0
+iramaia;BA;85;74;0
+serra salitre;MG;85;77;0
+papagaios;MG;85;80;0
+aiuaba;CE;85;78;0
+nova bandeirantes;MT;84;67;0
+cordilheira alta;SC;84;70;0
+abaiara;CE;84;67;0
+pariconha;AL;84;73;0
+passa sete;RS;84;75;0
+morro garca;MG;84;66;0
+medina;MG;84;70;0
+sede nova;RS;84;68;0
+imigrante;RS;84;73;0
+sao joao missoes;MG;84;70;0
+currais;PI;84;68;0
+coqueiros sul;RS;84;71;0
+boa vista cadeado;RS;84;71;0
+bagre;PA;84;75;0
+pirapemas;MA;84;71;0
+belo vale;MG;84;76;0
+palmeirina;PE;84;76;0
+coronel xavier chaves;MG;84;72;0
+gramado xavier;RS;83;58;0
+moncao;MA;83;59;0
+camutanga;PE;83;68;0
+cristais;MG;83;61;0
+itapua oeste;RO;83;60;0
+junco serido;PB;83;59;0
+andre rocha;RS;83;63;0
+presidente vargas;MA;83;74;0
+palmacia;CE;83;73;0
+frei miguelinho;PE;83;71;0
+campo alegre goias;GO;83;76;0
+carlopolis;PR;83;73;0
+laranjal;MG;83;73;1
+laranjal;PR;83;73;1
+vicente dutra;RS;83;72;0
+ministro andreazza;RO;83;79;0
+coronel ezequiel;RN;83;72;0
+severiano almeida;RS;83;71;0
+campestre maranhao;MA;83;76;0
+flor serra sul;PR;83;78;0
+serra navio;AP;83;72;0
+boninal;BA;83;72;0
+andrelandia;MG;83;78;0
+sao joao urtiga;RS;83;81;0
+itapejara oeste;PR;82;62;0
+paulo jacinto;AL;82;59;0
+sumidouro;RJ;82;65;0
+rios sul;RS;82;67;0
+sao jorge patrocinio;PR;82;74;0
+santo antonio palma;RS;82;72;0
+santa amelia;PR;82;68;0
+sao bento trairi;RN;82;72;0
+belem maria;PE;82;68;0
+inaja;PE;82;73;1
+inaja;PR;82;73;1
+calcoene;AP;82;74;0
+caracol;MS;82;68;1
+caracol;PI;82;68;1
+lajinha;MG;82;73;0
+matinha;MA;82;70;0
+senador firmino;MG;82;72;0
+riqueza;SC;82;79;0
+theobroma;RO;82;70;0
+campo belo sul;SC;82;73;0
+presidente lucena;RS;82;71;0
+goiandira;GO;82;78;0
+itaguari;GO;81;67;0
+trombudo central;SC;81;70;0
+conceicao ouros;MG;81;63;0
+arceburgo;MG;81;59;0
+minas leao;RS;81;70;0
+sao jose lagoa tapada;PB;81;61;0
+santa cruz minas;MG;81;68;0
+muniz ferreira;BA;81;75;0
+caroebe;RR;81;70;0
+passo camaragibe;AL;81;65;0
+tupanatinga;PE;81;71;0
+saltinho;SC;81;74;1
+saltinho;SP;81;74;1
+casserengue;PB;81;66;0
+sao pedro serra;RS;81;73;0
+sao jose coroa grande;PE;81;72;0
+galia;SP;81;72;0
+jaborandi;BA;81;74;1
+jaborandi;SP;81;74;1
+ipua;SP;81;77;0
+america dourada;BA;81;76;0
+paranapua;SP;81;79;0
+guidoval;MG;80;44;0
+sao lourenco serra;SP;80;56;0
+muricilandia;TO;80;48;0
+campo meio;MG;80;59;0
+rafael fernandes;RN;80;64;0
+moraujo;CE;80;70;0
+adrianopolis;PR;80;67;0
+tuneiras oeste;PR;80;70;0
+rio doce;MG;80;70;0
+sao jeronimo serra;PR;80;70;0
+bom jesus serra;BA;80;68;0
+senador rui palmeira;AL;80;69;0
+victor graeff;RS;80;69;0
+urania;SP;80;73;0
+sao jose lapa;MG;80;74;0
+sao domingos norte;ES;80;71;0
+nova lacerda;MT;80;75;0
+juranda;PR;80;73;0
+moreilandia;PE;80;77;0
+itape;BA;80;73;0
+marilandia sul;PR;80;75;0
+castanheira;MT;80;74;0
+couto magalhaes;TO;80;77;0
+folhas;MG;79;49;0
+ibitirama;ES;79;63;0
+ramilandia;PR;79;60;0
+rio oeste;SC;79;56;0
+camalau;PB;79;61;0
+cacaulandia;RO;79;66;0
+cocalzinho goias;GO;79;73;0
+colmeia;TO;79;67;0
+jaguaripe;BA;79;68;0
+passo torres;SC;79;67;0
+avai;SP;79;67;0
+beruri;AM;79;65;0
+olivedos;PB;79;57;0
+macedonia;SP;79;71;0
+umari;CE;79;73;0
+mossamedes;GO;79;72;0
+cubati;PB;79;67;0
+vitoria jari;AP;79;74;0
+ribamar fiquene;MA;79;70;0
+general camara;RS;79;70;0
+coronel bicaco;RS;79;65;0
+bilac;SP;79;69;0
+porto vitoria;PR;79;70;0
+nhamunda;AM;79;74;0
+placas;PA;79;76;0
+mulungu morro;BA;78;66;0
+bom jesus perdoes;SP;78;64;0
+pinhal serra;RS;78;54;0
+nova canaa norte;MT;78;70;0
+matias cardoso;MG;78;69;0
+lago junco;MA;78;70;0
+teixeira soares;PR;78;70;0
+pirapo;RS;78;67;0
+porto lucena;RS;78;70;0
+irajuba;BA;78;68;0
+figueiropolis;TO;78;68;0
+alto piquiri;PR;78;72;0
+aiuruoca;MG;78;73;0
+cotriguacu;MT;78;72;0
+espirito santo turvo;SP;78;73;0
+capitao campos;PI;78;77;0
+ibitiara;BA;78;69;0
+cortes;PE;78;69;0
+grupiara;MG;77;54;0
+iomere;SC;77;58;0
+herculandia;SP;77;55;0
+tejucuoca;CE;77;64;0
+inhacora;RS;77;60;0
+planura;MG;77;69;0
+paulo lopes;SC;77;67;0
+jequitiba;MG;77;70;0
+cafarnaum;BA;77;70;0
+carius;CE;77;70;0
+urupes;SP;77;76;0
+itapebi;BA;77;71;0
+magalhaes almeida;MA;76;43;0
+curionopolis;PA;76;51;0
+mojui campos;PA;76;61;0
+corumbaiba;GO;76;59;0
+putinga;RS;76;54;0
+brasilandia sul;PR;76;65;0
+alfredo wagner;SC;76;56;0
+canitar;SP;76;66;0
+fortim;CE;76;64;0
+santana mundau;AL;76;67;0
+boquira;BA;76;67;0
+vale real;RS;76;63;0
+caetanos;BA;76;70;0
+potirendaba;SP;76;73;0
+marques souza;RS;76;68;0
+sao pedro butia;RS;76;67;0
+alvinopolis;MG;75;53;0
+macuco;RJ;75;59;0
+alvorada gurgueia;PI;75;56;0
+aparecida rio negro;TO;75;58;0
+santa barbara goias;GO;75;55;0
+santa rita araguaia;GO;75;60;0
+capela alto;SP;75;67;0
+minador negrao;AL;75;55;0
+pirajuba;MG;75;62;0
+cajueiro praia;PI;75;60;0
+barao;RS;75;63;0
+serraria;PB;75;64;0
+sete setembro;RS;75;69;0
+eliseu martins;PI;75;63;0
+dobrada;SP;75;70;0
+vila nova martirios;MA;75;70;0
+ariranha;SP;75;73;0
+nova ubirata;MT;74;55;0
+antonio joao;MS;74;60;0
+sud mennucci;SP;74;56;0
+sao sebastiao uatuma;AM;74;54;0
+carai;MG;74;64;0
+florida paulista;SP;74;58;0
+nina rodrigues;MA;74;67;0
+ijuis;RS;74;68;0
+quinta sol;PR;74;65;0
+aratuipe;BA;74;68;0
+corumbatai;SP;74;64;0
+raposos;MG;74;66;0
+caraibas;BA;74;64;0
+novo alegre;TO;74;69;0
+pindoretama;CE;74;69;0
+alto taquari;MT;74;66;0
+tartarugalzinho;AP;74;71;0
+erere;CE;74;65;0
+santa isabel ivai;PR;74;71;0
+ibipeba;BA;74;71;0
+congonhinhas;PR;74;70;0
+uruburetama;CE;74;68;0
+cachoeira goias;GO;73;49;0
+aurilandia;GO;73;56;0
+tunas parana;PR;73;43;0
+boa esperanca iguacu;PR;73;56;0
+santa juliana;MG;73;50;0
+terra santa;PA;73;62;0
+jacaraci;BA;73;63;0
+gameleira;PE;73;65;0
+japora;MS;73;67;0
+triunfo potiguar;RN;73;61;0
+engenho velho;RS;73;60;0
+rio fortuna;SC;73;63;0
+campinorte;GO;73;67;0
+mato castelhano;RS;73;68;0
+pedrinhas paulista;SP;73;66;0
+morro agudo goias;GO;73;69;0
+abatia;PR;73;63;0
+lagamar;MG;73;66;0
+valentim gentil;SP;73;68;0
+caridade;CE;73;69;0
+chorrocho;BA;73;69;0
+anajatuba;MA;73;69;0
+nova brasilandia oeste;RO;72;45;0
+vila langaro;RS;72;60;0
+gaviao peixoto;SP;72;61;0
+porto acre;AC;72;67;0
+palmeirandia;MA;72;60;0
+astolfo dutra;MG;72;55;0
+santa filomena;PE;72;57;1
+santa filomena;PI;72;57;1
+buritizal;SP;72;65;0
+mucurici;ES;72;62;0
+rancho queimado;SC;72;66;0
+alfredo vasconcelos;MG;72;54;0
+balneario rincao;SC;72;57;0
+santa teresinha;BA;72;67;1
+santa teresinha;PB;72;67;1
+sao jose hortencio;RS;72;59;0
+apuiares;CE;72;67;0
+senhora nazare;PI;72;62;0
+duas barras;RJ;72;65;0
+piau;MG;72;67;0
+ressaquinha;MG;72;67;0
+medeiros;MG;71;57;0
+porto barreiro;PR;71;50;0
+sao jose missoes;RS;71;46;0
+pium;TO;71;58;0
+coronel joao pessoa;RN;71;55;0
+foz jordao;PR;71;59;0
+felipe guerra;RN;71;55;0
+jati;CE;71;62;0
+gramado loureiros;RS;71;57;0
+sao goncalo rio preto;MG;71;56;0
+morada nova minas;MG;71;58;0
+apora;BA;71;60;0
+jurua;AM;71;61;0
+fronteira;MG;71;65;0
+porto amazonas;PR;71;67;0
+senador la rocque;MA;71;57;0
+varzea nova;BA;71;60;0
+getulina;SP;71;68;0
+manduri;SP;71;59;0
+conselheiro pena;MG;71;67;0
+nova itarana;BA;70;56;0
+pedra lavrada;PB;70;53;0
+tarabai;SP;70;56;0
+itacarambi;MG;70;59;0
+gado bravo;PB;70;60;0
+praia norte;TO;70;57;0
+solidao;PE;70;60;0
+damiao;PB;70;61;0
+buenopolis;MG;70;51;0
+charqueada;SP;70;65;0
+ribeira amparo;BA;70;62;0
+juramento;MG;70;60;0
+bom jardim goias;GO;70;62;0
+iati;PE;70;65;0
+wagner;BA;70;60;0
+itapetim;PE;70;64;0
+careiro;AM;70;64;0
+diorama;GO;70;63;0
+vitoria missoes;RS;70;64;0
+sao bonifacio;SC;69;33;0
+virgem lapa;MG;69;56;0
+lobato;PR;69;54;0
+monte castelo;SC;69;53;1
+monte castelo;SP;69;53;1
+natalandia;MG;69;57;0
+laranja terra;ES;69;55;0
+salto ceu;MT;69;57;0
+capixaba;AC;69;54;0
+sao jose palmeiras;PR;69;59;0
+itauba;MT;69;64;0
+colonia leopoldina;AL;69;62;0
+jaci;SP;69;61;0
+santa rita jacutinga;MG;69;63;0
+verdelandia;MG;69;63;0
+quixaba;PB;69;64;1
+quixaba;PE;69;64;1
+boa esperanca sul;SP;69;62;0
+nuporanga;SP;69;66;0
+planalto alegre;SC;68;51;0
+verissimo;MG;68;46;0
+quatro irmaos;RS;68;50;0
+mara rosa;GO;68;60;0
+vidal ramos;SC;68;51;0
+algodao jandaira;PB;68;49;0
+coqueiral;MG;68;54;0
+pedrao;BA;68;57;0
+mirador;MA;68;58;1
+mirador;PR;68;58;1
+sertao santana;RS;68;59;0
+lidianopolis;PR;68;57;0
+grandes rios;PR;68;62;0
+tarumirim;MG;68;58;0
+mirante;BA;68;62;0
+cuitegi;PB;68;57;0
+axixa tocantins;TO;68;60;0
+americano brasil;GO;68;56;0
+santanopolis;BA;68;64;0
+choro;CE;68;58;0
+ielmo marinho;RN;68;56;0
+guaraci;PR;68;65;1
+guaraci;SP;68;65;1
+sao jose barreiro;SP;68;62;0
+souto soares;BA;68;65;0
+glaucilandia;MG;67;43;0
+pinheiro preto;SC;67;45;0
+porto estrela;MT;67;47;0
+monte carmo;TO;67;54;0
+juarez tavora;PB;67;55;0
+erebango;RS;67;56;0
+vitoria mearim;MA;67;59;0
+senhora remedios;MG;67;53;1
+senhora remedios;PI;67;53;1
+itamogi;MG;67;54;0
+abel figueiredo;PA;67;53;0
+cerro branco;RS;67;58;0
+recreio;MG;67;57;0
+santo antonio grama;MG;67;58;0
+satiro dias;BA;67;59;0
+natuba;PB;67;61;0
+maiquinique;BA;67;61;0
+xambioa;TO;67;65;0
+pirapetinga;MG;67;59;0
+firmino alves;BA;67;61;0
+baianopolis;BA;67;58;0
+bujari;AC;67;63;0
+nova tebas;PR;67;63;0
+rio piracicaba;MG;67;64;0
+guia lopes laguna;MS;67;64;0
+arambare;RS;66;55;0
+riacho cavalos;PB;66;51;0
+pedrinhas;SE;66;54;0
+manaquiri;AM;66;54;0
+olaria;MG;66;57;0
+sao juliao;PI;66;57;0
+areial;PB;66;58;0
+pimenta;MG;66;56;0
+sao joao araguaia;PA;66;55;0
+jequeri;MG;66;57;0
+ourizona;PR;66;58;0
+itaguaru;GO;66;62;0
+trairao;PA;66;60;0
+potim;SP;66;58;0
+sao valentim;RS;66;63;0
+itapui;SP;65;52;0
+sete quedas;MS;65;53;0
+major vieira;SC;65;52;0
+manaira;PB;65;55;0
+alecrim;RS;65;59;0
+iguaracy;PE;65;58;0
+suzanapolis;SP;65;59;0
+marcolandia;PI;65;58;0
+seringueiras;RO;65;62;0
+wanderley;BA;65;63;0
+uchoa;SP;65;61;0
+castanheiras;RO;65;63;0
+nova marilandia;MT;65;63;0
+gaviao;BA;65;60;0
+rosario ivai;PR;65;64;0
+nova araca;RS;65;64;0
+aragoiania;GO;64;52;0
+euclides cunha paulista;SP;64;55;0
+almino afonso;RN;64;56;0
+bocaina sul;SC;64;44;0
+urucuia;MG;64;57;0
+monte horebe;PB;64;49;0
+bom repouso;MG;64;50;0
+paraibano;MA;64;55;0
+varzelandia;MG;64;52;0
+aragominas;TO;64;59;0
+armazem;SC;64;58;0
+machadinho oeste;RO;64;56;0
+berilo;MG;64;55;0
+tapaua;AM;64;53;0
+pirangi;SP;64;58;0
+vieiropolis;PB;64;56;0
+sussuapara;PI;64;55;0
+joselandia;MA;64;59;0
+teolandia;BA;64;59;0
+antonina norte;CE;64;58;0
+guapirama;PR;64;63;0
+dom aquino;MT;64;64;0
+salete;SC;63;45;0
+felicio santos;MG;63;44;0
+nova alvorada;RS;63;48;0
+porto firme;MG;63;50;0
+guajeru;BA;63;47;0
+novo mundo;MT;63;49;0
+pocao pedras;MA;63;58;0
+ferreiros;PE;63;58;0
+doutor mauricio cardoso;RS;63;58;0
+ribeira;SP;63;58;0
+dois riachos;AL;63;49;0
+barra longa;MG;63;52;0
+marcionilio souza;BA;63;56;0
+painel;SC;63;61;0
+boa vista incra;RS;63;58;0
+santa maria barreiras;PA;63;53;0
+corguinho;MS;63;54;0
+antonio olinto;PR;63;60;0
+fortaleza minas;MG;63;55;0
+lutecia;SP;63;61;0
+meridiano;SP;63;59;0
+trindade sul;RS;63;60;0
+serra dourada;BA;63;60;0
+figueira;PR;63;59;0
+itacaja;TO;63;56;0
+kalore;PR;63;57;0
+colonia gurgueia;PI;63;61;0
+graca aranha;MA;63;62;0
+sampaio;TO;62;43;0
+marcacao;PB;62;40;0
+corrego ouro;GO;62;45;0
+antas;BA;62;55;0
+angelina;SC;62;51;0
+campina simao;PR;62;54;0
+presidente kubitschek;MG;62;51;0
+brasilandia minas;MG;62;49;0
+francisco dumont;MG;62;51;0
+rio fogo;RN;62;51;0
+careiro varzea;AM;62;54;0
+alcinopolis;MS;62;52;0
+tres ranchos;GO;62;50;0
+cidelandia;MA;62;51;0
+brotas macaubas;BA;62;54;0
+carmo mata;MG;62;57;0
+bom retiro;SC;62;54;0
+pecanha;MG;62;55;0
+sao mateus maranhao;MA;62;57;0
+cardeal silva;BA;62;50;0
+licinio almeida;BA;62;53;0
+paramoti;CE;62;53;0
+jerico;PB;62;56;0
+guaporema;PR;62;57;0
+rio antas;SC;62;58;0
+saudade iguacu;PR;62;59;0
+mascote;BA;62;55;0
+quintana;SP;62;58;0
+pinhalao;PR;62;59;0
+santo antonio lopes;MA;62;60;0
+cha preta;AL;62;58;0
+sao fernando;RN;62;57;0
+buriti;MA;62;61;0
+taquaral;SP;62;57;0
+nhandeara;SP;62;62;0
+conego marinho;MG;61;35;0
+palestina goias;GO;61;41;0
+virmond;PR;61;55;0
+lagoa bonita sul;RS;61;50;0
+corrego fundo;MG;61;43;0
+bozano;RS;61;50;0
+pitimbu;PB;61;56;0
+potiragua;BA;61;53;0
+floresta araguaia;PA;61;56;0
+jacare homens;AL;61;55;0
+demerval lobao;PI;61;53;0
+sao joao triunfo;PR;61;51;0
+senador modestino goncalves;MG;61;57;0
+siriri;SE;61;51;0
+massape piaui;PI;61;55;0
+monte alegre campos;RS;61;54;0
+cravolandia;BA;61;53;0
+pedro velho;RN;61;58;0
+santa terezinha goias;GO;61;57;0
+alcantaras;CE;61;58;0
+rubim;MG;61;55;0
+treze maio;SC;61;59;0
+chupinguaia;RO;61;59;0
+ipiranga norte;MT;61;59;0
+agudos sul;PR;61;59;0
+tres arroios;RS;60;49;0
+pimenteiras oeste;RO;60;52;0
+rubineia;SP;60;54;0
+babaculandia;TO;60;45;0
+belmiro braga;MG;60;47;0
+monte alegre piaui;PI;60;45;0
+romaria;MG;60;49;0
+acrelandia;AC;60;58;0
+dom cavati;MG;60;56;0
+caiua;SP;60;57;0
+coqueiro seco;AL;60;52;0
+claro pocoes;MG;60;53;0
+capao alto;SC;60;52;0
+mirinzal;MA;60;55;0
+teixeiropolis;RO;60;52;0
+salvador missoes;RS;60;59;0
+muliterno;RS;60;59;0
+lagoa sao francisco;PI;59;38;0
+dom pedro alcantara;RS;59;45;0
+brejo grande;SE;59;45;0
+sao vicente minas;MG;59;47;0
+varjao minas;MG;59;50;0
+sao jose ausentes;RS;59;50;0
+canaa;MG;59;53;0
+guaruja sul;SC;59;52;0
+arenopolis;GO;59;50;0
+bom jesus galho;MG;59;53;0
+senador salgado filho;RS;59;55;0
+palminopolis;GO;59;55;0
+deputado irapuan pinheiro;CE;59;47;0
+eneas marques;PR;59;54;0
+amaraji;PE;59;53;0
+dom silverio;MG;59;50;0
+fazenda vilanova;RS;59;50;0
+desterro;PB;59;48;0
+pedro regis;PB;59;51;0
+buriti alegre;GO;59;55;0
+pedro avelino;RN;59;56;0
+rancho alegre;PR;59;57;0
+jequitai;MG;58;43;0
+dario meira;BA;58;49;0
+sao miguel tocantins;TO;58;45;0
+santa maria serra;SP;58;48;0
+nazaria;PI;58;42;0
+santa luzia norte;AL;58;51;0
+roteiro;AL;58;51;0
+cumbe;SE;58;46;0
+pedro alexandre;BA;58;44;0
+centenario;RS;58;51;1
+centenario;TO;58;51;1
+almirante tamandare sul;RS;58;47;0
+jeceaba;MG;58;53;0
+cabixi;RO;58;47;0
+betania;PE;58;51;0
+sao goncalo abaete;MG;58;53;0
+vale verde;RS;58;54;0
+candido mendes;MA;58;51;0
+sao pedro alcantara;SC;58;56;0
+colniza;MT;58;55;0
+tupandi;RS;58;51;0
+porto mangue;RN;58;52;0
+ararica;RS;58;54;0
+guimarania;MG;58;56;0
+itatiba sul;RS;58;56;0
+pranchita;PR;58;57;0
+anahy;PR;58;57;0
+dionisio;MG;57;40;0
+simao pereira;MG;57;47;0
+jaqueira;PE;57;50;0
+inocencia;MS;57;49;0
+tapirai;MG;57;49;1
+tapirai;SP;57;49;1
+sapopema;PR;57;49;0
+modelo;SC;57;53;0
+itapirapua;GO;57;51;0
+alto horizonte;GO;57;53;0
+caturai;GO;57;47;0
+pimenteiras;PI;57;45;0
+chapada norte;MG;57;47;0
+sossego;PB;57;50;0
+cotipora;RS;57;51;0
+divino sao lourenco;ES;57;50;0
+guiricema;MG;57;52;0
+nordestina;BA;57;53;0
+herveiras;RS;57;55;0
+alvaraes;AM;57;52;0
+bom jesus sul;PR;57;55;0
+nova roma sul;RS;57;54;0
+nova europa;SP;56;47;0
+abaira;BA;56;43;0
+morrinhos sul;RS;56;46;0
+turvania;GO;56;39;0
+mantenopolis;ES;56;48;0
+arneiroz;CE;56;43;0
+cachoeira piria;PA;56;42;0
+frei martinho;PB;56;48;0
+laurentino;SC;56;44;0
+salgado sao felix;PB;56;39;0
+barros cassal;RS;56;45;0
+guaimbe;SP;56;49;0
+mato queimado;RS;56;47;0
+araguana;MA;56;50;1
+araguana;TO;56;50;1
+pires ferreira;CE;56;45;0
+poco dantas;PB;56;42;0
+lindoeste;PR;56;52;0
+platina;SP;56;49;0
+floriano peixoto;RS;56;54;0
+reserva cabacal;MT;56;53;0
+duque bacelar;MA;56;51;0
+santo amaro brotas;SE;56;51;0
+santa cruz monte castelo;PR;56;50;0
+muquem sao francisco;BA;56;53;0
+flexeiras;AL;56;51;0
+ingai;MG;55;43;0
+alto alegre maranhao;MA;55;44;0
+terezopolis goias;GO;55;43;0
+santo antonio lisboa;PI;55;46;0
+curral cima;PB;55;39;0
+almas;TO;55;49;0
+douradoquara;MG;55;39;0
+sao jose sabugi;PB;55;47;0
+santa rita caldas;MG;55;46;0
+leme prado;MG;55;50;0
+paulino neves;MA;55;49;0
+anhanguera;GO;55;52;0
+macieira;SC;55;46;0
+rio vermelho;MG;55;48;0
+nova campina;SP;55;50;0
+montes claros goias;GO;55;52;0
+amaral ferrador;RS;55;45;0
+espigao alto iguacu;PR;55;51;0
+portelandia;GO;55;50;0
+itambaraca;PR;55;51;0
+vista gaucha;RS;55;51;0
+anhumas;SP;55;49;0
+alto feliz;RS;55;49;0
+itumirim;MG;55;53;0
+planaltina parana;PR;55;52;0
+tuntum;MA;55;53;0
+lagoa tres cantos;RS;55;49;0
+campos altos;MG;55;51;0
+mirassol oeste;MT;55;52;0
+verdejante;PE;55;52;0
+capim;PB;54;34;0
+rio campo;SC;54;40;0
+nicolau vergueiro;RS;54;40;0
+pedras maria cruz;MG;54;42;0
+pedro gomes;MS;54;44;0
+flores goias;GO;54;42;0
+tiradentes sul;RS;54;45;0
+pedra anta;MG;54;46;0
+martins soares;MG;54;46;0
+ipupiara;BA;54;49;0
+bom principio piaui;PI;54;41;0
+macurure;BA;54;51;0
+nova ibia;BA;54;48;0
+morro grande;SC;54;48;0
+centenario sul;PR;54;50;0
+sao pedro cipa;MT;54;51;0
+magalhaes barata;PA;54;45;0
+analandia;SP;54;53;0
+pedro rosario;MA;54;49;0
+nova cantu;PR;54;50;0
+ibirarema;SP;54;52;0
+apore;GO;54;54;0
+sales oliveira;SP;54;54;0
+taiuva;SP;53;38;0
+palmeira piaui;PI;53;46;0
+itaubal;AP;53;43;0
+juruaia;MG;53;45;0
+sao joao lagoa;MG;53;45;0
+novo lino;AL;53;44;0
+catunda;CE;53;39;0
+sao jose peixe;PI;53;44;0
+itamarati minas;MG;53;46;0
+riolandia;SP;53;46;0
+lastro;PB;53;41;0
+montadas;PB;53;44;0
+grao;SC;53;44;0
+baixa grande ribeiro;PI;53;51;0
+tacuru;MS;53;50;0
+tonantins;AM;53;49;0
+guapiara;SP;53;50;0
+pauliceia;SP;53;49;0
+marechal thaumaturgo;AC;53;49;0
+sao jose piaui;PI;53;44;0
+canelinha;SC;53;49;0
+vera mendes;PI;53;49;0
+boa hora;PI;53;48;0
+general sampaio;CE;53;49;0
+rodrigues alves;AC;53;49;0
+nova monte verde;MT;53;50;0
+pintopolis;MG;53;50;0
+quatigua;PR;53;50;0
+senges;PR;53;50;0
+campo bonito;PR;53;52;0
+barao triunfo;RS;53;49;0
+canas;SP;53;52;0
+jupia;SC;52;34;0
+serranopolis minas;MG;52;42;0
+jutai;AM;52;45;0
+ibituruna;MG;52;39;0
+rio espera;MG;52;38;0
+francisco badaro;MG;52;44;0
+aracu;GO;52;47;0
+passa tempo;MG;52;44;0
+santa isabel rio negro;AM;52;47;0
+gentio ouro;BA;52;48;0
+lavandeira;TO;52;49;0
+lajes pintadas;RN;52;45;0
+erval velho;SC;52;46;0
+sao domingos maranhao;MA;52;48;0
+santa quiteria maranhao;MA;52;48;0
+bom jesus selvas;MA;52;48;0
+balsamo;SP;52;50;0
+aguas frias;SC;52;49;0
+motuca;SP;51;35;0
+ponte preta;RS;51;44;0
+quatipuru;PA;51;43;0
+santana sao francisco;SE;51;43;0
+itaruma;GO;51;41;0
+joca claudino;PB;51;37;0
+montes altos;MA;51;43;0
+lagoao;RS;51;42;0
+carmo rio verde;GO;51;46;0
+ibirapuita;RS;51;44;0
+xambre;PR;51;43;0
+alto rio doce;MG;51;43;0
+ribeirao branco;SP;51;48;0
+santo inacio;PR;51;47;0
+balneario barra sul;SC;51;45;0
+mataraca;PB;51;45;0
+cruzaltense;RS;51;45;0
+sao domingos dores;MG;51;48;0
+governador edison lobao;MA;51;45;0
+paverama;RS;51;47;0
+ibaretama;CE;51;49;0
+macambira;SE;51;47;0
+angelim;PE;51;47;0
+piacatu;SP;51;50;0
+sao valerio;TO;51;44;0
+lajedo tabocal;BA;51;51;0
+caiabu;SP;50;41;0
+taipu;RN;50;45;0
+sao miguel taipu;PB;50;37;0
+canapi;AL;50;36;0
+cocal alves;PI;50;44;0
+saboeiro;CE;50;40;0
+iraceminha;SC;50;45;0
+fernando pedroza;RN;50;45;0
+caatiba;BA;50;45;0
+penaforte;CE;50;45;0
+urucania;MG;50;44;0
+travesseiro;RS;50;45;0
+harmonia;RS;50;44;0
+piedade caratinga;MG;50;44;0
+mata roma;MA;50;41;0
+goncalves dias;MA;50;48;0
+poco antas;RS;50;45;0
+bela vista caroba;PR;50;46;0
+sao jorge ivai;PR;50;47;0
+curua;PA;50;45;0
+amorinopolis;GO;50;48;0
+santo antonio caiua;PR;50;48;0
+avanhandava;SP;50;44;0
+professor jamil;GO;50;44;0
+gonzaga;MG;50;48;0
+tenorio;PB;50;50;0
+coronel domingos soares;PR;49;40;0
+assis brasil;AC;49;45;0
+envira;AM;49;43;0
+granjeiro;CE;49;46;0
+doutor ricardo;RS;49;45;0
+barrolandia;TO;49;43;0
+martinopole;CE;49;41;0
+mariano moro;RS;49;43;0
+palmares paulista;SP;49;45;0
+tururu;CE;49;46;0
+timbo grande;SC;49;42;0
+matoes norte;MA;49;44;0
+cezarina;GO;49;47;0
+ibertioga;MG;49;46;0
+imbau;PR;48;36;0
+alpercata;MG;48;32;0
+maxaranguape;RN;48;33;0
+lacerdopolis;SC;48;41;0
+bonito minas;MG;48;38;0
+presidente sarney;MA;48;35;0
+tunas;RS;48;39;0
+ladainha;MG;48;41;0
+ivolandia;GO;48;34;0
+galvao;SC;48;38;0
+buriti montes;PI;48;39;0
+joviania;GO;48;44;0
+aparecida rio doce;GO;48;42;0
+conceicao ipanema;MG;48;40;0
+herval oeste;SC;48;41;0
+alcantil;PB;48;44;0
+beneditinos;PI;48;43;0
+capim branco;MG;48;42;0
+riacho frio;PI;48;42;0
+itirapua;SP;48;41;0
+tamboara;PR;48;43;0
+anori;AM;48;44;0
+itacambira;MG;48;43;0
+congonhal;MG;48;44;0
+silvanopolis;TO;48;43;0
+serra caiada;RN;48;46;0
+guiratinga;MT;48;44;0
+jambeiro;SP;48;45;0
+lindoia sul;SC;48;47;0
+nova guarita;MT;47;41;0
+salto divisa;MG;47;35;0
+tumiritinga;MG;47;37;0
+natividade serra;SP;47;39;0
+paulo bento;RS;47;41;0
+cajazeirinhas;PB;47;41;0
+mata verde;MG;47;42;0
+nova santa helena;MT;47;41;0
+senhora gracas;PR;47;36;0
+vista alegre prata;RS;47;43;0
+pauini;AM;47;42;0
+congonhas norte;MG;47;37;0
+ipaporanga;CE;47;45;0
+novo xingu;RS;47;45;0
+vila flores;RS;47;43;0
+aguas vermelhas;MG;47;45;0
+monteiropolis;AL;47;38;0
+serra sao bento;RN;47;45;0
+bom sucesso sul;PR;47;45;0
+primeiro maio;PR;47;43;0
+santa ernestina;SP;47;43;0
+irapuru;SP;47;46;0
+flor sertao;SC;46;34;0
+frei rogerio;SC;46;30;0
+santa cruz escalvado;MG;46;26;0
+antonio prado minas;MG;46;35;0
+brazabrantes;GO;46;37;0
+marilena;PR;46;39;0
+primavera rondonia;RO;46;39;0
+nova gloria;GO;46;35;0
+cosmorama;SP;46;36;0
+amapora;PR;46;43;0
+luiziana;PR;46;42;0
+bady bassitt;SP;46;42;0
+miranda norte;MA;46;41;0
+alagoinha piaui;PI;46;41;0
+sitio novo tocantins;TO;46;41;0
+palmeiropolis;TO;46;45;0
+conceicao rio verde;MG;46;43;0
+estiva gerbi;SP;46;42;0
+jandaira;BA;46;43;1
+jandaira;RN;46;43;1
+borebi;SP;46;43;0
+trajano moraes;RJ;46;44;0
+pouso novo;RS;46;43;0
+ipuiuna;MG;46;42;0
+formosa sul;SC;46;43;0
+maraba paulista;SP;46;43;0
+santana garrotes;PB;46;42;0
+rondolandia;MT;46;42;0
+maripa minas;MG;46;45;0
+baldim;MG;46;42;0
+orindiuva;SP;46;45;0
+santo afonso;MT;46;44;0
+icem;SP;46;45;0
+ribeirao sul;SP;46;43;0
+claraval;MG;46;44;0
+jenipapo minas;MG;45;28;0
+imbuia;SC;45;35;0
+moeda;MG;45;36;0
+ewbank camara;MG;45;40;0
+jardim olinda;PR;45;35;0
+carneiros;AL;45;40;0
+nova esperanca sudoeste;PR;45;42;0
+reginopolis;SP;45;43;0
+crisopolis;BA;45;40;0
+pinhal sao bento;PR;45;39;0
+arandu;SP;45;37;0
+murici portelas;PI;45;37;0
+serra redonda;PB;45;41;0
+borrazopolis;PR;45;40;0
+maraa;AM;45;41;0
+faina;GO;45;41;0
+oscar bressane;SP;45;39;0
+santa cruz arari;PA;45;39;0
+estrela norte;GO;45;43;1
+estrela norte;SP;45;43;1
+anajas;PA;45;37;0
+codajas;AM;45;41;0
+paulo faria;SP;45;44;0
+araguapaz;GO;45;44;0
+ipaba;MG;45;44;0
+bom jardim minas;MG;45;42;0
+ribeiraozinho;MT;45;44;0
+arroio trinta;SC;45;44;0
+maranhaozinho;MA;44;27;0
+mato rico;PR;44;35;0
+tiros;MG;44;35;0
+mariapolis;SP;44;34;0
+pedra grande;RN;44;39;0
+senador eloi souza;RN;44;36;0
+parazinho;RN;44;40;0
+vila valerio;ES;44;39;0
+caputira;MG;44;40;0
+perdigao;MG;44;37;0
+gaucha norte;MT;44;38;0
+serra aimores;MG;44;42;0
+francisco alves;PR;44;42;0
+guarara;MG;44;39;0
+formoso;GO;44;41;1
+formoso;MG;44;41;1
+tasso fragoso;MA;44;36;0
+vista serrana;PB;44;41;0
+campestre serra;RS;43;38;0
+sobrado;PB;43;35;0
+maravilhas;MG;43;34;0
+poranga;CE;43;34;0
+rinopolis;SP;43;38;0
+catuji;MG;43;37;0
+tenente laurentino cruz;RN;43;35;0
+barao melgaco;MT;43;36;0
+sao jose boa vista;PR;43;37;0
+jussiape;BA;43;37;0
+santa margarida sul;RS;43;36;0
+iracema oeste;PR;43;38;0
+zabele;PB;43;38;0
+passagem;PB;43;39;1
+passagem;RN;43;39;1
+echapora;SP;43;41;0
+pirangucu;MG;43;38;0
+novo triunfo;BA;43;41;0
+jundiai sul;PR;43;40;0
+barroquinha;CE;43;37;0
+sao cristovao sul;SC;43;42;0
+felixlandia;MG;43;40;0
+venha ver;RN;43;39;0
+pedranopolis;SP;43;42;0
+wanderlandia;TO;43;42;0
+sigefredo pacheco;PI;43;39;0
+sao joao tigre;PB;43;38;0
+sao francisco brejao;MA;43;39;0
+itatuba;PB;43;41;0
+frei gaspar;MG;43;40;0
+riachinho;MG;43;42;1
+riachinho;TO;43;42;1
+iacri;SP;43;39;0
+pirai norte;BA;43;41;0
+itaju;SP;42;38;0
+ubaporanga;MG;42;34;0
+sao felix piaui;PI;42;27;0
+santa cruz conceicao;SP;42;34;0
+parnagua;PI;42;38;0
+pedra mole;SE;42;36;0
+santana maranhao;MA;42;34;0
+turiacu;MA;42;37;0
+moipora;GO;42;33;0
+sericita;MG;42;34;0
+sao valerio sul;RS;42;39;0
+sao bras;AL;42;34;0
+sagrada familia;RS;42;36;0
+itinga maranhao;MA;42;32;0
+comercinho;MG;42;38;0
+lagoa sitio;PI;42;39;0
+sao joao varjota;PI;42;37;0
+santana cataguases;MG;42;37;0
+anama;AM;42;36;0
+bonfinopolis;GO;42;38;0
+francisco macedo;PI;42;38;0
+brauna;SP;42;36;0
+nazare piaui;PI;42;37;0
+arapua;MG;42;39;1
+arapua;PR;42;39;1
+japaraiba;MG;42;37;0
+taquarivai;SP;42;38;0
+rio crespo;RO;42;39;0
+governador jorge teixeira;RO;42;40;0
+saldanha marinho;RS;42;40;0
+severinia;SP;42;41;0
+santa albertina;SP;42;42;0
+caldas brandao;PB;41;36;0
+sao benedito sul;PE;41;34;0
+jaupaci;GO;41;34;0
+capela santana;RS;41;36;0
+muitos capoes;RS;41;36;0
+jordania;MG;41;35;0
+contendas sincora;BA;41;36;0
+varzea branca;PI;41;35;0
+parari;PB;41;36;0
+heliodora;MG;41;37;0
+santana pirapama;MG;41;36;0
+abadia dourados;MG;41;35;0
+porto vera cruz;RS;41;33;0
+meleiro;SC;41;39;0
+poco branco;RN;41;38;0
+aramina;SP;41;32;0
+machados;PE;41;39;0
+barra jacare;PR;41;39;0
+romelandia;SC;41;40;0
+alta floresta oeste;RO;41;39;0
+cascalho rico;MG;41;37;0
+funilandia;MG;41;40;0
+glicerio;SP;41;38;0
+santa maria cambuca;PE;41;37;0
+picarra;PA;41;38;0
+sao sebastiao bela vista;MG;41;39;0
+ivate;PR;41;40;0
+luiz alves;SC;41;41;0
+pedra dourada;MG;40;30;0
+marinopolis;SP;40;32;0
+primeira cruz;MA;40;28;0
+santana serido;RN;40;35;0
+santana piaui;PI;40;32;0
+presidente alves;SP;40;36;0
+ocaucu;SP;40;36;0
+westfalia;RS;40;35;0
+lassance;MG;40;32;0
+jatoba piaui;PI;40;35;0
+sao luis quitunde;AL;40;37;0
+santa maria itabira;MG;40;38;0
+buritirana;MA;40;35;0
+faxinalzinho;RS;40;37;0
+marquinho;PR;40;38;0
+mateiros;TO;40;35;0
+uarini;AM;40;37;0
+dona emma;SC;40;38;0
+itaipe;MG;40;37;0
+sao francisco piaui;PI;40;36;0
+novo machado;RS;40;38;0
+sao joao fronteira;PI;40;36;0
+joao dias;RN;40;36;0
+diogo vasconcelos;MG;40;39;0
+argirita;MG;40;40;0
+cuparaque;MG;39;25;0
+sao jose princesa;PB;39;29;0
+colonia piaui;PI;39;34;0
+cachoeira prata;MG;39;29;0
+santa cecilia sul;RS;39;33;0
+tarrafas;CE;39;34;0
+governador lindenberg;ES;39;36;0
+lajedao;BA;39;34;0
+natercia;MG;39;34;0
+carmesia;MG;39;34;0
+alvinlandia;SP;39;34;0
+sao pedro uniao;MG;39;31;0
+serra raiz;PB;39;35;0
+galileia;MG;39;37;0
+uniao oeste;SC;39;33;0
+farol;PR;39;36;0
+anaurilandia;MS;39;37;0
+landri sales;PI;39;35;0
+cajazeiras piaui;PI;39;36;0
+sao jose campestre;RN;39;35;0
+witmarsum;SC;39;34;0
+garruchos;RS;39;35;0
+duere;TO;39;37;0
+protasio alves;RS;39;36;0
+novo sao joaquim;MT;39;36;0
+coribe;BA;39;36;0
+dois irmaos missoes;RS;39;38;0
+sao jose povo;MT;39;35;0
+parau;RN;39;37;0
+montanhas;RN;39;36;0
+divisopolis;MG;39;36;0
+alto longa;PI;39;38;0
+celso ramos;SC;39;36;0
+estrela velha;RS;39;38;0
+pilao arcado;BA;38;31;0
+guaraciama;MG;38;32;0
+linha nova;RS;38;29;0
+brochier;RS;38;33;0
+nova colinas;MA;38;32;0
+onda verde;SP;38;35;0
+riacho machados;MG;38;34;0
+santa rosa piaui;PI;38;34;0
+ponto belo;ES;38;35;0
+novo santo antonio;MT;38;32;1
+novo santo antonio;PI;38;32;1
+engenheiro navarro;MG;38;32;0
+mineiros tiete;SP;38;34;0
+arame;MA;38;35;0
+populina;SP;38;36;0
+joaquim pires;PI;38;32;0
+igarata;SP;38;36;0
+santa mercedes;SP;38;36;0
+caapiranga;AM;38;32;0
+alto parnaiba;MA;38;35;0
+inubia paulista;SP;38;35;0
+ponte alta tocantins;TO;38;35;0
+sao luis curu;CE;38;35;0
+volta grande;MG;38;37;0
+itamarati;AM;38;37;0
+pereiras;SP;38;33;0
+abdon batista;SC;38;35;0
+cruzmaltina;PR;38;33;0
+capinzal norte;MA;38;37;0
+vista alegre alto;SP;38;37;0
+santa luzia itanhy;SE;38;37;0
+itaoca;SP;38;38;0
+areiopolis;SP;38;38;0
+calmon;SC;37;30;0
+bom jardim serra;SC;37;32;0
+itaguaje;PR;37;27;0
+novo oriente minas;MG;37;33;0
+tacima;PB;37;33;0
+boa ventura;PB;37;29;0
+maurilandia;GO;37;34;0
+santo antonio retiro;MG;37;32;0
+santo antonio itambe;MG;37;28;0
+sao joao pacui;MG;37;34;0
+oriente;SP;37;33;0
+riachao bacamarte;PB;37;33;0
+socorro piaui;PI;37;32;0
+coronel murta;MG;37;33;0
+chacara;MG;37;33;0
+itacurubi;RS;37;35;0
+perolandia;GO;37;35;0
+nova itaberaba;SC;37;35;0
+buriti bravo;MA;37;36;0
+coxixola;PB;37;33;0
+matrincha;GO;37;35;0
+lavinia;SP;37;34;0
+ritapolis;MG;37;36;0
+sitio mato;BA;37;33;0
+campo grande piaui;PI;37;34;0
+cruzalia;SP;37;36;0
+coronel jose dias;PI;37;35;0
+cocal telha;PI;37;36;0
+potengi;CE;37;37;0
+capetinga;MG;37;37;0
+serra alta;SC;37;37;0
+goioxim;PR;37;37;0
+bras pires;MG;36;22;0
+parisi;SP;36;25;0
+macajuba;BA;36;24;0
+teresina goias;GO;36;27;0
+santo antonio planalto;RS;36;27;0
+capela nova;MG;36;31;0
+amatura;AM;36;29;0
+carvalhopolis;MG;36;31;0
+sao lourenco piaui;PI;36;26;0
+aurea;RS;36;32;0
+mucum;RS;36;29;0
+manoel emidio;PI;36;28;0
+paiva;MG;36;30;0
+indiavai;MT;36;32;0
+descoberto;MG;36;31;0
+barbosa;SP;36;33;0
+porto alegre tocantins;TO;36;33;0
+campo novo rondonia;RO;36;31;0
+sao miguel passa quatro;GO;36;33;0
+itanhomi;MG;36;32;0
+quarto centenario;PR;36;33;0
+arvoredo;SC;36;32;0
+braco trombudo;SC;36;34;0
+erico cardoso;BA;36;34;0
+pedras grandes;SC;36;33;0
+cristal sul;RS;36;35;0
+vertentes;PE;36;34;0
+cafeara;PR;36;34;0
+piedade rio grande;MG;36;32;0
+clementina;SP;36;35;0
+arabuta;SC;36;31;0
+patos piaui;PI;36;32;0
+boqueirao piaui;PI;36;33;0
+cabeceiras;GO;36;35;0
+gurinhata;MG;36;34;0
+sao manoel parana;PR;36;35;0
+magda;SP;36;36;0
+fortuna;MA;36;36;0
+alvorada norte;GO;36;36;0
+cajapio;MA;36;36;0
+xavantina;SC;36;36;0
+redencao serra;SP;35;25;0
+felisburgo;MG;35;24;0
+virgolandia;MG;35;28;0
+paes landim;PI;35;30;0
+riozinho;RS;35;29;0
+itueta;MG;35;31;0
+madre deus minas;MG;35;32;0
+nova guataporanga;SP;35;27;0
+alto boa vista;MT;35;30;0
+cocos;BA;35;32;0
+santa rosa tocantins;TO;35;31;0
+imaculada;PB;35;33;0
+padre marcos;PI;35;33;0
+rafard;SP;35;34;0
+novo tiradentes;RS;35;33;0
+taquaral goias;GO;35;32;0
+santo antonio aracangua;SP;35;32;0
+diamante sul;PR;35;33;0
+itanagra;BA;35;32;0
+sao pedro turvo;SP;35;33;0
+isaias coelho;PI;35;33;0
+pequizeiro;TO;35;34;0
+sao jose brejo cruz;PB;35;34;0
+alagoa;MG;35;31;0
+santa rita trivelato;MT;35;34;0
+rio rufino;SC;35;34;0
+bias fortes;MG;35;34;0
+porto maua;RS;35;35;0
+dois lajeados;RS;35;35;0
+ibiquera;BA;34;24;0
+geminiano;PI;34;26;0
+santana vargem;MG;34;29;0
+joaquim felicio;MG;34;27;0
+tigrinhos;SC;34;28;0
+santo antonio jardim;SP;34;30;0
+diamante oeste;PR;34;30;0
+sao jose espinharas;PB;34;27;0
+periquito;MG;34;31;0
+bodo;RN;34;29;0
+ribeirao largo;BA;34;32;0
+ventania;PR;34;30;0
+ubirajara;SP;34;30;0
+antonio almeida;PI;34;33;0
+monte belo sul;RS;34;29;0
+marcos parente;PI;34;29;0
+mirassolandia;SP;34;32;0
+ibiai;MG;34;33;0
+araujos;MG;34;32;0
+sao tomas aquino;MG;34;32;0
+monte gameleiras;RN;34;27;0
+maracacume;MA;34;32;0
+jenipapo vieiras;MA;34;29;0
+sarapui;SP;34;31;0
+sao pedro missoes;RS;34;30;0
+bela vista minas;MG;34;32;0
+turvelandia;GO;34;33;0
+alto paraguai;MT;34;33;0
+jordao;AC;34;33;0
+cajobi;SP;34;33;0
+itapura;SP;34;33;0
+jaramataia;AL;34;34;0
+caldazinha;GO;34;34;0
+chiador;MG;34;34;0
+ibiara;PB;34;34;0
+arapoema;TO;33;27;0
+jumirim;SP;33;25;0
+formosa serra negra;MA;33;26;0
+lajeado bugre;RS;33;24;0
+cafezal sul;PR;33;29;0
+mira estrela;SP;33;31;0
+sao pedro piaui;PI;33;29;0
+centro novo maranhao;MA;33;30;0
+santa salete;SP;33;25;0
+turilandia;MA;33;30;0
+logradouro;PB;33;27;0
+ouro velho;PB;33;29;0
+matutina;MG;33;27;0
+anitapolis;SC;33;29;0
+alianca tocantins;TO;33;29;0
+senhora oliveira;MG;33;30;0
+sucupira riachao;MA;33;30;0
+sao bras suacui;MG;33;30;0
+comendador gomes;MG;33;29;0
+bannach;PA;33;30;0
+caldeirao grande piaui;PI;33;30;0
+divinolandia minas;MG;33;31;0
+varjao;GO;33;29;0
+bela vista piaui;PI;33;28;0
+sao joao parauna;GO;33;32;0
+ingazeira;PE;33;29;0
+jucurucu;BA;33;31;0
+chaval;CE;33;32;0
+nova ramada;RS;33;31;0
+lajedinho;BA;33;30;0
+pai pedro;MG;33;32;0
+ponte alta norte;SC;33;33;0
+jabora;SC;32;28;0
+lagoa alegre;PI;32;28;0
+santa cruz goias;GO;32;24;0
+sao sebastiao tocantins;TO;32;27;0
+cerro negro;SC;32;27;0
+novo acordo;TO;32;29;0
+japira;PR;32;29;0
+americo campos;SP;32;29;0
+cariri tocantins;TO;32;30;0
+sao sebastiao vargem alegre;MG;32;29;0
+araguacema;TO;32;29;0
+sangao;SC;32;31;0
+araguacu;TO;32;31;0
+sao benedito rio preto;MA;32;25;0
+baliza;GO;32;29;0
+sao pedro ferros;MG;32;30;0
+antonio dias;MG;32;29;0
+sul brasil;SC;32;31;0
+leopoldo bulhoes;GO;32;28;0
+botuvera;SC;32;28;0
+pedra bela;SP;32;29;0
+caridade piaui;PI;32;31;0
+campestre goias;GO;32;30;0
+rifaina;SP;32;30;0
+princesa;SC;32;31;0
+nazario;GO;32;31;0
+nova padua;RS;32;32;0
+feira mata;BA;32;32;0
+sobralia;MG;31;10;0
+alvorada minas;MG;31;23;0
+morro pilar;MG;31;23;0
+doresopolis;MG;31;20;0
+senador alexandre costa;MA;31;22;0
+parecis;RO;31;27;0
+santo antonio leste;MT;31;25;0
+coroaci;MG;31;25;0
+igaratinga;MG;31;28;0
+mar vermelho;AL;31;26;0
+vermelho novo;MG;31;29;0
+bom lugar;MA;31;28;0
+fernando falcao;MA;31;27;0
+pedra bonita;MG;31;28;0
+paulo ramos;MA;31;27;0
+espirito santo dourado;MG;31;27;0
+fortaleza tabocao;TO;31;27;0
+neves paulista;SP;31;28;0
+nova candelaria;RS;31;28;0
+julio borges;PI;31;29;0
+lupionopolis;PR;31;30;0
+sao luiz norte;GO;31;30;0
+vale sao domingos;MT;31;29;0
+conceicao tocantins;TO;31;30;0
+nova america;GO;31;30;0
+montezuma;MG;31;25;0
+timbauba batistas;RN;31;30;0
+ribeirao corrente;SP;31;28;0
+fortaleza nogueiras;MA;31;30;0
+inimutaba;MG;31;29;0
+sao valentim sul;RS;31;28;0
+alvares florence;SP;31;26;0
+divinopolis tocantins;TO;31;30;0
+brejo alegre;SP;31;27;0
+paranaiguara;GO;31;30;0
+marema;SC;31;28;0
+machacalis;MG;31;30;0
+santa rita minas;MG;31;31;0
+sao joao manhuacu;MG;31;31;0
+cuite mamanguape;PB;31;31;0
+mathias lobato;MG;31;31;0
+lagoa salgada;RN;31;31;0
+peri mirim;MA;31;31;0
+rio conceicao;TO;31;31;0
+munhoz melo;PR;30;20;0
+coronel martins;SC;30;23;0
+vertente lerio;PE;30;24;0
+orizania;MG;30;27;0
+desterro melo;MG;30;23;0
+palmopolis;MG;30;25;0
+governador eugenio barros;MA;30;21;0
+uirapuru;GO;30;25;0
+matos costa;SC;30;26;0
+santo expedito sul;RS;30;26;0
+agua comprida;MG;30;26;0
+juazeiro piaui;PI;30;27;0
+telha;SE;30;25;0
+mariana pimentel;RS;30;26;0
+aracitaba;MG;30;26;0
+nova independencia;SP;30;27;0
+barra chapeu;SP;30;26;0
+veredinha;MG;30;26;0
+cristiano otoni;MG;30;27;0
+francinopolis;PI;30;28;0
+alto rio novo;ES;30;28;0
+sebastiao barros;PI;30;26;0
+corumbiara;RO;30;25;0
+ouro verde goias;GO;30;28;0
+patrocinio muriae;MG;30;27;0
+acorizal;MT;30;28;0
+sao joao caiua;PR;30;29;0
+tupanci sul;RS;30;29;0
+rodeiro;MG;30;30;0
+galinhos;RN;29;21;0
+paraiso aguas;MS;29;22;0
+lajeado novo;MA;29;21;0
+berizal;MG;29;24;0
+icarai minas;MG;29;24;0
+casa grande;MG;29;26;0
+conceicao pedras;MG;29;26;0
+cacimbas;PB;29;26;0
+pedro laurentino;PI;29;21;0
+porto walter;AC;29;24;0
+cachoeira grande;MA;29;26;0
+aspasia;SP;29;24;0
+caranaiba;MG;29;27;0
+bento fernandes;RN;29;24;0
+alvaro carvalho;SP;29;25;0
+bertopolis;MG;29;25;0
+palmeirais;PI;29;28;0
+tabuleiro;MG;29;28;0
+vargeao;SC;29;28;0
+alfredo marcondes;SP;29;28;0
+ouro verde minas;MG;29;27;0
+domingos mourao;PI;29;28;0
+ipigua;SP;29;28;0
+santana itarare;PR;29;28;0
+relvado;RS;29;28;0
+luis antonio;SP;29;29;0
+crucilandia;MG;29;29;0
+senador sa;CE;29;29;0
+nova redencao;BA;29;29;0
+gameleira goias;GO;29;29;0
+queiroz;SP;29;29;0
+afonso cunha;MA;28;24;0
+cabeceira grande;MG;28;24;0
+alto jequitiba;MG;28;19;0
+tocos moji;MG;28;24;0
+sao jose bonfim;PB;28;22;0
+tesouro;MT;28;17;0
+alto bela vista;SC;28;26;0
+pinto bandeira;RS;28;23;0
+conceicao lago acu;MA;28;23;0
+patis;MG;28;24;0
+santa rita pardo;MS;28;27;0
+pirapora bom jesus;SP;28;25;0
+benjamin constant sul;RS;28;26;0
+nova america colina;PR;28;26;0
+piloezinhos;PB;28;26;0
+governador archer;MA;28;26;0
+dores turvo;MG;28;23;0
+sardoa;MG;28;25;0
+betania piaui;PI;28;27;0
+careacu;MG;28;27;0
+guaranta;SP;28;27;0
+brejo piaui;PI;28;27;0
+coroados;SP;28;26;0
+cana verde;MG;28;28;0
+agua doce norte;ES;28;28;0
+bom jesus araguaia;MT;28;28;0
+piracema;MG;28;28;0
+gouvelandia;GO;27;18;0
+ilha flores;SE;27;19;0
+capitao gervasio oliveira;PI;27;20;0
+nova nazare;MT;27;21;0
+jerumenha;PI;27;21;0
+nova olinda maranhao;MA;27;21;0
+dirceu arcoverde;PI;27;18;0
+calumbi;PE;27;21;0
+onca pitangui;MG;27;23;0
+angulo;PR;27;25;0
+vespasiano correa;RS;27;23;0
+eugenio castro;RS;27;24;0
+santana ponte pensa;SP;27;23;0
+campos lindos;TO;27;25;0
+tres forquilhas;RS;27;25;0
+sao joao itaperiu;SC;27;25;0
+sao jose ramos;PB;27;24;0
+sao joao arraial;PI;27;25;0
+agua limpa;GO;27;24;0
+campo largo piaui;PI;27;25;0
+soledade minas;MG;27;24;0
+silveiras;SP;27;26;0
+sao sebastiao alto;RJ;27;25;0
+ubiretama;RS;27;25;0
+mortugaba;BA;27;25;0
+sao francisco maranhao;MA;27;24;0
+tres fronteiras;SP;27;25;0
+jacuipe;AL;27;25;0
+crisolita;MG;27;26;0
+darcinopolis;TO;27;26;0
+montalvania;MG;27;24;0
+minduri;MG;27;25;0
+manari;PE;27;26;0
+apiacas;MT;27;25;0
+jacinto;MG;27;24;0
+santana montes;MG;27;24;0
+marmelopolis;MG;27;26;0
+jose boiteux;SC;27;26;0
+cachoeira alta;GO;27;26;0
+lourdes;SP;27;26;0
+tabocas brejo velho;BA;27;26;0
+paulistania;SP;27;27;0
+conselheiro mairinck;PR;27;27;0
+itagimirim;BA;27;27;0
+sao goncalo gurgueia;PI;27;27;0
+indaiabira;MG;27;27;0
+sao bento abade;MG;27;27;0
+flora rica;SP;27;27;0
+sao bento norte;RN;26;20;0
+ariranha ivai;PR;26;19;0
+sao jose herval;RS;26;22;0
+sao jose alegre;MG;26;21;0
+barra rio azul;RS;26;23;0
+santa rosa serra;MG;26;21;0
+novo brasil;GO;26;24;0
+queimada nova;PI;26;24;0
+sao joao canabrava;PI;26;23;0
+corumbatai sul;PR;26;24;0
+augusto lima;MG;26;23;0
+urucurituba;AM;26;24;0
+cocalinho;MT;26;25;0
+lavrinhas;SP;26;25;0
+itauna sul;PR;26;25;0
+vicentinopolis;GO;26;24;0
+iapu;MG;26;25;0
+imbe minas;MG;26;25;0
+itobi;SP;26;25;0
+ibirapua;BA;26;23;0
+santo antonio alegria;SP;26;26;0
+biquinhas;MG;26;26;0
+belo monte;AL;25;20;0
+santa barbara monte verde;MG;25;18;0
+campo limpo goias;GO;25;22;0
+pocrane;MG;25;21;0
+rio bom;PR;25;23;0
+lucianopolis;SP;25;23;0
+catarina;CE;25;22;0
+novorizonte;MG;25;22;0
+sao jose goiabal;MG;25;22;0
+carmolandia;TO;25;24;0
+durande;MG;25;24;0
+rio indios;RS;25;23;0
+guarda mor;MG;25;24;0
+satubinha;MA;25;23;0
+nova brescia;RS;25;22;0
+corrego bom jesus;MG;25;22;0
+francisco ayres;PI;25;23;0
+cacimba areia;PB;25;24;0
+lago verde;MA;25;23;0
+braunas;MG;25;22;0
+jardim angicos;RN;25;21;0
+iaciara;GO;25;23;0
+bacuri;MA;25;24;0
+silveirania;MG;25;23;0
+guarei;SP;25;23;0
+santa fe araguaia;TO;25;24;0
+santo antonio barra;GO;25;23;0
+doverlandia;GO;25;24;0
+aurora tocantins;TO;25;23;0
+miraima;CE;25;24;0
+coronel pilar;RS;25;24;0
+mamonas;MG;25;24;0
+luislandia;MG;25;24;0
+vitor meireles;SC;25;24;0
+esperanca sul;RS;25;24;0
+bernardo sayao;TO;25;25;0
+bernardo mearim;MA;25;25;0
+sebastiao leal;PI;25;25;0
+alvarenga;MG;25;25;0
+lagoa pedras;RN;25;25;0
+caicara rio vento;RN;24;17;0
+sao romao;MG;24;14;0
+guaribas;PI;24;20;0
+campos novos paulista;SP;24;21;0
+sao joao serra;PI;24;22;0
+nova alianca ivai;PR;24;22;0
+canutama;AM;24;22;0
+caiana;MG;24;22;0
+morro chapeu piaui;PI;24;19;0
+queluzito;MG;24;22;0
+brunopolis;SC;24;21;0
+sao joao caru;MA;24;22;0
+piquerobi;SP;24;22;0
+lago rodrigues;MA;24;21;0
+cajari;MA;24;22;0
+santa helena minas;MG;24;21;0
+arantina;MG;24;22;0
+faria lemos;MG;24;22;0
+uniflor;PR;24;22;0
+vereda;BA;24;22;0
+jaboti;PR;24;22;0
+maraial;PE;24;23;0
+pescaria brava;SC;24;23;0
+sao luis piaui;PI;24;20;0
+passagem franca;MA;24;23;0
+crominia;GO;24;23;0
+lagoa velhos;RN;24;23;0
+frei inocencio;MG;24;23;0
+cruzeiro fortaleza;MG;24;23;0
+riversul;SP;24;24;0
+pavao;MG;24;24;0
+rio grande piaui;PI;24;24;0
+centro guilherme;MA;24;24;0
+edealina;GO;24;24;0
+oliveira brejinhos;BA;24;24;0
+macaubal;SP;23;19;0
+cachoeira pajeu;MG;23;16;0
+zacarias;SP;23;14;0
+ermo;SC;23;20;0
+rio branco ivai;PR;23;21;0
+seritinga;MG;23;20;0
+itabi;SE;23;21;0
+pindoba;AL;23;22;0
+sao goncalo piaui;PI;23;21;0
+fernao;SP;23;22;0
+senador amaral;MG;23;21;0
+barro duro;PI;23;22;0
+ataleia;MG;23;21;0
+adelandia;GO;23;22;0
+pequeri;MG;23;22;0
+santa rita ibitipoca;MG;23;21;0
+novo horizonte sul;MS;23;22;0
+mendes pimentel;MG;23;20;0
+senhora lourdes;SE;23;22;0
+talisma;TO;23;22;0
+rio prado;MG;23;21;0
+santopolis aguapei;SP;23;22;0
+boa vista sul;RS;23;23;0
+muribeca;SE;23;23;0
+flores piaui;PI;23;23;0
+marata;RS;23;23;0
+nova santa barbara;PR;23;23;0
+bandeira;MG;23;23;0
+senador georgino avelino;RN;23;23;0
+vargem grande rio pardo;MG;22;16;0
+lamim;MG;22;16;0
+lagoa patos;MG;22;19;0
+fernandes tourinho;MG;22;17;0
+tejupa;SP;22;18;0
+vieiras;MG;22;20;0
+santa efigenia minas;MG;22;20;0
+ararenda;CE;22;18;0
+cabeceiras piaui;PI;22;18;0
+sao joao oriente;MG;22;21;0
+serio;RS;22;17;0
+petrolina goias;GO;22;21;0
+santana garambeu;MG;22;21;0
+canhoba;SE;22;19;0
+santa cruz salinas;MG;22;21;0
+inaciolandia;GO;22;21;0
+carvalhos;MG;22;19;0
+nova rosalandia;TO;22;18;0
+fortuna minas;MG;22;20;0
+estrela indaia;MG;22;21;0
+novo oriente piaui;PI;22;20;0
+pequi;MG;22;19;0
+santa rita tocantins;TO;22;21;0
+poloni;SP;22;21;0
+boa vista gurupi;MA;22;21;0
+catuti;MG;22;21;0
+sao miguel boa vista;SC;22;22;0
+dom bosco;MG;22;22;0
+zortea;SC;22;22;0
+palmeiras tocantins;TO;22;22;0
+vale anari;RO;22;22;0
+sao jose bela vista;SP;22;22;0
+conceicao barra minas;MG;22;22;0
+sao luis gonzaga maranhao;MA;22;22;0
+marapoama;SP;21;17;0
+guabiju;RS;21;19;0
+buriti goias;GO;21;18;0
+santa luzia oeste;RO;21;16;0
+padre carvalho;MG;21;18;0
+pratinha;MG;21;17;0
+paineiras;MG;21;18;0
+capitao andrade;MG;21;17;0
+rubelita;MG;21;18;0
+arco iris;SP;21;16;0
+catas altas noruega;MG;21;19;0
+varre sai;RJ;21;19;0
+santa terezinha progresso;SC;21;20;0
+governador newton bello;MA;21;20;0
+benedito leite;MA;21;20;0
+doutor ulysses;PR;21;17;0
+timburi;SP;21;19;0
+rochedo minas;MG;21;19;0
+bonfinopolis minas;MG;21;19;0
+bocaina minas;MG;21;20;0
+conceicao caninde;PI;21;20;0
+joao ramalho;SP;21;20;0
+miguel leao;PI;21;20;0
+nova crixas;GO;21;21;0
+rio manso;MG;21;21;0
+trombas;GO;21;21;0
+gastao vidigal;SP;21;21;0
+presidente castello branco;SC;20;15;0
+caicara norte;RN;20;15;0
+acucena;MG;20;15;0
+santa cruz xingu;MT;20;15;0
+sao sebastiao rio verde;MG;20;17;0
+sao francisco sales;MG;20;17;0
+turiuba;SP;20;17;0
+gabriel monteiro;SP;20;19;0
+sao jose jacuri;MG;20;19;0
+amaralina;GO;20;18;0
+dom joaquim;MG;20;18;0
+campo azul;MG;20;19;0
+aroeiras itaim;PI;20;17;0
+damolandia;GO;20;19;0
+botumirim;MG;20;18;0
+bom jesus oeste;SC;20;19;0
+major gercino;SC;20;19;0
+catolandia;BA;20;19;0
+luisburgo;MG;20;19;0
+uniao sul;MT;20;19;0
+nova canaa paulista;SP;20;19;0
+cristalia;MG;20;19;0
+sao jose caiana;PB;20;20;0
+dom inocencio;PI;20;20;0
+godofredo viana;MA;20;20;0
+uru;SP;20;20;0
+jeriquara;SP;20;20;0
+malhada bois;SE;20;20;0
+agricolandia;PI;20;20;0
+sao francisco goias;GO;19;13;0
+lagoa piaui;PI;19;15;0
+santa rita itueto;MG;19;12;0
+bandeira sul;MG;19;15;0
+sabino;SP;19;16;0
+montividiu norte;GO;19;12;0
+materlandia;MG;19;15;0
+tabai;RS;19;15;0
+luzinopolis;TO;19;17;0
+nova alianca;SP;19;16;0
+vila propicio;GO;19;16;0
+piraque;TO;19;17;0
+serra nova dourada;MT;19;14;0
+pracinha;SP;19;18;0
+ibicare;SC;19;18;0
+ponte alta bom jesus;TO;19;16;0
+ares;RN;19;18;0
+bom jesus goias;GO;19;17;0
+caturama;BA;19;18;0
+godoy moreira;PR;19;18;0
+rio sono;TO;19;18;0
+jampruca;MG;19;18;0
+bacurituba;MA;19;18;0
+itaverava;MG;19;18;0
+chapada natividade;TO;19;18;0
+piedade ponte nova;MG;19;18;0
+rio pires;BA;19;19;0
+sulina;PR;19;19;0
+lagoa mato;MA;19;19;0
+ferros;MG;19;19;0
+timbe sul;SC;19;19;0
+perola oeste;PR;19;19;0
+leoberto leal;SC;19;19;0
+sao sebastiao umbuzeiro;PB;19;19;0
+itaueira;PI;19;19;0
+bertolinia;PI;18;14;0
+colinas sul;GO;18;15;0
+canavieira;PI;18;15;0
+santa cecilia pavao;PR;18;15;0
+manoel urbano;AC;18;16;0
+sao pedro crentes;MA;18;13;0
+buriti tocantins;TO;18;16;0
+ibiam;SC;18;17;0
+turvolandia;MG;18;16;0
+cutias;AP;18;17;0
+buritirama;BA;18;17;0
+indiapora;SP;18;16;0
+monte formoso;MG;18;17;0
+riachao poco;PB;18;17;0
+taiacu;SP;18;17;0
+ponto chique;MG;18;17;0
+leandro ferreira;MG;18;17;0
+fernando prestes;SP;18;17;0
+coivaras;PI;18;17;0
+dias avila;BA;18;17;0
+sucupira norte;MA;18;17;0
+santana jacare;MG;18;17;0
+ipiacu;MG;18;17;0
+paial;SC;18;18;0
+belagua;MA;18;18;0
+floreal;SP;18;18;0
+marumbi;PR;18;18;0
+rio bois;TO;18;18;0
+bela vista maranhao;MA;18;18;0
+prata piaui;PI;17;15;0
+curral dentro;MG;17;14;0
+santa barbara tugurio;MG;17;15;0
+santo antonio jacinto;MG;17;16;0
+senador cortes;MG;17;15;0
+josenopolis;MG;17;14;0
+ubarana;SP;17;16;0
+japi;RN;17;16;0
+lagoa grande maranhao;MA;17;15;0
+santa cruz esperanca;SP;17;15;0
+sao pedro suacui;MG;17;16;0
+brejo areia;MA;17;16;0
+igaracy;PB;17;15;0
+uniao serra;RS;17;15;0
+santo amaro maranhao;MA;17;16;0
+campinacu;GO;17;15;0
+guzolandia;SP;17;15;0
+itapirapua paulista;SP;17;16;0
+santo expedito;SP;17;16;0
+campinas piaui;PI;17;16;0
+gameleiras;MG;17;16;0
+sao patricio;GO;17;17;0
+peritiba;SC;17;17;0
+central maranhao;MA;17;17;0
+sao pedro parana;PR;17;17;0
+mirim doce;SC;17;17;0
+hidrolina;GO;17;17;0
+quadra;SP;17;17;0
+mutunopolis;GO;17;17;0
+castelandia;GO;17;17;0
+porto alegre piaui;PI;17;17;0
+cunhatai;SC;17;17;0
+tanque piaui;PI;16;12;0
+madeiro;PI;16;13;0
+ponte branca;MT;16;13;0
+nova belem;MG;16;12;0
+sao miguel baixa grande;PI;16;14;0
+sao felix tocantins;TO;16;14;0
+pilar goias;GO;16;13;0
+curralinhos;PI;16;15;0
+aroazes;PI;16;13;0
+cumaru norte;PA;16;15;0
+ribeirao indios;SP;16;13;0
+pedrinopolis;MG;16;15;0
+taquaracu minas;MG;16;15;0
+mombuca;SP;16;14;0
+sao bernardino;SC;16;13;0
+santana deserto;MG;16;15;0
+murutinga sul;SP;16;15;0
+doutor pedrinho;SC;16;13;0
+sao miguel fidalgo;PI;16;15;0
+santa maria suacui;MG;16;15;0
+carrasco bonito;TO;16;15;0
+engenheiro caldas;MG;16;16;0
+bento abreu;SP;16;16;0
+estrela oeste;SP;16;16;0
+divisa alegre;MG;16;16;0
+pajeu piaui;PI;16;16;0
+assuncao piaui;PI;16;16;0
+moncoes;SP;16;16;0
+lajeado grande;SC;16;16;0
+santiago sul;SC;16;16;0
+chale;MG;16;16;0
+sao roberto;MA;16;16;0
+uruana minas;MG;16;16;0
+general maynard;SE;16;16;0
+candido rodrigues;SP;16;16;0
+nova maringa;MT;16;16;0
+novo itacolomi;PR;15;13;0
+vila flor;RN;15;14;0
+juvenilia;MG;15;14;0
+jacobina piaui;PI;15;14;0
+cipotanea;MG;15;13;0
+fronteira vales;MG;15;13;0
+consolacao;MG;15;13;0
+palmeirante;TO;15;11;0
+emilianopolis;SP;15;13;0
+sao sebastiao anta;MG;15;14;0
+areia baraunas;PB;15;14;0
+wall ferraz;PI;15;14;0
+embauba;SP;15;14;0
+serrano maranhao;MA;15;14;0
+serra azul minas;MG;15;14;0
+santa fe minas;MG;15;14;0
+presidente nereu;SC;15;15;0
+aricanduva;MG;15;15;0
+itabirinha;MG;15;15;0
+maraja sena;MA;15;15;0
+avelino lopes;PI;15;15;0
+sao jose sul;RS;15;15;0
+sao pedro agua branca;MA;15;15;0
+ninheira;MG;15;15;0
+marilac;MG;15;15;0
+cumari;GO;15;15;0
+angelandia;MG;14;10;0
+milton brandao;PI;14;12;0
+sao joao alianca;GO;14;13;0
+novo jardim;TO;14;12;0
+mansidao;BA;14;12;0
+caraubas piaui;PI;14;13;0
+peixe boi;PA;14;11;0
+cassia coqueiros;SP;14;13;0
+capao bonito sul;RS;14;13;0
+nacip raydan;MG;14;11;0
+nova luzitania;SP;14;12;0
+canudos vale;RS;14;13;0
+belem piaui;PI;14;13;0
+altamira parana;PR;14;12;0
+sao jose varginha;MG;14;13;0
+jardim mulato;PI;14;13;0
+ribeiro goncalves;PI;14;13;0
+dolcinopolis;SP;14;13;0
+aguiar;PB;14;14;0
+montauri;RS;14;14;0
+angico;TO;14;14;0
+sao domingos azeitao;MA;14;14;0
+coronel macedo;SP;14;14;0
+sao felipe oeste;RO;14;14;0
+joanesia;MG;14;14;0
+pontalinda;SP;14;14;0
+santa rosa purus;AC;14;14;0
+porteirao;GO;14;14;0
+cristianopolis;GO;14;14;0
+matias olimpio;PI;14;14;0
+itanhanga;MT;14;14;0
+sebastianopolis sul;SP;14;14;0
+goiatins;TO;14;14;0
+divino laranjeiras;MG;14;14;0
+ribeira piaui;PI;14;14;0
+riacho santo antonio;PB;14;14;0
+damianopolis;GO;13;8;0
+jesuania;MG;13;10;0
+vila boa;GO;13;11;0
+nova roma;GO;13;11;0
+altair;SP;13;11;0
+brejolandia;BA;13;12;0
+bom sucesso itarare;SP;13;11;0
+bom jesus amparo;MG;13;12;0
+sales;SP;13;11;0
+santo inacio piaui;PI;13;12;0
+salmourao;SP;13;12;0
+agua doce maranhao;MA;13;11;0
+itaporanga ajuda;SE;13;12;0
+pracuuba;AP;13;12;0
+rochedo;MS;13;13;0
+barao monte alto;MG;13;13;0
+morpara;BA;13;13;0
+sao braz piaui;PI;13;13;0
+paranapoema;PR;13;13;0
+sao domingos cariri;PB;13;13;0
+rianapolis;GO;13;13;0
+sao jose basilios;MA;13;13;0
+santana manhuacu;MG;13;13;0
+carlos gomes;RS;13;13;0
+sao sebastiao rio preto;MG;12;10;0
+central minas;MG;12;9;0
+gracho cardoso;SE;12;10;0
+barao antonina;SP;12;11;0
+tufilandia;MA;12;10;0
+senador jose bento;MG;12;9;0
+pindorama tocantins;TO;12;11;0
+sao sebastiao maranhao;MG;12;11;0
+balbinos;SP;12;11;0
+aguanil;MG;12;11;0
+feliz deserto;AL;12;11;0
+cordislandia;MG;12;12;0
+pedro teixeira;MG;12;12;0
+cedro abaete;MG;12;12;0
+santa fe goias;GO;12;12;0
+monjolos;MG;12;12;0
+sao salvador tocantins;TO;12;12;0
+oliveira fortes;MG;12;12;0
+passagem franca piaui;PI;12;12;0
+alambari;SP;12;12;0
+pontes gestal;SP;12;12;0
+curral velho;PB;12;12;0
+corrego novo;MG;12;12;0
+jose goncalves minas;MG;12;12;0
+jaguaracu;MG;12;12;0
+novais;SP;12;12;0
+apicum acu;MA;11;8;0
+marianopolis tocantins;TO;11;9;0
+avelinopolis;GO;11;10;0
+sao raimundo doca bezerra;MA;11;10;0
+vitoria brasil;SP;11;10;0
+altamira maranhao;MA;11;10;0
+santo antonio rio abaixo;MG;11;10;0
+aracai;MG;11;10;0
+agua fria goias;GO;11;9;0
+dom vicoso;MG;11;10;0
+itaipava grajau;MA;11;10;0
+uniao paulista;SP;11;10;0
+brasilandia tocantins;TO;11;10;0
+setubinha;MG;11;11;0
+sao joao duas pontes;SP;11;11;0
+sao bento tocantins;TO;11;11;0
+coqueiro baixo;RS;11;11;0
+jau tocantins;TO;11;11;0
+lagoa barro piaui;PI;11;11;0
+dores guanhaes;MG;11;11;0
+prado ferreira;PR;11;11;0
+itapiratins;TO;11;11;0
+irapua;SP;11;11;0
+joao costa;PI;11;11;0
+albertina;MG;11;11;0
+sao joao iracema;SP;11;11;0
+sao geraldo piedade;MG;11;11;0
+governador sept rosado;RN;11;11;0
+itaguatins;TO;11;11;0
+milagres maranhao;MA;10;9;0
+fruta leite;MG;10;8;0
+fartura piaui;PI;10;9;0
+sao geraldo baixio;MG;10;9;0
+abreulandia;TO;10;9;0
+sao jose safira;MG;10;9;0
+munhoz;MG;10;8;0
+piedade gerais;MG;10;9;0
+ibiracatu;MG;10;9;0
+campos verdes;GO;10;9;0
+ipiranga goias;GO;10;9;0
+marzagao;GO;10;9;0
+santa tereza tocantins;TO;10;10;0
+santana mangueira;PB;10;10;0
+junco maranhao;MA;10;10;0
+catigua;SP;10;10;0
+sao felix minas;MG;10;10;0
+santa tereza goias;GO;10;10;0
+mesopolis;SP;10;10;0
+franciscopolis;MG;10;10;0
+oleo;SP;10;10;0
+sao joao manteninha;MG;10;10;0
+sao francisco assis piaui;PI;10;10;0
+curral novo piaui;PI;10;10;0
+julio mesquita;SP;10;10;0
+novo planalto;GO;10;10;0
+olinda nova maranhao;MA;10;10;0
+planalto serra;MT;10;10;0
+lagoinha piaui;PI;10;10;0
+goianorte;TO;10;10;0
+rubiacea;SP;9;7;0
+itapora tocantins;TO;9;7;0
+naque;MG;9;8;0
+pugmil;TO;9;6;0
+aloandia;GO;9;8;0
+gloria oeste;MT;9;7;0
+recursolandia;TO;9;8;0
+ubai;MG;9;8;0
+campo alegre fidalgo;PI;9;8;0
+elisiario;SP;9;9;0
+itapuca;RS;9;9;0
+jesupolis;GO;9;9;0
+serranos;MG;9;9;0
+camacho;MG;9;9;0
+passabem;MG;9;9;0
+santa rosa goias;GO;9;9;0
+aguiarnopolis;TO;9;9;0
+chapada areia;TO;9;9;0
+arapei;SP;9;9;0
+amparo serra;MG;8;6;0
+lagoa tocantins;TO;8;6;0
+bonopolis;GO;8;6;0
+paulistas;MG;8;7;0
+tupirama;TO;8;8;0
+santa terezinha tocantins;TO;8;8;0
+pedra indaia;MG;8;8;0
+pongai;SP;8;8;0
+guarani oeste;SP;8;8;0
+dirce reis;SP;8;8;0
+santo hipolito;MG;8;8;0
+estrela dalva;MG;8;8;0
+barra ouro;TO;8;8;0
+campanario;MG;8;8;0
+bora;SP;8;8;0
+corrego danta;MG;8;8;0
+maurilandia tocantins;TO;8;8;0
+coluna;MG;8;8;0
+amapa maranhao;MA;8;8;0
+nova modica;MG;8;8;0
+sarutaia;SP;8;8;0
+dois irmaos tocantins;TO;7;6;0
+esperanca nova;PR;7;6;0
+miravania;MG;7;7;0
+senhora porto;MG;7;7;0
+nova castilho;SP;7;7;0
+amparo sao francisco;SE;7;7;0
+pescador;MG;7;7;0
+joca marques;PI;7;7;0
+santa rita novo destino;GO;7;7;0
+barreiras piaui;PI;7;7;0
+figueirao;MS;7;7;0
+sao jose mantimento;MG;7;7;0
+goiabeira;MG;7;7;0
+hugo napoleao;PI;7;7;0
+santo antonio paraiso;PR;7;7;0
+santa cruz milagres;PI;7;7;0
+guarinos;GO;7;7;0
+bugre;MG;7;7;0
+adolfo;SP;6;3;0
+itambe mato dentro;MG;6;5;0
+frei lagonegro;MG;6;5;0
+santa maria salto;MG;6;5;0
+tamboril piaui;PI;6;5;0
+santa rita oeste;SP;6;5;0
+umburatiba;MG;6;6;0
+desterro rios;MG;6;6;0
+simolandia;GO;6;6;0
+miraselva;PR;6;6;0
+oliveira fatima;TO;6;6;0
+ibitiura minas;MG;6;6;0
+rancho alegre oeste;PR;6;6;0
+sandolandia;TO;6;6;0
+sambaiba;MA;6;6;0
+chapadao lageado;SC;6;6;0
+jose raydan;MG;6;6;0
+divinopolis goias;GO;6;6;0
+taparuba;MG;6;6;0
+crixas tocantins;TO;6;6;0
+palmeira oeste;SP;6;6;0
+torre pedra;SP;6;6;0
+governador luiz rocha;MA;6;6;0
+augusto severo;RN;6;6;0
+sao felix balsas;MA;5;3;0
+porto rico maranhao;MA;5;5;0
+buritinopolis;GO;5;5;0
+feira nova maranhao;MA;5;5;0
+floresta piaui;PI;5;5;0
+juarina;TO;5;5;0
+olimpio noronha;MG;5;5;0
+xangri la;RS;5;5;0
+bandeirantes tocantins;TO;5;5;0
+lizarda;TO;5;5;0
+guarani goias;GO;5;5;0
+bonfim piaui;PI;5;5;0
+pau arco;PA;4;4;1
+pau arco;TO;4;4;1
+mairipotaba;GO;4;4;0
+dona eusebia;MG;4;4;0
+mimoso goias;GO;4;4;0
+santa filomena maranhao;MA;4;4;0
+lagoa anta;RN;4;4;0
+nipoa;SP;4;4;0
+araguainha;MT;4;4;0
+mae agua;PB;4;4;0
+olho agua borges;RN;4;4;0
+monte santo tocantins;TO;4;4;0
+sucupira;TO;3;2;0
+luis domingues;MA;3;3;0
+trabiju;SP;3;3;0
+salto itarare;PR;3;3;0
+morro cabeca tempo;PI;3;3;0
+serra saudade;MG;3;3;0
+olho agua flores;AL;3;3;0
+nova iguacu goias;GO;3;3;0
+pavussu;PI;2;1;0
+quartel geral;MG;2;2;0
+santo antonio milagres;PI;2;2;0
+aparecida oeste;SP;2;2;0
+florinia;SP;2;2;0
+taipas tocantins;TO;2;2;0
+figueiropolis oeste;MT;2;2;0
+tupiratins;TO;2;2;0
+santa clara oeste;SP;2;2;0
+santa maria tocantins;TO;1;1;0
+olho agua;PB;1;1;0
+conquista oeste;MT;1;1;0
+barra alcantara;PI;1;1;0
+olho agua grande;AL;1;1;0
+tanque arca;AL;1;1;0
+lambari oeste;MT;1;1;0
+olhos agua;MG;1;1;0
